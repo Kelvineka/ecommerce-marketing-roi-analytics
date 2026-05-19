@@ -1,0 +1,1501 @@
+customer_id,signup_date,acquisition_channel,segment,country,gender,age,device
+CUST00001,2023-04-24,Influencer,Mid-Range,France,Male,41,Tablet
+CUST00002,2022-05-31,Paid Social,Mid-Range,Nigeria,Male,55,Mobile
+CUST00003,2023-08-17,Organic Search,Premium,UAE,Female,65,Desktop
+CUST00004,2022-10-26,Referral,Mid-Range,Australia,Female,45,Desktop
+CUST00005,2022-02-26,Paid Social,Luxury,Australia,Female,50,Mobile
+CUST00006,2022-02-08,Direct,Budget,Germany,Female,23,Mobile
+CUST00007,2022-03-23,Paid Social,Budget,Germany,Female,25,Mobile
+CUST00008,2022-12-29,Direct,Luxury,Nigeria,Female,27,Desktop
+CUST00009,2022-11-25,Influencer,Mid-Range,USA,Male,61,Desktop
+CUST00010,2022-03-15,Paid Social,Mid-Range,Germany,Non-binary,36,Desktop
+CUST00011,2022-04-19,Influencer,Mid-Range,UK,Female,18,Mobile
+CUST00012,2022-08-01,Influencer,Luxury,UAE,Male,58,Mobile
+CUST00013,2022-10-28,Paid Social,Mid-Range,Germany,Female,39,Desktop
+CUST00014,2022-08-20,Paid Social,Budget,UK,Male,57,Mobile
+CUST00015,2022-12-25,Paid Social,Premium,UAE,Male,44,Tablet
+CUST00016,2022-06-03,Organic Search,Premium,France,Male,39,Tablet
+CUST00017,2022-01-30,Organic Search,Budget,USA,Male,47,Mobile
+CUST00018,2022-05-19,Email,Budget,UK,Female,63,Desktop
+CUST00019,2022-11-24,Direct,Mid-Range,Australia,Female,19,Mobile
+CUST00020,2022-04-12,Paid Social,Premium,Canada,Female,19,Desktop
+CUST00021,2022-09-04,Email,Budget,Canada,Female,59,Tablet
+CUST00022,2022-07-17,Organic Search,Premium,France,Female,25,Desktop
+CUST00023,2023-04-20,Paid Social,Premium,UK,Female,24,Mobile
+CUST00024,2022-01-10,Paid Social,Premium,Nigeria,Female,35,Mobile
+CUST00025,2023-02-21,Email,Mid-Range,USA,Female,19,Mobile
+CUST00026,2022-02-01,Email,Budget,Canada,Female,58,Desktop
+CUST00027,2022-06-11,Influencer,Mid-Range,Canada,Male,30,Mobile
+CUST00028,2023-01-21,Paid Social,Mid-Range,USA,Female,23,Desktop
+CUST00029,2022-05-28,Referral,Mid-Range,France,Female,50,Desktop
+CUST00030,2023-09-01,Organic Search,Budget,Australia,Female,29,Mobile
+CUST00031,2022-09-29,Paid Social,Mid-Range,USA,Female,56,Desktop
+CUST00032,2023-08-20,Email,Luxury,UK,Male,50,Tablet
+CUST00033,2022-08-31,Paid Social,Premium,Germany,Female,39,Desktop
+CUST00034,2023-04-11,Paid Social,Budget,Nigeria,Female,18,Tablet
+CUST00035,2022-10-12,Paid Social,Budget,Australia,Male,41,Desktop
+CUST00036,2022-03-31,Paid Social,Luxury,Germany,Female,45,Tablet
+CUST00037,2023-04-04,Organic Search,Mid-Range,Canada,Male,57,Mobile
+CUST00038,2023-09-24,Email,Mid-Range,USA,Male,53,Mobile
+CUST00039,2023-01-25,Direct,Budget,UK,Male,41,Desktop
+CUST00040,2022-09-28,Direct,Budget,Canada,Non-binary,25,Mobile
+CUST00041,2022-05-03,Email,Premium,Canada,Male,41,Mobile
+CUST00042,2023-02-16,Organic Search,Budget,Germany,Male,59,Desktop
+CUST00043,2022-12-03,Direct,Luxury,UAE,Male,18,Desktop
+CUST00044,2023-08-01,Organic Search,Premium,Germany,Male,35,Desktop
+CUST00045,2022-10-29,Email,Luxury,Australia,Male,24,Desktop
+CUST00046,2023-04-03,Referral,Luxury,UAE,Female,47,Mobile
+CUST00047,2023-07-21,Paid Social,Budget,UAE,Female,52,Desktop
+CUST00048,2022-01-12,Organic Search,Mid-Range,Germany,Female,21,Mobile
+CUST00049,2022-11-05,Paid Social,Premium,Nigeria,Male,64,Mobile
+CUST00050,2022-08-19,Paid Social,Budget,Canada,Male,42,Desktop
+CUST00051,2022-12-08,Referral,Premium,UAE,Male,50,Mobile
+CUST00052,2022-10-14,Paid Social,Mid-Range,Australia,Female,61,Mobile
+CUST00053,2023-06-21,Email,Mid-Range,Germany,Female,48,Mobile
+CUST00054,2022-01-07,Email,Budget,UAE,Male,19,Mobile
+CUST00055,2022-07-04,Paid Social,Mid-Range,Nigeria,Male,30,Tablet
+CUST00056,2022-01-02,Direct,Mid-Range,Canada,Male,32,Desktop
+CUST00057,2023-03-08,Referral,Premium,UK,Female,55,Mobile
+CUST00058,2022-12-26,Paid Social,Mid-Range,Canada,Female,27,Desktop
+CUST00059,2022-05-04,Paid Social,Mid-Range,France,Female,35,Mobile
+CUST00060,2023-08-19,Influencer,Mid-Range,UK,Male,28,Desktop
+CUST00061,2023-04-04,Direct,Mid-Range,USA,Male,23,Mobile
+CUST00062,2023-03-08,Paid Social,Luxury,UAE,Male,61,Mobile
+CUST00063,2023-06-27,Paid Social,Budget,Canada,Female,37,Mobile
+CUST00064,2022-09-10,Email,Luxury,Nigeria,Male,22,Desktop
+CUST00065,2022-02-22,Organic Search,Premium,UK,Male,30,Mobile
+CUST00066,2022-05-25,Influencer,Mid-Range,France,Male,57,Mobile
+CUST00067,2022-04-21,Influencer,Premium,Germany,Male,31,Mobile
+CUST00068,2022-03-10,Referral,Budget,Canada,Female,30,Mobile
+CUST00069,2023-02-01,Direct,Premium,UAE,Female,59,Mobile
+CUST00070,2022-11-11,Email,Budget,Germany,Female,64,Desktop
+CUST00071,2022-12-08,Paid Social,Mid-Range,Nigeria,Non-binary,41,Mobile
+CUST00072,2022-04-23,Paid Social,Premium,USA,Male,25,Desktop
+CUST00073,2022-09-20,Email,Mid-Range,UK,Female,49,Mobile
+CUST00074,2023-05-20,Influencer,Budget,UK,Female,24,Mobile
+CUST00075,2023-09-07,Email,Mid-Range,USA,Male,43,Desktop
+CUST00076,2022-01-17,Organic Search,Premium,Canada,Male,20,Mobile
+CUST00077,2023-02-02,Organic Search,Mid-Range,Australia,Male,28,Desktop
+CUST00078,2022-07-30,Influencer,Mid-Range,USA,Female,49,Mobile
+CUST00079,2023-09-22,Influencer,Mid-Range,Canada,Male,45,Mobile
+CUST00080,2022-03-02,Referral,Budget,Australia,Female,53,Tablet
+CUST00081,2022-03-08,Paid Social,Budget,Australia,Male,37,Desktop
+CUST00082,2023-06-30,Email,Premium,USA,Male,45,Mobile
+CUST00083,2023-05-05,Paid Social,Budget,Canada,Female,64,Desktop
+CUST00084,2023-08-23,Email,Budget,Germany,Female,43,Mobile
+CUST00085,2023-06-12,Organic Search,Mid-Range,Australia,Female,35,Desktop
+CUST00086,2022-08-29,Influencer,Budget,UAE,Female,55,Desktop
+CUST00087,2022-01-23,Paid Social,Mid-Range,USA,Female,38,Mobile
+CUST00088,2022-10-05,Influencer,Budget,Nigeria,Female,33,Mobile
+CUST00089,2022-11-11,Paid Social,Premium,Australia,Male,30,Desktop
+CUST00090,2023-01-09,Paid Social,Mid-Range,UK,Female,62,Desktop
+CUST00091,2022-02-17,Referral,Premium,France,Male,21,Mobile
+CUST00092,2022-09-01,Organic Search,Mid-Range,Canada,Male,35,Mobile
+CUST00093,2023-09-04,Paid Social,Luxury,Germany,Female,40,Mobile
+CUST00094,2022-10-15,Referral,Mid-Range,Australia,Male,30,Mobile
+CUST00095,2023-07-10,Organic Search,Premium,Germany,Female,49,Desktop
+CUST00096,2022-06-18,Organic Search,Luxury,France,Male,20,Mobile
+CUST00097,2022-05-13,Paid Social,Budget,Australia,Male,46,Desktop
+CUST00098,2023-08-01,Referral,Premium,Canada,Male,59,Mobile
+CUST00099,2023-07-09,Referral,Mid-Range,Germany,Male,30,Mobile
+CUST00100,2023-09-04,Paid Social,Mid-Range,UAE,Male,43,Mobile
+CUST00101,2023-07-11,Influencer,Luxury,UAE,Female,36,Mobile
+CUST00102,2023-03-04,Organic Search,Mid-Range,UAE,Male,31,Desktop
+CUST00103,2023-06-26,Organic Search,Mid-Range,Canada,Female,20,Tablet
+CUST00104,2022-08-23,Paid Social,Budget,Australia,Male,40,Desktop
+CUST00105,2023-02-14,Email,Budget,Canada,Male,23,Mobile
+CUST00106,2022-02-26,Email,Mid-Range,Australia,Male,20,Mobile
+CUST00107,2022-05-13,Paid Social,Luxury,UK,Male,63,Desktop
+CUST00108,2023-03-09,Influencer,Budget,Australia,Male,18,Desktop
+CUST00109,2023-04-24,Paid Social,Premium,Australia,Female,35,Mobile
+CUST00110,2023-03-13,Organic Search,Mid-Range,Germany,Female,36,Desktop
+CUST00111,2022-02-12,Organic Search,Budget,France,Male,65,Mobile
+CUST00112,2022-02-10,Direct,Mid-Range,Australia,Male,63,Tablet
+CUST00113,2022-06-17,Influencer,Mid-Range,UAE,Female,31,Tablet
+CUST00114,2022-10-21,Direct,Budget,UK,Male,26,Mobile
+CUST00115,2023-08-05,Referral,Premium,Nigeria,Male,28,Desktop
+CUST00116,2023-02-23,Direct,Mid-Range,UK,Female,41,Desktop
+CUST00117,2023-03-22,Email,Mid-Range,USA,Male,38,Desktop
+CUST00118,2023-03-12,Paid Social,Premium,Canada,Male,36,Mobile
+CUST00119,2022-10-11,Direct,Luxury,USA,Female,24,Desktop
+CUST00120,2023-07-10,Paid Social,Budget,Canada,Female,55,Desktop
+CUST00121,2022-12-19,Paid Social,Mid-Range,Canada,Male,48,Tablet
+CUST00122,2022-02-13,Direct,Mid-Range,Canada,Male,47,Mobile
+CUST00123,2022-07-08,Paid Social,Mid-Range,France,Female,44,Mobile
+CUST00124,2022-07-20,Paid Social,Budget,UAE,Female,35,Desktop
+CUST00125,2023-01-29,Paid Social,Mid-Range,USA,Male,45,Desktop
+CUST00126,2022-01-10,Organic Search,Budget,Germany,Non-binary,26,Mobile
+CUST00127,2023-01-26,Organic Search,Premium,Nigeria,Male,29,Mobile
+CUST00128,2023-03-02,Email,Budget,Nigeria,Male,45,Mobile
+CUST00129,2023-09-27,Referral,Premium,UK,Female,34,Mobile
+CUST00130,2022-06-12,Organic Search,Budget,UK,Non-binary,18,Desktop
+CUST00131,2023-09-22,Email,Mid-Range,Australia,Male,57,Mobile
+CUST00132,2022-09-06,Direct,Mid-Range,France,Female,57,Tablet
+CUST00133,2023-06-10,Email,Budget,UAE,Male,43,Desktop
+CUST00134,2022-04-25,Organic Search,Mid-Range,Nigeria,Male,43,Mobile
+CUST00135,2023-02-02,Paid Social,Premium,UAE,Female,45,Mobile
+CUST00136,2022-05-31,Paid Social,Budget,Australia,Male,54,Mobile
+CUST00137,2023-01-22,Paid Social,Premium,Australia,Female,61,Mobile
+CUST00138,2022-06-21,Direct,Premium,France,Female,56,Desktop
+CUST00139,2023-08-02,Direct,Budget,USA,Female,23,Desktop
+CUST00140,2023-06-04,Referral,Mid-Range,Canada,Male,21,Mobile
+CUST00141,2022-09-29,Paid Social,Mid-Range,Australia,Male,47,Mobile
+CUST00142,2022-09-07,Referral,Budget,France,Male,51,Mobile
+CUST00143,2022-07-25,Paid Social,Mid-Range,Canada,Male,45,Desktop
+CUST00144,2023-01-11,Paid Social,Budget,Australia,Male,22,Desktop
+CUST00145,2023-09-21,Email,Budget,Australia,Non-binary,23,Mobile
+CUST00146,2022-06-30,Email,Mid-Range,France,Male,30,Desktop
+CUST00147,2023-09-12,Organic Search,Premium,France,Male,21,Tablet
+CUST00148,2022-01-29,Direct,Budget,Nigeria,Female,38,Desktop
+CUST00149,2023-05-08,Referral,Mid-Range,USA,Female,57,Tablet
+CUST00150,2023-01-26,Paid Social,Budget,Canada,Male,20,Mobile
+CUST00151,2023-06-03,Referral,Mid-Range,UAE,Female,57,Mobile
+CUST00152,2022-04-08,Paid Social,Budget,UK,Male,54,Mobile
+CUST00153,2022-04-03,Direct,Premium,UAE,Male,22,Mobile
+CUST00154,2022-04-24,Email,Premium,Canada,Female,49,Desktop
+CUST00155,2022-02-15,Organic Search,Luxury,UAE,Male,53,Mobile
+CUST00156,2022-09-28,Referral,Mid-Range,USA,Female,46,Desktop
+CUST00157,2022-10-02,Organic Search,Luxury,Canada,Female,56,Desktop
+CUST00158,2022-07-03,Direct,Premium,Nigeria,Female,29,Mobile
+CUST00159,2022-01-08,Email,Budget,France,Male,58,Desktop
+CUST00160,2022-08-29,Organic Search,Premium,USA,Female,18,Mobile
+CUST00161,2023-01-10,Paid Social,Premium,Nigeria,Male,59,Desktop
+CUST00162,2022-11-11,Direct,Mid-Range,Nigeria,Male,22,Mobile
+CUST00163,2023-06-22,Email,Premium,UK,Male,29,Mobile
+CUST00164,2023-02-13,Direct,Mid-Range,UAE,Female,53,Mobile
+CUST00165,2022-02-04,Paid Social,Budget,Germany,Female,28,Mobile
+CUST00166,2023-07-03,Referral,Budget,Nigeria,Male,35,Desktop
+CUST00167,2023-04-05,Influencer,Budget,Canada,Female,51,Desktop
+CUST00168,2023-08-17,Paid Social,Mid-Range,France,Female,18,Desktop
+CUST00169,2022-05-19,Influencer,Mid-Range,USA,Female,59,Desktop
+CUST00170,2022-05-20,Influencer,Mid-Range,Australia,Female,57,Desktop
+CUST00171,2023-03-06,Email,Mid-Range,Australia,Female,64,Mobile
+CUST00172,2023-02-14,Direct,Budget,USA,Female,27,Desktop
+CUST00173,2023-02-23,Email,Premium,Canada,Male,21,Mobile
+CUST00174,2022-08-13,Paid Social,Mid-Range,UAE,Male,31,Desktop
+CUST00175,2023-06-16,Paid Social,Mid-Range,UK,Female,26,Mobile
+CUST00176,2022-02-08,Paid Social,Premium,USA,Male,36,Mobile
+CUST00177,2022-04-17,Influencer,Budget,Nigeria,Male,38,Mobile
+CUST00178,2023-07-20,Direct,Mid-Range,Australia,Female,57,Desktop
+CUST00179,2022-07-17,Paid Social,Premium,Australia,Female,54,Mobile
+CUST00180,2022-04-23,Email,Budget,Australia,Male,55,Mobile
+CUST00181,2022-06-20,Paid Social,Budget,Australia,Female,51,Mobile
+CUST00182,2023-07-20,Paid Social,Premium,France,Male,43,Mobile
+CUST00183,2022-05-11,Direct,Mid-Range,UK,Female,48,Desktop
+CUST00184,2022-09-09,Paid Social,Mid-Range,Nigeria,Male,39,Desktop
+CUST00185,2023-01-03,Email,Premium,Canada,Female,65,Tablet
+CUST00186,2022-03-26,Referral,Mid-Range,Nigeria,Male,34,Desktop
+CUST00187,2022-04-25,Organic Search,Budget,France,Female,54,Desktop
+CUST00188,2022-05-03,Organic Search,Budget,UAE,Male,46,Mobile
+CUST00189,2022-06-17,Paid Social,Mid-Range,UAE,Male,32,Desktop
+CUST00190,2022-09-04,Email,Budget,Canada,Male,46,Mobile
+CUST00191,2023-02-18,Direct,Premium,Canada,Female,33,Mobile
+CUST00192,2023-09-12,Paid Social,Mid-Range,UAE,Male,37,Desktop
+CUST00193,2022-07-09,Organic Search,Budget,Germany,Male,23,Mobile
+CUST00194,2022-07-05,Influencer,Mid-Range,Canada,Female,60,Desktop
+CUST00195,2022-05-21,Organic Search,Budget,Germany,Female,38,Tablet
+CUST00196,2023-02-20,Paid Social,Budget,UAE,Female,41,Desktop
+CUST00197,2023-09-22,Email,Mid-Range,Canada,Female,34,Tablet
+CUST00198,2022-06-10,Email,Budget,Canada,Male,38,Mobile
+CUST00199,2023-03-21,Referral,Budget,UK,Female,58,Tablet
+CUST00200,2022-12-29,Email,Budget,Canada,Male,19,Tablet
+CUST00201,2023-05-07,Paid Social,Mid-Range,Germany,Male,19,Desktop
+CUST00202,2023-02-09,Referral,Mid-Range,UK,Non-binary,57,Desktop
+CUST00203,2022-01-30,Referral,Mid-Range,Canada,Male,42,Mobile
+CUST00204,2023-05-01,Paid Social,Budget,Germany,Female,36,Desktop
+CUST00205,2023-02-12,Email,Mid-Range,Australia,Male,46,Mobile
+CUST00206,2023-05-19,Paid Social,Premium,UAE,Female,50,Mobile
+CUST00207,2023-02-09,Direct,Premium,Nigeria,Female,21,Mobile
+CUST00208,2022-12-17,Influencer,Luxury,Nigeria,Male,37,Mobile
+CUST00209,2022-01-11,Influencer,Mid-Range,Canada,Male,33,Desktop
+CUST00210,2022-03-16,Direct,Budget,Nigeria,Female,53,Mobile
+CUST00211,2023-06-07,Paid Social,Premium,UAE,Female,33,Mobile
+CUST00212,2022-11-22,Influencer,Budget,USA,Female,30,Tablet
+CUST00213,2023-03-01,Paid Social,Budget,UK,Male,62,Desktop
+CUST00214,2023-04-16,Email,Budget,France,Female,40,Mobile
+CUST00215,2023-06-28,Paid Social,Budget,UAE,Male,43,Mobile
+CUST00216,2022-02-11,Direct,Mid-Range,USA,Female,61,Mobile
+CUST00217,2022-02-23,Paid Social,Mid-Range,France,Female,39,Desktop
+CUST00218,2022-10-11,Referral,Mid-Range,Australia,Female,62,Desktop
+CUST00219,2022-01-11,Referral,Budget,UK,Male,55,Mobile
+CUST00220,2023-07-27,Organic Search,Mid-Range,Nigeria,Female,49,Desktop
+CUST00221,2022-09-23,Referral,Mid-Range,USA,Female,23,Desktop
+CUST00222,2022-11-08,Influencer,Mid-Range,UAE,Male,23,Mobile
+CUST00223,2022-10-03,Influencer,Budget,Nigeria,Male,65,Desktop
+CUST00224,2022-04-08,Direct,Mid-Range,Canada,Male,56,Mobile
+CUST00225,2022-03-17,Paid Social,Premium,Australia,Male,36,Mobile
+CUST00226,2022-11-08,Paid Social,Luxury,Canada,Male,49,Mobile
+CUST00227,2022-12-14,Email,Premium,UK,Male,55,Mobile
+CUST00228,2023-03-23,Influencer,Mid-Range,Germany,Female,48,Desktop
+CUST00229,2022-04-20,Direct,Budget,Canada,Female,54,Mobile
+CUST00230,2023-06-09,Organic Search,Budget,France,Male,41,Desktop
+CUST00231,2022-08-24,Influencer,Mid-Range,Australia,Female,64,Desktop
+CUST00232,2022-09-22,Paid Social,Budget,Canada,Male,40,Desktop
+CUST00233,2022-08-12,Organic Search,Mid-Range,France,Male,53,Mobile
+CUST00234,2022-12-06,Organic Search,Premium,Germany,Female,44,Mobile
+CUST00235,2022-08-29,Influencer,Mid-Range,Canada,Female,21,Mobile
+CUST00236,2023-01-09,Paid Social,Mid-Range,USA,Female,60,Mobile
+CUST00237,2022-10-07,Paid Social,Mid-Range,Germany,Female,28,Desktop
+CUST00238,2022-07-19,Organic Search,Luxury,Australia,Male,49,Mobile
+CUST00239,2023-03-01,Paid Social,Mid-Range,Canada,Male,57,Desktop
+CUST00240,2023-03-06,Paid Social,Premium,UK,Female,65,Mobile
+CUST00241,2022-06-11,Organic Search,Mid-Range,UK,Female,25,Mobile
+CUST00242,2022-05-23,Email,Mid-Range,USA,Female,45,Desktop
+CUST00243,2022-02-05,Email,Budget,Nigeria,Female,43,Mobile
+CUST00244,2022-11-26,Paid Social,Budget,UK,Male,26,Mobile
+CUST00245,2023-03-24,Email,Budget,Germany,Female,64,Mobile
+CUST00246,2023-05-23,Direct,Premium,Germany,Male,45,Desktop
+CUST00247,2022-06-05,Paid Social,Budget,USA,Male,44,Tablet
+CUST00248,2023-01-31,Email,Premium,UAE,Female,54,Mobile
+CUST00249,2023-07-09,Email,Budget,Australia,Male,22,Desktop
+CUST00250,2022-11-25,Direct,Budget,Australia,Female,52,Desktop
+CUST00251,2023-02-15,Referral,Budget,Nigeria,Female,36,Mobile
+CUST00252,2023-01-02,Paid Social,Mid-Range,Germany,Male,49,Mobile
+CUST00253,2023-05-11,Organic Search,Budget,Canada,Male,51,Desktop
+CUST00254,2023-06-18,Paid Social,Budget,Australia,Male,40,Desktop
+CUST00255,2023-07-20,Referral,Luxury,UK,Male,64,Mobile
+CUST00256,2022-07-08,Referral,Premium,France,Female,24,Desktop
+CUST00257,2022-10-17,Paid Social,Budget,USA,Female,39,Desktop
+CUST00258,2023-02-24,Influencer,Premium,Australia,Male,20,Mobile
+CUST00259,2023-08-11,Influencer,Budget,USA,Male,63,Desktop
+CUST00260,2022-01-08,Organic Search,Luxury,USA,Female,21,Mobile
+CUST00261,2023-06-19,Direct,Premium,UK,Female,48,Mobile
+CUST00262,2022-03-03,Referral,Budget,Australia,Male,37,Desktop
+CUST00263,2023-01-02,Direct,Premium,Nigeria,Female,20,Mobile
+CUST00264,2022-02-11,Organic Search,Budget,USA,Male,25,Desktop
+CUST00265,2023-06-09,Organic Search,Mid-Range,Nigeria,Female,28,Desktop
+CUST00266,2022-05-04,Paid Social,Budget,France,Non-binary,45,Tablet
+CUST00267,2022-07-31,Email,Luxury,Canada,Female,58,Desktop
+CUST00268,2022-10-28,Influencer,Mid-Range,Germany,Male,39,Desktop
+CUST00269,2023-08-12,Email,Premium,UAE,Female,42,Mobile
+CUST00270,2023-06-15,Referral,Budget,UAE,Male,49,Mobile
+CUST00271,2023-06-21,Referral,Mid-Range,France,Non-binary,43,Tablet
+CUST00272,2023-07-13,Paid Social,Luxury,Australia,Non-binary,21,Mobile
+CUST00273,2023-07-24,Paid Social,Mid-Range,Canada,Male,25,Mobile
+CUST00274,2022-04-10,Paid Social,Mid-Range,UK,Male,58,Mobile
+CUST00275,2022-03-25,Influencer,Mid-Range,UK,Male,64,Mobile
+CUST00276,2023-08-09,Direct,Budget,Canada,Male,30,Tablet
+CUST00277,2022-08-16,Email,Mid-Range,UK,Male,37,Mobile
+CUST00278,2022-08-07,Paid Social,Budget,Canada,Female,54,Desktop
+CUST00279,2023-04-17,Influencer,Budget,Canada,Female,63,Mobile
+CUST00280,2022-10-28,Organic Search,Luxury,France,Female,64,Mobile
+CUST00281,2022-11-01,Influencer,Premium,Australia,Female,40,Desktop
+CUST00282,2023-09-09,Paid Social,Budget,Australia,Male,51,Desktop
+CUST00283,2022-11-17,Direct,Luxury,Nigeria,Female,24,Desktop
+CUST00284,2023-03-29,Referral,Budget,Australia,Female,61,Mobile
+CUST00285,2022-06-08,Paid Social,Mid-Range,Nigeria,Female,20,Mobile
+CUST00286,2023-03-24,Referral,Mid-Range,UAE,Male,18,Desktop
+CUST00287,2022-01-15,Referral,Premium,Germany,Female,65,Mobile
+CUST00288,2022-10-10,Referral,Mid-Range,UAE,Male,46,Tablet
+CUST00289,2023-03-21,Direct,Premium,UK,Female,57,Tablet
+CUST00290,2022-10-06,Organic Search,Mid-Range,UAE,Female,61,Tablet
+CUST00291,2022-06-24,Paid Social,Luxury,Australia,Male,25,Mobile
+CUST00292,2022-07-24,Paid Social,Luxury,Canada,Male,59,Mobile
+CUST00293,2023-02-03,Organic Search,Luxury,UAE,Female,65,Desktop
+CUST00294,2023-05-15,Email,Mid-Range,Nigeria,Male,21,Desktop
+CUST00295,2023-08-04,Direct,Mid-Range,Germany,Male,26,Mobile
+CUST00296,2022-11-05,Paid Social,Mid-Range,UAE,Female,39,Desktop
+CUST00297,2023-05-15,Paid Social,Premium,Australia,Male,31,Mobile
+CUST00298,2022-06-25,Paid Social,Budget,USA,Female,59,Desktop
+CUST00299,2022-02-15,Paid Social,Mid-Range,France,Female,59,Mobile
+CUST00300,2022-06-11,Email,Mid-Range,Canada,Female,44,Mobile
+CUST00301,2022-08-03,Organic Search,Budget,UK,Female,57,Desktop
+CUST00302,2022-07-31,Direct,Mid-Range,UAE,Female,45,Mobile
+CUST00303,2022-03-30,Organic Search,Budget,Canada,Female,35,Mobile
+CUST00304,2022-04-26,Influencer,Mid-Range,USA,Female,59,Mobile
+CUST00305,2023-08-13,Paid Social,Premium,France,Male,49,Mobile
+CUST00306,2022-06-19,Organic Search,Mid-Range,Australia,Male,40,Desktop
+CUST00307,2023-01-28,Paid Social,Luxury,USA,Male,64,Desktop
+CUST00308,2022-01-12,Organic Search,Budget,Nigeria,Female,18,Tablet
+CUST00309,2022-07-18,Paid Social,Mid-Range,UK,Female,40,Desktop
+CUST00310,2023-02-27,Referral,Premium,USA,Male,43,Tablet
+CUST00311,2023-06-24,Paid Social,Budget,Australia,Female,41,Mobile
+CUST00312,2022-10-24,Email,Mid-Range,Canada,Female,36,Mobile
+CUST00313,2022-05-26,Influencer,Premium,Australia,Male,22,Mobile
+CUST00314,2023-09-28,Organic Search,Mid-Range,UAE,Female,58,Mobile
+CUST00315,2022-09-04,Email,Budget,UK,Female,50,Mobile
+CUST00316,2022-06-26,Paid Social,Mid-Range,Germany,Male,55,Desktop
+CUST00317,2023-09-30,Paid Social,Budget,UK,Male,41,Desktop
+CUST00318,2023-02-27,Influencer,Mid-Range,France,Male,32,Desktop
+CUST00319,2022-02-10,Email,Premium,Canada,Female,62,Desktop
+CUST00320,2022-01-06,Paid Social,Premium,Nigeria,Female,54,Mobile
+CUST00321,2022-07-14,Paid Social,Budget,Nigeria,Female,63,Mobile
+CUST00322,2022-04-16,Organic Search,Mid-Range,Germany,Male,30,Desktop
+CUST00323,2023-04-01,Direct,Mid-Range,UK,Male,18,Mobile
+CUST00324,2023-01-15,Organic Search,Budget,France,Female,56,Mobile
+CUST00325,2022-10-23,Referral,Mid-Range,Nigeria,Male,26,Mobile
+CUST00326,2023-09-11,Email,Budget,Australia,Female,40,Desktop
+CUST00327,2023-06-12,Direct,Mid-Range,Australia,Female,41,Desktop
+CUST00328,2022-08-27,Email,Budget,Canada,Female,48,Mobile
+CUST00329,2022-01-16,Paid Social,Mid-Range,Canada,Non-binary,43,Tablet
+CUST00330,2023-06-14,Paid Social,Luxury,France,Male,59,Mobile
+CUST00331,2023-02-10,Paid Social,Budget,France,Male,59,Mobile
+CUST00332,2022-03-12,Influencer,Mid-Range,Germany,Female,60,Mobile
+CUST00333,2022-09-29,Paid Social,Budget,Germany,Female,64,Mobile
+CUST00334,2022-01-20,Email,Mid-Range,Germany,Male,43,Desktop
+CUST00335,2023-05-30,Paid Social,Budget,France,Female,32,Mobile
+CUST00336,2022-11-23,Organic Search,Mid-Range,UK,Male,43,Desktop
+CUST00337,2023-01-23,Paid Social,Budget,UAE,Male,32,Desktop
+CUST00338,2023-09-24,Email,Premium,Germany,Female,49,Desktop
+CUST00339,2022-12-16,Paid Social,Premium,Nigeria,Male,37,Mobile
+CUST00340,2022-11-25,Email,Luxury,Canada,Male,18,Desktop
+CUST00341,2022-10-19,Influencer,Budget,Australia,Female,63,Desktop
+CUST00342,2022-05-21,Referral,Mid-Range,France,Male,49,Mobile
+CUST00343,2022-08-27,Direct,Mid-Range,UK,Male,28,Mobile
+CUST00344,2023-04-23,Direct,Luxury,UK,Female,48,Tablet
+CUST00345,2023-08-22,Email,Budget,UAE,Male,51,Mobile
+CUST00346,2023-03-04,Direct,Mid-Range,USA,Male,49,Mobile
+CUST00347,2023-03-03,Referral,Premium,USA,Female,27,Tablet
+CUST00348,2022-10-01,Paid Social,Budget,France,Non-binary,65,Mobile
+CUST00349,2022-04-21,Paid Social,Mid-Range,Canada,Female,46,Mobile
+CUST00350,2022-07-20,Paid Social,Budget,USA,Female,44,Mobile
+CUST00351,2023-02-09,Organic Search,Mid-Range,Nigeria,Female,61,Mobile
+CUST00352,2022-08-22,Influencer,Budget,Nigeria,Female,28,Mobile
+CUST00353,2023-02-18,Organic Search,Mid-Range,Nigeria,Female,19,Tablet
+CUST00354,2022-01-17,Paid Social,Luxury,Canada,Male,58,Mobile
+CUST00355,2022-04-30,Influencer,Mid-Range,UK,Female,50,Desktop
+CUST00356,2022-06-25,Email,Budget,France,Female,20,Mobile
+CUST00357,2022-07-22,Influencer,Mid-Range,France,Male,31,Desktop
+CUST00358,2023-08-25,Influencer,Budget,Nigeria,Male,33,Mobile
+CUST00359,2023-03-01,Paid Social,Budget,UAE,Male,18,Desktop
+CUST00360,2023-08-29,Email,Mid-Range,Canada,Female,28,Mobile
+CUST00361,2022-05-05,Referral,Budget,Canada,Female,43,Tablet
+CUST00362,2023-06-20,Organic Search,Budget,France,Non-binary,25,Tablet
+CUST00363,2022-01-03,Organic Search,Mid-Range,Australia,Female,28,Mobile
+CUST00364,2022-04-06,Direct,Premium,Australia,Female,60,Mobile
+CUST00365,2023-02-11,Paid Social,Budget,Australia,Female,56,Mobile
+CUST00366,2023-01-25,Referral,Premium,Germany,Non-binary,42,Mobile
+CUST00367,2022-11-23,Referral,Budget,USA,Female,23,Mobile
+CUST00368,2023-04-10,Direct,Premium,Canada,Non-binary,26,Mobile
+CUST00369,2023-09-17,Paid Social,Budget,Nigeria,Female,18,Mobile
+CUST00370,2023-08-10,Email,Budget,Canada,Male,45,Desktop
+CUST00371,2022-08-06,Organic Search,Mid-Range,Australia,Male,46,Mobile
+CUST00372,2023-08-04,Direct,Budget,Germany,Male,37,Desktop
+CUST00373,2023-08-29,Direct,Mid-Range,Germany,Male,58,Mobile
+CUST00374,2022-01-18,Email,Premium,Germany,Male,52,Tablet
+CUST00375,2022-11-19,Email,Budget,Nigeria,Female,62,Mobile
+CUST00376,2022-10-09,Direct,Luxury,UK,Male,28,Mobile
+CUST00377,2023-09-11,Referral,Mid-Range,Australia,Male,40,Mobile
+CUST00378,2023-05-03,Paid Social,Premium,Australia,Female,35,Desktop
+CUST00379,2022-07-10,Organic Search,Mid-Range,Germany,Female,49,Desktop
+CUST00380,2023-04-10,Referral,Luxury,USA,Female,21,Mobile
+CUST00381,2022-07-21,Organic Search,Budget,Canada,Non-binary,54,Desktop
+CUST00382,2022-11-15,Organic Search,Budget,USA,Female,34,Desktop
+CUST00383,2022-03-10,Email,Luxury,Canada,Male,52,Mobile
+CUST00384,2023-03-26,Paid Social,Premium,Australia,Female,49,Mobile
+CUST00385,2022-08-08,Influencer,Mid-Range,UK,Female,47,Tablet
+CUST00386,2022-03-11,Paid Social,Luxury,Canada,Male,44,Mobile
+CUST00387,2023-04-17,Email,Mid-Range,Canada,Non-binary,33,Desktop
+CUST00388,2022-10-30,Paid Social,Mid-Range,France,Male,30,Mobile
+CUST00389,2023-08-14,Email,Mid-Range,Germany,Female,58,Mobile
+CUST00390,2022-06-09,Organic Search,Budget,France,Male,24,Desktop
+CUST00391,2023-03-26,Email,Mid-Range,Australia,Male,54,Mobile
+CUST00392,2023-03-02,Organic Search,Mid-Range,France,Male,40,Desktop
+CUST00393,2023-05-21,Paid Social,Budget,Australia,Male,41,Mobile
+CUST00394,2023-07-01,Organic Search,Mid-Range,Nigeria,Female,38,Desktop
+CUST00395,2023-04-18,Influencer,Mid-Range,France,Male,20,Mobile
+CUST00396,2023-06-05,Organic Search,Budget,Germany,Female,51,Mobile
+CUST00397,2023-07-31,Referral,Luxury,UK,Non-binary,28,Desktop
+CUST00398,2022-06-27,Email,Budget,Canada,Male,39,Desktop
+CUST00399,2022-07-11,Organic Search,Mid-Range,Australia,Male,31,Tablet
+CUST00400,2022-10-17,Organic Search,Mid-Range,Germany,Female,35,Desktop
+CUST00401,2023-07-01,Paid Social,Budget,Australia,Female,37,Mobile
+CUST00402,2022-03-04,Organic Search,Premium,Australia,Non-binary,31,Mobile
+CUST00403,2022-11-04,Referral,Budget,Nigeria,Male,46,Mobile
+CUST00404,2022-01-30,Direct,Budget,UAE,Female,41,Mobile
+CUST00405,2022-02-14,Paid Social,Premium,Germany,Male,49,Mobile
+CUST00406,2022-12-30,Organic Search,Premium,Germany,Male,29,Mobile
+CUST00407,2022-02-13,Paid Social,Luxury,UK,Male,23,Desktop
+CUST00408,2023-05-11,Paid Social,Mid-Range,USA,Male,36,Desktop
+CUST00409,2022-06-13,Organic Search,Mid-Range,UK,Male,48,Mobile
+CUST00410,2022-07-25,Organic Search,Budget,UAE,Female,32,Mobile
+CUST00411,2023-08-20,Direct,Budget,UAE,Male,55,Mobile
+CUST00412,2023-06-06,Paid Social,Mid-Range,UK,Male,19,Desktop
+CUST00413,2023-05-24,Influencer,Budget,USA,Female,29,Desktop
+CUST00414,2022-07-06,Paid Social,Budget,UAE,Male,40,Desktop
+CUST00415,2023-02-08,Email,Mid-Range,Nigeria,Female,34,Desktop
+CUST00416,2022-11-29,Direct,Premium,Germany,Female,29,Mobile
+CUST00417,2022-11-12,Email,Premium,Australia,Non-binary,40,Mobile
+CUST00418,2022-05-26,Paid Social,Budget,Canada,Female,59,Desktop
+CUST00419,2023-04-07,Direct,Premium,UK,Female,21,Desktop
+CUST00420,2023-06-25,Direct,Premium,USA,Male,18,Mobile
+CUST00421,2023-03-26,Paid Social,Budget,Germany,Female,49,Mobile
+CUST00422,2022-06-19,Referral,Premium,USA,Male,46,Desktop
+CUST00423,2022-02-25,Direct,Budget,Australia,Female,58,Mobile
+CUST00424,2022-05-31,Organic Search,Mid-Range,Nigeria,Female,65,Tablet
+CUST00425,2022-05-06,Email,Luxury,UK,Non-binary,49,Desktop
+CUST00426,2023-05-28,Organic Search,Budget,Canada,Female,57,Mobile
+CUST00427,2022-07-16,Referral,Luxury,Germany,Male,40,Mobile
+CUST00428,2023-04-26,Referral,Mid-Range,France,Female,60,Mobile
+CUST00429,2023-01-02,Direct,Budget,Australia,Female,37,Tablet
+CUST00430,2022-06-10,Referral,Mid-Range,France,Female,62,Desktop
+CUST00431,2022-05-17,Email,Mid-Range,USA,Female,49,Mobile
+CUST00432,2022-05-17,Paid Social,Mid-Range,Nigeria,Female,32,Mobile
+CUST00433,2022-09-05,Influencer,Budget,Nigeria,Female,35,Mobile
+CUST00434,2022-11-28,Paid Social,Budget,UK,Male,60,Tablet
+CUST00435,2023-06-23,Direct,Budget,USA,Male,26,Mobile
+CUST00436,2023-02-15,Influencer,Mid-Range,Germany,Male,52,Desktop
+CUST00437,2022-01-05,Paid Social,Budget,Canada,Male,54,Tablet
+CUST00438,2022-05-20,Direct,Budget,UK,Female,45,Mobile
+CUST00439,2022-05-14,Organic Search,Budget,Germany,Female,24,Desktop
+CUST00440,2022-04-22,Email,Budget,UAE,Female,38,Mobile
+CUST00441,2022-09-13,Email,Budget,Canada,Male,62,Desktop
+CUST00442,2022-08-10,Email,Budget,Canada,Male,48,Desktop
+CUST00443,2023-08-13,Organic Search,Premium,UAE,Female,43,Desktop
+CUST00444,2022-10-21,Email,Mid-Range,Germany,Male,26,Mobile
+CUST00445,2022-12-24,Email,Budget,UAE,Female,52,Mobile
+CUST00446,2022-02-01,Paid Social,Mid-Range,Nigeria,Male,40,Mobile
+CUST00447,2023-02-06,Email,Budget,Canada,Female,63,Desktop
+CUST00448,2023-09-29,Organic Search,Budget,UAE,Male,65,Mobile
+CUST00449,2022-07-10,Direct,Budget,Canada,Female,18,Desktop
+CUST00450,2022-09-08,Paid Social,Mid-Range,Canada,Female,54,Mobile
+CUST00451,2022-07-22,Organic Search,Premium,USA,Female,29,Mobile
+CUST00452,2022-06-28,Paid Social,Mid-Range,France,Male,51,Desktop
+CUST00453,2023-06-15,Referral,Budget,UK,Female,32,Mobile
+CUST00454,2023-02-16,Influencer,Premium,France,Female,36,Mobile
+CUST00455,2022-08-08,Referral,Premium,UAE,Male,31,Desktop
+CUST00456,2022-02-26,Paid Social,Premium,UAE,Male,31,Mobile
+CUST00457,2022-05-28,Organic Search,Mid-Range,UAE,Male,19,Mobile
+CUST00458,2022-08-12,Influencer,Premium,UAE,Female,45,Mobile
+CUST00459,2023-06-21,Referral,Budget,USA,Male,51,Mobile
+CUST00460,2022-06-29,Paid Social,Budget,Nigeria,Male,30,Desktop
+CUST00461,2023-09-19,Organic Search,Luxury,USA,Female,60,Mobile
+CUST00462,2022-10-16,Paid Social,Premium,Germany,Female,50,Mobile
+CUST00463,2022-10-02,Direct,Mid-Range,Nigeria,Female,34,Mobile
+CUST00464,2023-02-27,Direct,Luxury,Nigeria,Female,37,Mobile
+CUST00465,2023-07-09,Paid Social,Premium,UK,Male,37,Desktop
+CUST00466,2023-01-18,Paid Social,Luxury,USA,Female,26,Mobile
+CUST00467,2023-04-15,Influencer,Budget,UK,Female,22,Mobile
+CUST00468,2023-09-01,Organic Search,Premium,Germany,Female,38,Mobile
+CUST00469,2023-04-11,Direct,Premium,UAE,Male,63,Desktop
+CUST00470,2022-06-22,Direct,Budget,Nigeria,Female,41,Mobile
+CUST00471,2022-03-23,Email,Premium,UK,Male,27,Mobile
+CUST00472,2023-06-04,Influencer,Budget,Canada,Female,47,Mobile
+CUST00473,2023-09-10,Referral,Budget,France,Female,51,Mobile
+CUST00474,2022-03-18,Referral,Premium,Nigeria,Male,38,Mobile
+CUST00475,2022-09-16,Organic Search,Premium,Nigeria,Male,52,Tablet
+CUST00476,2022-08-01,Paid Social,Premium,Nigeria,Female,34,Mobile
+CUST00477,2023-03-06,Paid Social,Mid-Range,UK,Male,37,Mobile
+CUST00478,2023-08-01,Organic Search,Budget,Nigeria,Male,52,Mobile
+CUST00479,2023-04-12,Influencer,Luxury,France,Male,27,Mobile
+CUST00480,2022-07-04,Paid Social,Budget,UAE,Female,21,Mobile
+CUST00481,2022-12-02,Organic Search,Mid-Range,France,Female,29,Desktop
+CUST00482,2023-07-12,Influencer,Budget,Canada,Male,40,Desktop
+CUST00483,2023-03-16,Organic Search,Luxury,UK,Female,62,Mobile
+CUST00484,2022-09-26,Paid Social,Budget,UAE,Female,59,Desktop
+CUST00485,2022-10-17,Paid Social,Mid-Range,UAE,Male,18,Desktop
+CUST00486,2022-12-25,Organic Search,Budget,UAE,Male,18,Tablet
+CUST00487,2023-01-03,Influencer,Premium,France,Female,42,Mobile
+CUST00488,2023-09-15,Paid Social,Luxury,Canada,Female,25,Desktop
+CUST00489,2023-07-26,Referral,Budget,USA,Non-binary,24,Mobile
+CUST00490,2022-11-04,Organic Search,Premium,Nigeria,Female,26,Mobile
+CUST00491,2022-06-14,Referral,Mid-Range,Canada,Male,32,Desktop
+CUST00492,2023-08-25,Paid Social,Budget,UK,Female,35,Mobile
+CUST00493,2023-05-20,Referral,Budget,Germany,Male,44,Tablet
+CUST00494,2023-06-20,Direct,Budget,UAE,Male,29,Desktop
+CUST00495,2023-03-28,Email,Mid-Range,UAE,Female,26,Mobile
+CUST00496,2022-08-01,Email,Mid-Range,Germany,Female,48,Desktop
+CUST00497,2022-12-10,Paid Social,Premium,UK,Male,22,Mobile
+CUST00498,2022-06-19,Organic Search,Premium,Canada,Male,42,Mobile
+CUST00499,2023-02-14,Paid Social,Mid-Range,Nigeria,Female,62,Desktop
+CUST00500,2023-01-06,Paid Social,Budget,France,Female,56,Mobile
+CUST00501,2023-08-22,Direct,Budget,Canada,Male,57,Mobile
+CUST00502,2022-01-17,Email,Mid-Range,USA,Female,22,Desktop
+CUST00503,2023-08-03,Direct,Premium,Canada,Male,63,Desktop
+CUST00504,2022-08-11,Referral,Luxury,Nigeria,Female,40,Mobile
+CUST00505,2022-01-14,Influencer,Budget,France,Male,55,Desktop
+CUST00506,2023-03-08,Influencer,Mid-Range,Australia,Male,41,Mobile
+CUST00507,2023-01-09,Email,Mid-Range,UK,Male,31,Mobile
+CUST00508,2022-11-18,Referral,Mid-Range,France,Male,26,Mobile
+CUST00509,2022-09-15,Direct,Mid-Range,Germany,Female,18,Mobile
+CUST00510,2023-04-26,Email,Premium,Australia,Male,27,Mobile
+CUST00511,2022-11-17,Paid Social,Premium,USA,Female,26,Mobile
+CUST00512,2022-11-02,Direct,Premium,UK,Male,33,Tablet
+CUST00513,2022-01-17,Email,Premium,USA,Female,30,Mobile
+CUST00514,2022-06-21,Direct,Budget,Germany,Female,55,Mobile
+CUST00515,2022-11-13,Referral,Mid-Range,Germany,Male,44,Mobile
+CUST00516,2022-04-02,Email,Budget,UAE,Female,29,Mobile
+CUST00517,2022-02-02,Email,Premium,Australia,Female,21,Mobile
+CUST00518,2022-09-30,Paid Social,Mid-Range,Canada,Male,47,Mobile
+CUST00519,2023-05-17,Paid Social,Budget,Germany,Male,50,Mobile
+CUST00520,2022-09-28,Organic Search,Mid-Range,Nigeria,Male,29,Tablet
+CUST00521,2023-03-19,Paid Social,Premium,UK,Female,44,Desktop
+CUST00522,2023-01-02,Paid Social,Mid-Range,Germany,Male,52,Mobile
+CUST00523,2022-06-19,Paid Social,Mid-Range,Canada,Female,48,Desktop
+CUST00524,2022-08-04,Influencer,Budget,UAE,Non-binary,31,Desktop
+CUST00525,2023-02-05,Paid Social,Budget,UK,Female,28,Desktop
+CUST00526,2022-07-10,Email,Budget,Germany,Male,40,Mobile
+CUST00527,2023-02-02,Organic Search,Premium,UAE,Female,23,Desktop
+CUST00528,2022-03-29,Direct,Premium,UK,Female,62,Desktop
+CUST00529,2023-08-14,Paid Social,Mid-Range,UAE,Male,60,Desktop
+CUST00530,2023-01-01,Referral,Mid-Range,UK,Female,36,Desktop
+CUST00531,2022-10-19,Direct,Mid-Range,Canada,Female,51,Desktop
+CUST00532,2023-08-24,Paid Social,Luxury,Australia,Female,46,Mobile
+CUST00533,2022-12-26,Influencer,Premium,France,Male,21,Desktop
+CUST00534,2022-04-08,Paid Social,Mid-Range,Canada,Female,58,Mobile
+CUST00535,2022-03-14,Influencer,Premium,UAE,Male,53,Mobile
+CUST00536,2023-07-11,Referral,Luxury,France,Female,41,Mobile
+CUST00537,2023-04-05,Email,Premium,Canada,Female,61,Mobile
+CUST00538,2022-03-31,Paid Social,Premium,USA,Female,21,Mobile
+CUST00539,2022-08-27,Paid Social,Premium,UAE,Female,60,Tablet
+CUST00540,2023-08-15,Paid Social,Budget,Germany,Male,50,Mobile
+CUST00541,2022-03-13,Direct,Mid-Range,Canada,Male,31,Desktop
+CUST00542,2022-03-02,Referral,Mid-Range,Nigeria,Female,49,Mobile
+CUST00543,2023-05-12,Paid Social,Mid-Range,UAE,Male,33,Mobile
+CUST00544,2023-02-26,Paid Social,Budget,UK,Male,56,Mobile
+CUST00545,2023-05-31,Organic Search,Budget,Canada,Male,58,Mobile
+CUST00546,2023-02-07,Organic Search,Premium,France,Female,58,Desktop
+CUST00547,2022-09-28,Referral,Budget,Australia,Male,35,Mobile
+CUST00548,2022-04-01,Paid Social,Mid-Range,USA,Male,20,Tablet
+CUST00549,2022-06-11,Email,Budget,Australia,Male,20,Mobile
+CUST00550,2022-02-03,Paid Social,Premium,Australia,Male,34,Desktop
+CUST00551,2022-02-23,Referral,Budget,France,Female,21,Mobile
+CUST00552,2022-05-22,Paid Social,Premium,Canada,Male,36,Mobile
+CUST00553,2023-08-01,Paid Social,Premium,USA,Female,21,Desktop
+CUST00554,2022-01-21,Paid Social,Budget,Germany,Male,46,Mobile
+CUST00555,2023-03-29,Direct,Budget,Australia,Male,32,Desktop
+CUST00556,2023-04-28,Paid Social,Budget,France,Female,35,Mobile
+CUST00557,2023-03-26,Paid Social,Budget,Nigeria,Male,25,Mobile
+CUST00558,2022-07-15,Referral,Luxury,Australia,Male,35,Desktop
+CUST00559,2022-12-20,Paid Social,Mid-Range,Nigeria,Female,53,Desktop
+CUST00560,2022-06-06,Direct,Premium,UK,Male,34,Mobile
+CUST00561,2023-04-25,Organic Search,Mid-Range,UK,Female,51,Desktop
+CUST00562,2023-07-06,Organic Search,Luxury,Australia,Female,31,Desktop
+CUST00563,2022-02-25,Organic Search,Mid-Range,UK,Female,24,Mobile
+CUST00564,2022-06-12,Paid Social,Premium,Germany,Female,61,Mobile
+CUST00565,2023-06-04,Influencer,Budget,Australia,Male,23,Desktop
+CUST00566,2022-09-04,Organic Search,Premium,USA,Female,19,Mobile
+CUST00567,2023-09-14,Organic Search,Premium,Canada,Female,48,Mobile
+CUST00568,2023-02-04,Email,Mid-Range,UAE,Female,44,Desktop
+CUST00569,2022-02-20,Referral,Budget,USA,Male,26,Mobile
+CUST00570,2022-09-19,Organic Search,Mid-Range,UK,Female,55,Tablet
+CUST00571,2022-11-28,Organic Search,Budget,UK,Female,39,Mobile
+CUST00572,2022-10-30,Organic Search,Mid-Range,UAE,Female,49,Mobile
+CUST00573,2023-05-13,Email,Mid-Range,UAE,Female,40,Desktop
+CUST00574,2022-02-27,Email,Premium,Nigeria,Female,31,Tablet
+CUST00575,2023-03-05,Referral,Mid-Range,Nigeria,Female,52,Desktop
+CUST00576,2023-05-10,Influencer,Luxury,France,Male,54,Mobile
+CUST00577,2022-05-08,Email,Premium,USA,Male,65,Desktop
+CUST00578,2022-02-18,Email,Luxury,France,Female,60,Desktop
+CUST00579,2022-09-23,Direct,Budget,Australia,Male,23,Desktop
+CUST00580,2022-03-15,Paid Social,Mid-Range,USA,Male,45,Desktop
+CUST00581,2023-03-28,Email,Premium,France,Male,22,Mobile
+CUST00582,2022-08-27,Organic Search,Budget,Australia,Male,65,Mobile
+CUST00583,2022-12-13,Influencer,Mid-Range,Canada,Female,42,Tablet
+CUST00584,2023-04-01,Email,Budget,Canada,Female,23,Desktop
+CUST00585,2022-09-25,Referral,Budget,UAE,Male,32,Desktop
+CUST00586,2023-07-08,Paid Social,Budget,UK,Female,44,Desktop
+CUST00587,2023-01-31,Organic Search,Premium,USA,Male,31,Desktop
+CUST00588,2022-05-28,Paid Social,Mid-Range,Germany,Female,31,Tablet
+CUST00589,2023-07-28,Paid Social,Budget,UAE,Male,31,Desktop
+CUST00590,2023-09-22,Email,Budget,Australia,Non-binary,61,Desktop
+CUST00591,2022-02-12,Email,Mid-Range,USA,Male,47,Mobile
+CUST00592,2022-10-09,Paid Social,Premium,UK,Male,22,Mobile
+CUST00593,2022-03-25,Paid Social,Luxury,Canada,Female,25,Mobile
+CUST00594,2023-07-02,Organic Search,Budget,Nigeria,Female,28,Mobile
+CUST00595,2022-02-18,Direct,Budget,France,Male,61,Desktop
+CUST00596,2022-05-12,Email,Mid-Range,USA,Female,50,Mobile
+CUST00597,2023-05-14,Paid Social,Mid-Range,Canada,Female,18,Desktop
+CUST00598,2023-02-19,Influencer,Mid-Range,USA,Female,43,Desktop
+CUST00599,2023-01-03,Referral,Mid-Range,UK,Female,20,Tablet
+CUST00600,2022-01-19,Email,Budget,UAE,Male,63,Tablet
+CUST00601,2022-07-04,Paid Social,Mid-Range,UK,Male,48,Mobile
+CUST00602,2023-08-04,Paid Social,Budget,France,Male,54,Mobile
+CUST00603,2022-11-29,Email,Budget,France,Male,49,Desktop
+CUST00604,2022-08-23,Direct,Mid-Range,Canada,Male,44,Mobile
+CUST00605,2022-05-11,Paid Social,Budget,UK,Non-binary,38,Tablet
+CUST00606,2022-07-05,Organic Search,Premium,USA,Female,55,Mobile
+CUST00607,2023-02-13,Paid Social,Luxury,USA,Male,49,Tablet
+CUST00608,2022-01-01,Email,Budget,USA,Female,47,Mobile
+CUST00609,2022-07-29,Organic Search,Budget,France,Male,45,Desktop
+CUST00610,2023-06-04,Paid Social,Budget,Nigeria,Female,42,Desktop
+CUST00611,2022-08-14,Paid Social,Mid-Range,France,Female,47,Mobile
+CUST00612,2022-10-27,Paid Social,Mid-Range,Germany,Male,61,Tablet
+CUST00613,2023-05-08,Paid Social,Budget,Germany,Female,46,Mobile
+CUST00614,2022-12-21,Paid Social,Premium,Australia,Male,23,Mobile
+CUST00615,2022-11-24,Direct,Mid-Range,France,Female,25,Mobile
+CUST00616,2023-03-06,Referral,Premium,Canada,Male,40,Mobile
+CUST00617,2022-09-10,Organic Search,Budget,France,Female,22,Desktop
+CUST00618,2023-06-14,Influencer,Mid-Range,Australia,Male,50,Desktop
+CUST00619,2022-06-28,Organic Search,Budget,France,Male,45,Mobile
+CUST00620,2022-06-02,Paid Social,Premium,UAE,Female,40,Mobile
+CUST00621,2022-05-02,Email,Premium,Australia,Male,28,Mobile
+CUST00622,2023-03-15,Direct,Mid-Range,UAE,Male,54,Mobile
+CUST00623,2022-09-09,Direct,Budget,UK,Male,35,Desktop
+CUST00624,2023-06-04,Organic Search,Budget,Australia,Female,32,Desktop
+CUST00625,2023-03-05,Paid Social,Budget,Australia,Male,19,Mobile
+CUST00626,2022-09-22,Organic Search,Premium,Nigeria,Female,21,Mobile
+CUST00627,2023-06-09,Email,Luxury,Australia,Non-binary,51,Tablet
+CUST00628,2022-11-11,Direct,Budget,France,Female,20,Mobile
+CUST00629,2022-02-09,Direct,Premium,UAE,Female,28,Desktop
+CUST00630,2022-11-15,Paid Social,Luxury,Australia,Female,40,Tablet
+CUST00631,2023-02-07,Paid Social,Budget,France,Male,55,Desktop
+CUST00632,2023-02-12,Paid Social,Premium,Germany,Female,36,Mobile
+CUST00633,2023-05-24,Influencer,Premium,Canada,Female,53,Mobile
+CUST00634,2022-05-28,Direct,Budget,Canada,Male,30,Mobile
+CUST00635,2022-04-09,Referral,Premium,Germany,Male,18,Mobile
+CUST00636,2023-08-03,Organic Search,Premium,Germany,Male,45,Mobile
+CUST00637,2023-04-12,Email,Mid-Range,Nigeria,Non-binary,37,Mobile
+CUST00638,2022-03-31,Influencer,Mid-Range,UAE,Female,25,Mobile
+CUST00639,2022-04-16,Organic Search,Budget,Australia,Non-binary,59,Mobile
+CUST00640,2022-12-09,Organic Search,Premium,UAE,Male,18,Desktop
+CUST00641,2022-08-26,Email,Mid-Range,USA,Male,31,Desktop
+CUST00642,2022-01-04,Email,Mid-Range,Canada,Male,48,Mobile
+CUST00643,2022-06-25,Referral,Mid-Range,USA,Non-binary,47,Desktop
+CUST00644,2022-08-31,Influencer,Premium,UAE,Male,23,Desktop
+CUST00645,2023-03-05,Influencer,Mid-Range,UAE,Female,32,Mobile
+CUST00646,2022-12-24,Referral,Budget,UAE,Male,24,Mobile
+CUST00647,2023-05-20,Direct,Premium,UAE,Female,30,Mobile
+CUST00648,2022-07-07,Paid Social,Mid-Range,Australia,Male,61,Mobile
+CUST00649,2022-01-17,Referral,Premium,UAE,Female,35,Desktop
+CUST00650,2023-03-02,Direct,Budget,Nigeria,Female,65,Tablet
+CUST00651,2023-06-10,Paid Social,Mid-Range,Canada,Female,35,Mobile
+CUST00652,2022-12-10,Email,Mid-Range,Nigeria,Male,29,Mobile
+CUST00653,2023-05-29,Direct,Luxury,USA,Male,62,Mobile
+CUST00654,2022-08-14,Email,Premium,France,Male,29,Mobile
+CUST00655,2022-12-17,Referral,Premium,France,Male,61,Mobile
+CUST00656,2023-06-09,Paid Social,Mid-Range,UK,Male,35,Desktop
+CUST00657,2022-04-15,Paid Social,Premium,Canada,Male,33,Desktop
+CUST00658,2023-06-18,Organic Search,Premium,UK,Male,38,Desktop
+CUST00659,2022-11-06,Paid Social,Budget,UAE,Female,37,Mobile
+CUST00660,2022-11-19,Email,Budget,USA,Male,25,Desktop
+CUST00661,2022-12-02,Direct,Budget,USA,Male,18,Desktop
+CUST00662,2023-01-06,Referral,Budget,UK,Male,54,Mobile
+CUST00663,2023-06-03,Direct,Mid-Range,Australia,Female,40,Desktop
+CUST00664,2022-06-11,Organic Search,Premium,UAE,Female,38,Mobile
+CUST00665,2023-03-22,Referral,Premium,Nigeria,Female,54,Desktop
+CUST00666,2022-08-12,Paid Social,Mid-Range,Germany,Male,46,Desktop
+CUST00667,2023-08-11,Influencer,Premium,France,Female,37,Desktop
+CUST00668,2022-05-16,Email,Premium,Germany,Male,49,Mobile
+CUST00669,2022-11-18,Paid Social,Budget,UAE,Male,54,Mobile
+CUST00670,2023-08-14,Paid Social,Mid-Range,Australia,Male,32,Desktop
+CUST00671,2023-07-30,Organic Search,Mid-Range,Australia,Female,37,Desktop
+CUST00672,2023-09-03,Direct,Mid-Range,UAE,Female,56,Mobile
+CUST00673,2022-05-29,Referral,Budget,Nigeria,Male,36,Desktop
+CUST00674,2022-02-23,Email,Premium,Germany,Female,61,Mobile
+CUST00675,2022-04-23,Organic Search,Mid-Range,Nigeria,Female,28,Mobile
+CUST00676,2022-06-11,Paid Social,Budget,USA,Female,54,Mobile
+CUST00677,2022-08-23,Organic Search,Mid-Range,USA,Female,55,Tablet
+CUST00678,2022-07-07,Email,Budget,France,Non-binary,26,Desktop
+CUST00679,2023-05-23,Direct,Mid-Range,Canada,Female,63,Mobile
+CUST00680,2023-05-02,Paid Social,Budget,Nigeria,Non-binary,46,Desktop
+CUST00681,2022-07-11,Direct,Budget,USA,Male,55,Mobile
+CUST00682,2022-07-05,Organic Search,Mid-Range,Australia,Male,25,Mobile
+CUST00683,2022-05-21,Referral,Premium,UAE,Female,54,Tablet
+CUST00684,2022-08-01,Paid Social,Mid-Range,Germany,Male,58,Tablet
+CUST00685,2022-01-05,Influencer,Mid-Range,Germany,Female,64,Desktop
+CUST00686,2023-05-31,Paid Social,Mid-Range,France,Female,45,Mobile
+CUST00687,2022-04-09,Organic Search,Mid-Range,UK,Female,34,Mobile
+CUST00688,2023-07-07,Referral,Budget,USA,Male,63,Desktop
+CUST00689,2022-10-18,Referral,Budget,France,Male,20,Desktop
+CUST00690,2022-06-13,Email,Mid-Range,France,Male,28,Mobile
+CUST00691,2023-02-20,Email,Budget,UK,Male,30,Desktop
+CUST00692,2023-09-15,Organic Search,Mid-Range,UAE,Male,61,Mobile
+CUST00693,2022-03-01,Email,Budget,UK,Female,60,Mobile
+CUST00694,2022-07-07,Organic Search,Mid-Range,Canada,Non-binary,46,Mobile
+CUST00695,2023-04-13,Referral,Mid-Range,USA,Male,28,Desktop
+CUST00696,2023-04-12,Email,Mid-Range,UK,Female,33,Tablet
+CUST00697,2022-02-16,Referral,Budget,Germany,Female,45,Mobile
+CUST00698,2023-02-06,Direct,Premium,USA,Female,43,Desktop
+CUST00699,2023-06-15,Paid Social,Premium,UK,Male,51,Tablet
+CUST00700,2022-12-24,Organic Search,Budget,Canada,Female,19,Mobile
+CUST00701,2022-11-19,Organic Search,Luxury,Nigeria,Female,42,Mobile
+CUST00702,2023-02-06,Paid Social,Mid-Range,UAE,Female,29,Desktop
+CUST00703,2023-03-08,Email,Mid-Range,France,Female,47,Tablet
+CUST00704,2022-10-21,Paid Social,Mid-Range,USA,Female,47,Desktop
+CUST00705,2022-06-22,Email,Mid-Range,USA,Non-binary,30,Desktop
+CUST00706,2022-01-11,Paid Social,Mid-Range,Canada,Female,60,Mobile
+CUST00707,2022-11-03,Organic Search,Mid-Range,Canada,Female,63,Mobile
+CUST00708,2022-03-10,Direct,Budget,France,Female,26,Desktop
+CUST00709,2022-10-08,Paid Social,Mid-Range,Australia,Female,37,Mobile
+CUST00710,2022-06-12,Email,Mid-Range,Australia,Female,57,Desktop
+CUST00711,2023-09-17,Email,Budget,USA,Male,47,Mobile
+CUST00712,2023-01-18,Influencer,Mid-Range,France,Male,25,Mobile
+CUST00713,2022-05-08,Email,Premium,USA,Female,61,Desktop
+CUST00714,2022-03-01,Organic Search,Premium,Nigeria,Female,26,Mobile
+CUST00715,2022-04-05,Paid Social,Premium,Australia,Male,33,Desktop
+CUST00716,2023-06-03,Organic Search,Mid-Range,UK,Male,53,Desktop
+CUST00717,2022-07-20,Email,Premium,Australia,Male,21,Mobile
+CUST00718,2023-04-15,Paid Social,Premium,UK,Female,29,Tablet
+CUST00719,2022-07-28,Paid Social,Premium,Nigeria,Female,47,Mobile
+CUST00720,2022-12-02,Organic Search,Mid-Range,USA,Male,42,Desktop
+CUST00721,2023-02-19,Organic Search,Mid-Range,USA,Male,62,Mobile
+CUST00722,2023-02-25,Paid Social,Mid-Range,Nigeria,Male,23,Mobile
+CUST00723,2022-12-24,Organic Search,Mid-Range,UK,Female,23,Desktop
+CUST00724,2022-12-03,Referral,Premium,USA,Male,33,Desktop
+CUST00725,2022-08-10,Paid Social,Mid-Range,Australia,Male,22,Desktop
+CUST00726,2023-01-29,Email,Budget,USA,Male,62,Mobile
+CUST00727,2022-09-14,Organic Search,Mid-Range,UK,Female,35,Mobile
+CUST00728,2022-06-09,Referral,Premium,Germany,Female,20,Desktop
+CUST00729,2023-07-03,Organic Search,Luxury,USA,Female,18,Mobile
+CUST00730,2022-08-03,Paid Social,Budget,Australia,Male,29,Mobile
+CUST00731,2023-06-09,Paid Social,Premium,Nigeria,Female,64,Mobile
+CUST00732,2023-06-17,Organic Search,Mid-Range,UAE,Female,25,Mobile
+CUST00733,2022-09-16,Influencer,Premium,Nigeria,Male,32,Tablet
+CUST00734,2022-06-03,Paid Social,Premium,UAE,Female,26,Mobile
+CUST00735,2022-10-21,Organic Search,Mid-Range,USA,Female,22,Desktop
+CUST00736,2022-05-21,Direct,Mid-Range,Australia,Male,24,Mobile
+CUST00737,2022-05-19,Email,Budget,Australia,Female,49,Desktop
+CUST00738,2022-03-25,Paid Social,Mid-Range,Germany,Male,46,Mobile
+CUST00739,2022-03-18,Paid Social,Mid-Range,UAE,Male,54,Mobile
+CUST00740,2022-11-20,Email,Premium,Germany,Male,44,Mobile
+CUST00741,2022-01-13,Paid Social,Budget,UAE,Female,59,Mobile
+CUST00742,2022-07-15,Paid Social,Premium,France,Male,46,Mobile
+CUST00743,2023-03-05,Paid Social,Premium,UAE,Female,37,Desktop
+CUST00744,2022-01-28,Referral,Mid-Range,Nigeria,Male,33,Mobile
+CUST00745,2022-05-01,Paid Social,Budget,UK,Female,46,Mobile
+CUST00746,2022-03-16,Direct,Premium,Canada,Male,20,Mobile
+CUST00747,2022-05-11,Email,Mid-Range,France,Non-binary,46,Desktop
+CUST00748,2023-01-23,Referral,Budget,UAE,Male,20,Desktop
+CUST00749,2023-03-08,Paid Social,Mid-Range,Australia,Male,59,Desktop
+CUST00750,2022-10-17,Referral,Mid-Range,Nigeria,Female,52,Mobile
+CUST00751,2023-08-13,Paid Social,Luxury,Australia,Non-binary,26,Mobile
+CUST00752,2023-06-04,Influencer,Premium,Germany,Male,28,Desktop
+CUST00753,2023-03-16,Organic Search,Premium,Germany,Female,48,Mobile
+CUST00754,2022-04-16,Paid Social,Budget,UK,Female,52,Mobile
+CUST00755,2022-02-09,Email,Mid-Range,UAE,Female,33,Mobile
+CUST00756,2022-12-15,Paid Social,Budget,Nigeria,Male,61,Desktop
+CUST00757,2023-08-13,Paid Social,Luxury,UAE,Female,20,Desktop
+CUST00758,2022-04-28,Email,Budget,USA,Male,51,Mobile
+CUST00759,2023-05-10,Direct,Budget,Australia,Female,62,Mobile
+CUST00760,2023-08-08,Paid Social,Premium,Australia,Male,61,Mobile
+CUST00761,2023-01-06,Email,Mid-Range,Nigeria,Male,33,Desktop
+CUST00762,2022-01-14,Referral,Mid-Range,USA,Female,27,Mobile
+CUST00763,2023-05-15,Influencer,Budget,UK,Male,42,Desktop
+CUST00764,2022-07-13,Referral,Mid-Range,France,Non-binary,62,Desktop
+CUST00765,2022-07-12,Email,Premium,Australia,Male,34,Mobile
+CUST00766,2022-06-01,Email,Budget,Germany,Male,26,Desktop
+CUST00767,2023-01-07,Referral,Mid-Range,USA,Female,25,Desktop
+CUST00768,2023-02-02,Email,Mid-Range,Canada,Female,28,Mobile
+CUST00769,2022-05-24,Email,Mid-Range,USA,Male,58,Mobile
+CUST00770,2023-05-06,Paid Social,Budget,Australia,Male,55,Mobile
+CUST00771,2023-03-27,Organic Search,Mid-Range,UAE,Non-binary,42,Tablet
+CUST00772,2022-01-29,Influencer,Mid-Range,France,Female,39,Desktop
+CUST00773,2022-12-27,Email,Mid-Range,Germany,Male,48,Mobile
+CUST00774,2022-12-16,Referral,Mid-Range,Canada,Female,31,Mobile
+CUST00775,2022-07-06,Paid Social,Premium,Nigeria,Female,24,Mobile
+CUST00776,2023-09-17,Paid Social,Premium,USA,Female,53,Desktop
+CUST00777,2022-10-21,Paid Social,Budget,France,Female,25,Desktop
+CUST00778,2023-02-01,Email,Mid-Range,UK,Female,42,Mobile
+CUST00779,2023-09-25,Organic Search,Budget,UAE,Female,44,Tablet
+CUST00780,2023-08-30,Paid Social,Budget,Canada,Male,44,Desktop
+CUST00781,2023-06-19,Influencer,Luxury,UK,Male,58,Tablet
+CUST00782,2022-03-21,Referral,Premium,Germany,Male,61,Mobile
+CUST00783,2022-09-11,Organic Search,Budget,UK,Male,47,Mobile
+CUST00784,2022-01-23,Referral,Budget,Australia,Female,65,Mobile
+CUST00785,2023-03-10,Paid Social,Mid-Range,UAE,Female,63,Mobile
+CUST00786,2023-07-07,Email,Luxury,USA,Female,49,Tablet
+CUST00787,2022-07-12,Paid Social,Premium,Nigeria,Male,18,Tablet
+CUST00788,2022-09-18,Email,Budget,France,Female,57,Desktop
+CUST00789,2022-11-21,Paid Social,Premium,Australia,Female,46,Mobile
+CUST00790,2022-09-21,Organic Search,Budget,UK,Male,20,Mobile
+CUST00791,2023-04-29,Influencer,Budget,Canada,Female,21,Mobile
+CUST00792,2022-01-12,Referral,Budget,UK,Male,60,Mobile
+CUST00793,2023-07-02,Email,Premium,UAE,Female,43,Mobile
+CUST00794,2022-12-27,Organic Search,Budget,UK,Male,58,Desktop
+CUST00795,2022-01-02,Paid Social,Budget,USA,Male,57,Mobile
+CUST00796,2022-08-06,Referral,Premium,USA,Female,27,Desktop
+CUST00797,2023-06-05,Paid Social,Luxury,UK,Female,21,Mobile
+CUST00798,2022-10-31,Email,Mid-Range,USA,Male,48,Mobile
+CUST00799,2023-04-12,Direct,Mid-Range,Canada,Female,55,Mobile
+CUST00800,2022-04-12,Paid Social,Mid-Range,Germany,Female,23,Desktop
+CUST00801,2022-10-17,Email,Budget,UK,Female,43,Desktop
+CUST00802,2023-07-23,Organic Search,Mid-Range,UAE,Female,20,Desktop
+CUST00803,2023-04-18,Direct,Mid-Range,UAE,Female,41,Desktop
+CUST00804,2023-08-15,Organic Search,Mid-Range,UK,Female,64,Desktop
+CUST00805,2023-05-03,Organic Search,Luxury,Nigeria,Female,51,Desktop
+CUST00806,2022-12-24,Email,Budget,France,Female,18,Mobile
+CUST00807,2022-12-12,Email,Luxury,UK,Male,36,Mobile
+CUST00808,2023-08-01,Paid Social,Premium,France,Female,22,Desktop
+CUST00809,2023-09-01,Email,Mid-Range,USA,Female,22,Desktop
+CUST00810,2022-11-21,Organic Search,Budget,UK,Male,44,Mobile
+CUST00811,2022-07-07,Organic Search,Luxury,UAE,Female,20,Desktop
+CUST00812,2023-06-01,Email,Premium,Canada,Female,40,Desktop
+CUST00813,2023-07-08,Organic Search,Mid-Range,Australia,Male,21,Desktop
+CUST00814,2022-01-31,Direct,Budget,USA,Male,54,Desktop
+CUST00815,2022-09-16,Paid Social,Premium,USA,Female,49,Mobile
+CUST00816,2022-12-07,Referral,Luxury,Nigeria,Female,52,Desktop
+CUST00817,2023-01-10,Referral,Premium,France,Male,31,Desktop
+CUST00818,2022-10-22,Email,Premium,France,Male,58,Mobile
+CUST00819,2023-02-22,Organic Search,Budget,UK,Female,28,Tablet
+CUST00820,2023-05-18,Influencer,Premium,Australia,Male,51,Mobile
+CUST00821,2022-01-06,Direct,Mid-Range,France,Male,26,Mobile
+CUST00822,2023-01-09,Paid Social,Luxury,UK,Male,65,Desktop
+CUST00823,2023-06-19,Direct,Premium,Australia,Male,58,Desktop
+CUST00824,2022-01-26,Paid Social,Premium,UAE,Male,41,Mobile
+CUST00825,2022-12-31,Direct,Premium,USA,Male,43,Desktop
+CUST00826,2022-07-25,Organic Search,Premium,Canada,Female,39,Mobile
+CUST00827,2023-05-17,Direct,Luxury,Canada,Female,28,Mobile
+CUST00828,2023-04-19,Paid Social,Mid-Range,Canada,Male,18,Mobile
+CUST00829,2022-07-21,Organic Search,Premium,UK,Female,38,Desktop
+CUST00830,2023-04-06,Organic Search,Premium,UAE,Female,45,Mobile
+CUST00831,2022-01-20,Organic Search,Mid-Range,UAE,Male,23,Mobile
+CUST00832,2023-07-02,Email,Luxury,Germany,Female,45,Mobile
+CUST00833,2022-08-02,Paid Social,Luxury,Australia,Female,59,Mobile
+CUST00834,2022-04-28,Referral,Mid-Range,France,Female,49,Desktop
+CUST00835,2022-07-26,Paid Social,Budget,Germany,Male,58,Mobile
+CUST00836,2022-04-08,Paid Social,Mid-Range,Australia,Male,49,Desktop
+CUST00837,2022-11-08,Referral,Budget,Australia,Male,38,Mobile
+CUST00838,2023-07-16,Organic Search,Budget,Germany,Female,24,Mobile
+CUST00839,2023-09-01,Influencer,Mid-Range,Nigeria,Non-binary,33,Mobile
+CUST00840,2022-07-10,Referral,Premium,Australia,Female,48,Mobile
+CUST00841,2022-02-01,Paid Social,Budget,Australia,Female,27,Desktop
+CUST00842,2022-05-15,Email,Mid-Range,Germany,Non-binary,32,Desktop
+CUST00843,2023-01-23,Referral,Budget,UAE,Female,52,Desktop
+CUST00844,2022-10-12,Direct,Budget,France,Male,27,Tablet
+CUST00845,2022-06-29,Email,Mid-Range,France,Female,18,Mobile
+CUST00846,2023-01-25,Email,Budget,UK,Male,65,Mobile
+CUST00847,2023-01-27,Influencer,Budget,UAE,Male,21,Tablet
+CUST00848,2022-11-12,Paid Social,Budget,France,Male,38,Mobile
+CUST00849,2022-06-02,Organic Search,Luxury,Canada,Male,46,Tablet
+CUST00850,2023-09-15,Email,Budget,Canada,Female,18,Desktop
+CUST00851,2022-09-21,Paid Social,Mid-Range,Australia,Female,50,Mobile
+CUST00852,2022-10-29,Organic Search,Mid-Range,USA,Male,20,Desktop
+CUST00853,2023-02-25,Email,Mid-Range,Canada,Non-binary,28,Mobile
+CUST00854,2023-08-16,Paid Social,Premium,UK,Male,37,Desktop
+CUST00855,2022-05-09,Email,Mid-Range,France,Male,42,Desktop
+CUST00856,2022-07-31,Organic Search,Mid-Range,UK,Female,40,Mobile
+CUST00857,2022-01-29,Paid Social,Premium,Nigeria,Female,38,Desktop
+CUST00858,2023-09-24,Direct,Mid-Range,UAE,Female,18,Mobile
+CUST00859,2023-03-18,Paid Social,Mid-Range,Australia,Male,63,Desktop
+CUST00860,2022-08-25,Direct,Luxury,Nigeria,Male,56,Mobile
+CUST00861,2022-03-20,Direct,Budget,Germany,Male,55,Desktop
+CUST00862,2022-11-04,Paid Social,Budget,Australia,Female,40,Mobile
+CUST00863,2023-09-14,Email,Premium,Germany,Female,35,Desktop
+CUST00864,2022-12-02,Influencer,Luxury,UAE,Male,64,Tablet
+CUST00865,2022-02-27,Organic Search,Premium,Canada,Male,37,Tablet
+CUST00866,2022-10-13,Paid Social,Luxury,Germany,Male,24,Mobile
+CUST00867,2022-08-10,Email,Budget,Canada,Female,30,Tablet
+CUST00868,2022-01-26,Referral,Mid-Range,UK,Non-binary,62,Mobile
+CUST00869,2023-04-22,Email,Budget,Nigeria,Female,25,Desktop
+CUST00870,2022-12-09,Email,Mid-Range,Australia,Female,36,Mobile
+CUST00871,2022-05-08,Direct,Budget,France,Male,25,Desktop
+CUST00872,2022-10-22,Email,Budget,Germany,Non-binary,20,Desktop
+CUST00873,2023-02-12,Paid Social,Premium,USA,Female,52,Mobile
+CUST00874,2023-03-09,Organic Search,Mid-Range,France,Male,50,Mobile
+CUST00875,2022-05-25,Paid Social,Premium,UAE,Male,18,Desktop
+CUST00876,2022-04-04,Paid Social,Mid-Range,France,Male,22,Mobile
+CUST00877,2023-07-09,Paid Social,Mid-Range,Canada,Non-binary,32,Mobile
+CUST00878,2022-01-11,Organic Search,Budget,Germany,Male,22,Mobile
+CUST00879,2022-09-26,Referral,Budget,France,Non-binary,55,Desktop
+CUST00880,2023-05-27,Direct,Mid-Range,Canada,Female,64,Desktop
+CUST00881,2022-02-26,Email,Budget,Australia,Female,25,Mobile
+CUST00882,2023-05-30,Email,Luxury,Australia,Male,58,Desktop
+CUST00883,2023-01-22,Email,Premium,Australia,Male,45,Desktop
+CUST00884,2022-11-28,Organic Search,Mid-Range,Canada,Male,62,Mobile
+CUST00885,2022-04-20,Direct,Budget,UAE,Female,40,Mobile
+CUST00886,2023-09-05,Organic Search,Mid-Range,Canada,Male,35,Mobile
+CUST00887,2022-03-20,Email,Mid-Range,Germany,Female,25,Mobile
+CUST00888,2023-04-24,Paid Social,Budget,Canada,Female,48,Desktop
+CUST00889,2022-11-19,Organic Search,Budget,Germany,Non-binary,37,Tablet
+CUST00890,2022-04-25,Paid Social,Mid-Range,UAE,Female,30,Mobile
+CUST00891,2022-11-10,Organic Search,Budget,France,Male,20,Mobile
+CUST00892,2022-09-30,Paid Social,Budget,Germany,Male,45,Tablet
+CUST00893,2022-07-16,Organic Search,Mid-Range,Australia,Non-binary,37,Mobile
+CUST00894,2022-05-16,Direct,Mid-Range,UK,Female,52,Desktop
+CUST00895,2022-09-07,Email,Mid-Range,Australia,Female,29,Desktop
+CUST00896,2023-01-02,Paid Social,Premium,France,Female,46,Desktop
+CUST00897,2022-08-21,Paid Social,Mid-Range,Canada,Male,19,Mobile
+CUST00898,2023-07-29,Referral,Mid-Range,USA,Male,22,Mobile
+CUST00899,2023-06-18,Referral,Mid-Range,Australia,Male,21,Mobile
+CUST00900,2023-05-16,Email,Premium,Australia,Female,47,Mobile
+CUST00901,2022-12-22,Referral,Budget,France,Female,38,Desktop
+CUST00902,2022-04-15,Paid Social,Mid-Range,Australia,Male,58,Desktop
+CUST00903,2023-09-19,Email,Premium,Germany,Male,24,Desktop
+CUST00904,2022-08-25,Email,Mid-Range,Australia,Male,36,Desktop
+CUST00905,2022-06-12,Direct,Budget,Australia,Male,21,Desktop
+CUST00906,2023-07-15,Paid Social,Premium,UK,Male,39,Mobile
+CUST00907,2022-07-20,Paid Social,Budget,USA,Male,45,Mobile
+CUST00908,2022-06-19,Paid Social,Budget,UAE,Female,56,Desktop
+CUST00909,2022-04-18,Influencer,Budget,Nigeria,Female,36,Mobile
+CUST00910,2023-07-27,Email,Mid-Range,Canada,Female,61,Mobile
+CUST00911,2023-04-27,Organic Search,Premium,Australia,Male,55,Tablet
+CUST00912,2022-08-26,Email,Budget,Nigeria,Male,51,Mobile
+CUST00913,2022-07-22,Paid Social,Premium,France,Female,30,Desktop
+CUST00914,2022-07-03,Email,Budget,Nigeria,Male,60,Mobile
+CUST00915,2022-11-08,Paid Social,Luxury,Germany,Male,20,Desktop
+CUST00916,2022-09-14,Paid Social,Premium,Canada,Female,42,Desktop
+CUST00917,2022-12-18,Organic Search,Luxury,Nigeria,Male,29,Mobile
+CUST00918,2023-05-03,Email,Premium,Canada,Female,62,Mobile
+CUST00919,2022-03-06,Paid Social,Mid-Range,UAE,Male,46,Mobile
+CUST00920,2022-05-20,Organic Search,Budget,UK,Male,27,Mobile
+CUST00921,2022-02-08,Direct,Premium,Canada,Male,51,Tablet
+CUST00922,2022-02-15,Organic Search,Budget,France,Male,63,Desktop
+CUST00923,2023-06-13,Direct,Luxury,Australia,Female,34,Tablet
+CUST00924,2022-03-11,Organic Search,Premium,France,Male,48,Mobile
+CUST00925,2023-03-31,Paid Social,Mid-Range,UK,Male,43,Mobile
+CUST00926,2022-09-01,Paid Social,Budget,UAE,Female,24,Desktop
+CUST00927,2023-03-08,Paid Social,Premium,Germany,Female,32,Tablet
+CUST00928,2023-03-01,Email,Premium,Australia,Male,39,Mobile
+CUST00929,2023-02-17,Paid Social,Mid-Range,UK,Female,31,Mobile
+CUST00930,2022-02-12,Referral,Mid-Range,Germany,Male,48,Mobile
+CUST00931,2022-12-30,Paid Social,Budget,USA,Female,29,Mobile
+CUST00932,2022-01-24,Paid Social,Premium,France,Male,46,Desktop
+CUST00933,2023-06-01,Referral,Luxury,Nigeria,Male,18,Desktop
+CUST00934,2022-11-01,Paid Social,Premium,Australia,Male,43,Mobile
+CUST00935,2023-07-20,Email,Mid-Range,UAE,Female,19,Desktop
+CUST00936,2022-01-24,Paid Social,Mid-Range,Nigeria,Male,29,Mobile
+CUST00937,2022-03-29,Paid Social,Premium,France,Female,55,Mobile
+CUST00938,2023-04-17,Referral,Budget,Australia,Male,26,Desktop
+CUST00939,2022-09-04,Referral,Mid-Range,Nigeria,Female,25,Desktop
+CUST00940,2023-04-17,Referral,Luxury,UK,Female,32,Mobile
+CUST00941,2022-10-01,Email,Luxury,Nigeria,Female,39,Mobile
+CUST00942,2023-05-06,Paid Social,Premium,Australia,Male,33,Desktop
+CUST00943,2023-06-24,Paid Social,Premium,Australia,Female,26,Mobile
+CUST00944,2022-01-28,Referral,Budget,Nigeria,Male,44,Mobile
+CUST00945,2023-04-03,Organic Search,Luxury,Germany,Male,19,Mobile
+CUST00946,2022-06-06,Organic Search,Mid-Range,USA,Male,53,Desktop
+CUST00947,2022-01-01,Paid Social,Budget,USA,Male,25,Mobile
+CUST00948,2022-09-03,Influencer,Mid-Range,Nigeria,Female,34,Mobile
+CUST00949,2022-10-04,Direct,Budget,France,Female,39,Mobile
+CUST00950,2022-12-07,Referral,Mid-Range,UK,Female,28,Mobile
+CUST00951,2023-07-21,Influencer,Budget,Canada,Female,40,Tablet
+CUST00952,2023-02-23,Referral,Budget,Canada,Female,60,Mobile
+CUST00953,2022-10-06,Organic Search,Budget,Nigeria,Female,58,Mobile
+CUST00954,2022-01-10,Paid Social,Premium,France,Non-binary,23,Mobile
+CUST00955,2022-04-14,Paid Social,Mid-Range,UK,Male,56,Desktop
+CUST00956,2023-06-14,Organic Search,Mid-Range,Nigeria,Male,32,Desktop
+CUST00957,2022-06-17,Email,Luxury,USA,Female,29,Mobile
+CUST00958,2022-03-16,Organic Search,Luxury,Australia,Male,19,Mobile
+CUST00959,2022-01-30,Organic Search,Budget,Nigeria,Female,43,Desktop
+CUST00960,2023-02-27,Paid Social,Budget,UAE,Female,37,Desktop
+CUST00961,2022-01-09,Paid Social,Budget,Canada,Male,47,Desktop
+CUST00962,2022-01-17,Influencer,Budget,UK,Non-binary,39,Mobile
+CUST00963,2022-04-21,Paid Social,Budget,USA,Female,27,Desktop
+CUST00964,2023-07-15,Referral,Mid-Range,Nigeria,Male,22,Desktop
+CUST00965,2022-04-24,Direct,Mid-Range,Australia,Male,37,Mobile
+CUST00966,2023-07-07,Paid Social,Budget,Nigeria,Female,65,Mobile
+CUST00967,2022-05-06,Referral,Mid-Range,Australia,Female,33,Desktop
+CUST00968,2022-07-09,Paid Social,Mid-Range,UK,Female,65,Desktop
+CUST00969,2022-01-15,Organic Search,Mid-Range,USA,Female,24,Desktop
+CUST00970,2023-02-04,Paid Social,Luxury,Nigeria,Male,28,Mobile
+CUST00971,2023-03-14,Referral,Budget,Canada,Male,28,Mobile
+CUST00972,2022-07-01,Organic Search,Premium,UAE,Female,24,Mobile
+CUST00973,2023-09-17,Influencer,Mid-Range,France,Male,64,Mobile
+CUST00974,2023-06-29,Paid Social,Luxury,Canada,Female,38,Mobile
+CUST00975,2022-07-28,Paid Social,Luxury,Canada,Female,38,Desktop
+CUST00976,2022-09-29,Influencer,Premium,Germany,Male,43,Mobile
+CUST00977,2023-08-26,Organic Search,Mid-Range,Nigeria,Male,29,Mobile
+CUST00978,2023-09-02,Paid Social,Premium,UAE,Female,21,Mobile
+CUST00979,2022-04-04,Referral,Budget,Nigeria,Male,34,Desktop
+CUST00980,2023-02-20,Email,Mid-Range,Germany,Female,49,Mobile
+CUST00981,2022-05-13,Paid Social,Mid-Range,Australia,Female,34,Mobile
+CUST00982,2023-08-16,Email,Luxury,Canada,Male,25,Mobile
+CUST00983,2023-05-16,Referral,Budget,Germany,Male,29,Tablet
+CUST00984,2022-03-08,Referral,Mid-Range,Australia,Female,47,Mobile
+CUST00985,2023-09-16,Paid Social,Budget,Canada,Male,42,Mobile
+CUST00986,2022-01-10,Email,Mid-Range,Nigeria,Female,24,Desktop
+CUST00987,2022-05-31,Direct,Premium,Australia,Male,31,Desktop
+CUST00988,2022-07-09,Paid Social,Luxury,Australia,Female,40,Mobile
+CUST00989,2022-05-27,Referral,Premium,Canada,Male,46,Desktop
+CUST00990,2023-01-20,Paid Social,Luxury,Australia,Male,32,Desktop
+CUST00991,2022-09-10,Referral,Budget,Australia,Male,40,Mobile
+CUST00992,2022-11-24,Influencer,Mid-Range,Canada,Female,53,Desktop
+CUST00993,2022-12-04,Organic Search,Mid-Range,Nigeria,Male,24,Desktop
+CUST00994,2022-07-12,Paid Social,Budget,Canada,Female,45,Mobile
+CUST00995,2022-03-11,Influencer,Budget,France,Male,31,Mobile
+CUST00996,2022-01-13,Email,Premium,France,Male,44,Mobile
+CUST00997,2023-01-07,Paid Social,Budget,Canada,Female,29,Desktop
+CUST00998,2023-06-26,Organic Search,Premium,UK,Male,49,Desktop
+CUST00999,2023-04-09,Influencer,Budget,France,Female,51,Mobile
+CUST01000,2023-02-05,Paid Social,Mid-Range,France,Female,43,Mobile
+CUST01001,2023-03-30,Paid Social,Budget,Australia,Female,46,Mobile
+CUST01002,2022-01-21,Organic Search,Budget,Canada,Male,42,Mobile
+CUST01003,2023-07-23,Referral,Mid-Range,Nigeria,Female,42,Tablet
+CUST01004,2022-06-29,Paid Social,Mid-Range,Australia,Female,24,Desktop
+CUST01005,2022-08-08,Paid Social,Mid-Range,Germany,Female,20,Mobile
+CUST01006,2022-10-13,Referral,Premium,USA,Male,45,Mobile
+CUST01007,2022-08-15,Organic Search,Premium,Nigeria,Female,18,Desktop
+CUST01008,2022-05-21,Organic Search,Premium,UK,Female,37,Mobile
+CUST01009,2023-04-27,Direct,Budget,Germany,Female,28,Desktop
+CUST01010,2023-03-31,Email,Mid-Range,USA,Female,25,Desktop
+CUST01011,2022-04-01,Email,Luxury,USA,Male,53,Mobile
+CUST01012,2022-04-06,Referral,Mid-Range,Canada,Male,28,Mobile
+CUST01013,2022-04-27,Direct,Mid-Range,USA,Female,52,Desktop
+CUST01014,2023-07-02,Email,Mid-Range,USA,Non-binary,57,Mobile
+CUST01015,2022-10-21,Organic Search,Mid-Range,Australia,Female,48,Mobile
+CUST01016,2023-09-18,Email,Mid-Range,USA,Male,53,Desktop
+CUST01017,2022-07-14,Organic Search,Premium,UK,Male,40,Desktop
+CUST01018,2022-01-10,Paid Social,Mid-Range,Nigeria,Male,37,Mobile
+CUST01019,2022-02-07,Paid Social,Premium,Nigeria,Male,50,Mobile
+CUST01020,2023-01-12,Paid Social,Mid-Range,UK,Male,48,Mobile
+CUST01021,2023-01-14,Email,Mid-Range,Nigeria,Female,38,Mobile
+CUST01022,2022-05-21,Paid Social,Premium,France,Female,56,Desktop
+CUST01023,2022-02-22,Influencer,Mid-Range,USA,Male,37,Desktop
+CUST01024,2022-05-10,Direct,Budget,UK,Female,40,Mobile
+CUST01025,2022-04-22,Paid Social,Budget,USA,Female,49,Mobile
+CUST01026,2022-07-30,Referral,Mid-Range,Nigeria,Female,63,Mobile
+CUST01027,2022-01-10,Organic Search,Premium,Canada,Female,41,Desktop
+CUST01028,2022-03-20,Paid Social,Luxury,USA,Male,46,Mobile
+CUST01029,2022-08-28,Email,Premium,UK,Female,61,Mobile
+CUST01030,2023-07-03,Referral,Premium,Australia,Male,21,Mobile
+CUST01031,2022-08-04,Email,Budget,Australia,Female,18,Desktop
+CUST01032,2022-04-23,Organic Search,Mid-Range,Australia,Male,22,Mobile
+CUST01033,2022-05-05,Organic Search,Budget,UAE,Non-binary,62,Desktop
+CUST01034,2023-06-13,Referral,Premium,UK,Male,37,Mobile
+CUST01035,2022-04-19,Paid Social,Budget,Germany,Male,38,Mobile
+CUST01036,2023-09-23,Paid Social,Mid-Range,UAE,Male,32,Mobile
+CUST01037,2022-07-13,Organic Search,Mid-Range,UAE,Female,61,Mobile
+CUST01038,2023-03-20,Influencer,Luxury,Australia,Male,25,Mobile
+CUST01039,2023-09-25,Paid Social,Premium,Germany,Male,19,Desktop
+CUST01040,2023-05-07,Referral,Premium,France,Female,35,Mobile
+CUST01041,2023-07-31,Email,Budget,Canada,Male,55,Mobile
+CUST01042,2022-01-28,Influencer,Premium,UAE,Male,34,Mobile
+CUST01043,2022-12-20,Paid Social,Mid-Range,Canada,Male,21,Mobile
+CUST01044,2023-06-24,Paid Social,Budget,France,Male,20,Desktop
+CUST01045,2023-08-07,Direct,Luxury,Australia,Male,21,Desktop
+CUST01046,2023-02-02,Direct,Mid-Range,UAE,Female,38,Mobile
+CUST01047,2022-04-19,Email,Premium,UAE,Male,25,Mobile
+CUST01048,2022-05-31,Paid Social,Mid-Range,Canada,Male,41,Mobile
+CUST01049,2023-09-24,Direct,Budget,France,Male,33,Desktop
+CUST01050,2023-06-27,Direct,Mid-Range,Germany,Male,58,Mobile
+CUST01051,2022-11-10,Paid Social,Mid-Range,Nigeria,Male,65,Mobile
+CUST01052,2022-11-26,Influencer,Budget,Australia,Male,23,Mobile
+CUST01053,2022-04-17,Direct,Premium,UAE,Female,40,Mobile
+CUST01054,2023-07-28,Direct,Mid-Range,Nigeria,Female,41,Mobile
+CUST01055,2023-02-28,Organic Search,Mid-Range,Australia,Female,57,Desktop
+CUST01056,2022-08-15,Direct,Budget,USA,Male,20,Mobile
+CUST01057,2022-04-01,Email,Mid-Range,UAE,Male,61,Mobile
+CUST01058,2023-09-28,Direct,Premium,France,Female,22,Desktop
+CUST01059,2022-04-12,Paid Social,Mid-Range,USA,Male,45,Mobile
+CUST01060,2022-02-26,Email,Budget,USA,Female,55,Desktop
+CUST01061,2023-05-29,Paid Social,Premium,USA,Male,50,Mobile
+CUST01062,2023-05-10,Organic Search,Premium,Australia,Non-binary,23,Mobile
+CUST01063,2022-08-02,Paid Social,Mid-Range,Germany,Female,58,Desktop
+CUST01064,2022-12-15,Referral,Mid-Range,Canada,Male,47,Desktop
+CUST01065,2022-01-07,Paid Social,Luxury,UK,Female,37,Desktop
+CUST01066,2023-07-16,Influencer,Budget,France,Male,51,Mobile
+CUST01067,2023-06-22,Paid Social,Mid-Range,USA,Male,34,Tablet
+CUST01068,2022-11-24,Email,Mid-Range,Canada,Female,40,Tablet
+CUST01069,2022-11-26,Direct,Premium,UAE,Female,31,Desktop
+CUST01070,2023-08-22,Referral,Mid-Range,Nigeria,Non-binary,43,Mobile
+CUST01071,2022-04-27,Paid Social,Premium,France,Female,54,Mobile
+CUST01072,2022-05-27,Email,Premium,UAE,Male,24,Desktop
+CUST01073,2023-05-20,Email,Mid-Range,France,Male,60,Tablet
+CUST01074,2022-06-23,Paid Social,Mid-Range,USA,Female,32,Mobile
+CUST01075,2022-06-27,Organic Search,Budget,Canada,Male,25,Mobile
+CUST01076,2022-07-27,Influencer,Premium,France,Female,42,Desktop
+CUST01077,2022-08-20,Email,Premium,Canada,Female,28,Mobile
+CUST01078,2022-10-11,Direct,Mid-Range,USA,Male,26,Mobile
+CUST01079,2022-03-02,Organic Search,Mid-Range,USA,Female,33,Desktop
+CUST01080,2023-01-20,Direct,Premium,Germany,Female,57,Mobile
+CUST01081,2023-02-18,Organic Search,Premium,USA,Male,36,Desktop
+CUST01082,2023-02-06,Referral,Premium,UAE,Female,19,Mobile
+CUST01083,2022-05-13,Direct,Luxury,Canada,Male,42,Mobile
+CUST01084,2022-10-29,Email,Premium,Nigeria,Male,36,Mobile
+CUST01085,2022-08-21,Influencer,Budget,France,Female,44,Desktop
+CUST01086,2022-03-27,Paid Social,Mid-Range,Nigeria,Male,62,Tablet
+CUST01087,2022-10-18,Email,Premium,France,Female,41,Desktop
+CUST01088,2022-11-08,Organic Search,Mid-Range,Australia,Female,41,Mobile
+CUST01089,2022-01-29,Organic Search,Budget,Germany,Female,32,Desktop
+CUST01090,2022-02-15,Organic Search,Premium,Nigeria,Female,58,Desktop
+CUST01091,2022-03-01,Organic Search,Mid-Range,Germany,Female,19,Mobile
+CUST01092,2023-06-29,Referral,Premium,Australia,Male,41,Mobile
+CUST01093,2023-08-18,Email,Premium,Canada,Male,58,Mobile
+CUST01094,2023-03-30,Paid Social,Mid-Range,Canada,Male,34,Mobile
+CUST01095,2023-04-08,Organic Search,Premium,Germany,Male,35,Tablet
+CUST01096,2023-03-03,Paid Social,Premium,Germany,Male,23,Mobile
+CUST01097,2023-06-25,Email,Mid-Range,Australia,Female,64,Mobile
+CUST01098,2022-02-05,Paid Social,Budget,Canada,Male,30,Mobile
+CUST01099,2022-11-20,Paid Social,Mid-Range,UAE,Female,57,Mobile
+CUST01100,2022-05-22,Organic Search,Mid-Range,UAE,Female,21,Mobile
+CUST01101,2023-01-22,Influencer,Mid-Range,Germany,Male,47,Desktop
+CUST01102,2022-02-13,Organic Search,Budget,USA,Male,25,Tablet
+CUST01103,2022-01-26,Paid Social,Premium,France,Female,35,Mobile
+CUST01104,2023-03-28,Paid Social,Budget,UK,Non-binary,25,Mobile
+CUST01105,2022-05-16,Email,Premium,Australia,Female,59,Mobile
+CUST01106,2022-09-06,Influencer,Mid-Range,Canada,Male,47,Mobile
+CUST01107,2022-02-18,Organic Search,Budget,UAE,Female,35,Desktop
+CUST01108,2022-08-25,Paid Social,Mid-Range,USA,Male,54,Tablet
+CUST01109,2023-03-28,Direct,Luxury,UK,Male,56,Mobile
+CUST01110,2022-01-13,Paid Social,Premium,France,Male,43,Tablet
+CUST01111,2022-09-08,Email,Premium,Canada,Male,41,Mobile
+CUST01112,2022-07-29,Organic Search,Luxury,Nigeria,Male,38,Mobile
+CUST01113,2022-02-16,Referral,Premium,Australia,Male,19,Mobile
+CUST01114,2022-12-26,Paid Social,Budget,Germany,Female,64,Mobile
+CUST01115,2022-12-23,Influencer,Budget,France,Female,28,Mobile
+CUST01116,2023-08-19,Organic Search,Mid-Range,Germany,Female,50,Mobile
+CUST01117,2023-04-12,Paid Social,Mid-Range,UAE,Non-binary,38,Desktop
+CUST01118,2022-09-21,Organic Search,Budget,France,Female,23,Tablet
+CUST01119,2022-09-12,Organic Search,Mid-Range,France,Male,55,Desktop
+CUST01120,2023-07-01,Paid Social,Mid-Range,USA,Male,27,Desktop
+CUST01121,2022-09-26,Email,Mid-Range,Germany,Female,34,Mobile
+CUST01122,2023-01-10,Email,Mid-Range,Canada,Male,55,Desktop
+CUST01123,2022-01-23,Paid Social,Mid-Range,Australia,Female,55,Desktop
+CUST01124,2023-04-03,Direct,Premium,Australia,Female,43,Mobile
+CUST01125,2023-06-26,Paid Social,Budget,UAE,Female,61,Mobile
+CUST01126,2023-01-21,Organic Search,Mid-Range,Nigeria,Male,46,Desktop
+CUST01127,2023-09-27,Paid Social,Premium,Australia,Male,60,Mobile
+CUST01128,2022-07-01,Paid Social,Mid-Range,UK,Non-binary,28,Desktop
+CUST01129,2022-07-30,Paid Social,Budget,Nigeria,Female,63,Desktop
+CUST01130,2022-10-12,Paid Social,Budget,Nigeria,Female,18,Mobile
+CUST01131,2022-01-12,Influencer,Budget,Australia,Non-binary,60,Mobile
+CUST01132,2022-12-28,Organic Search,Budget,Australia,Female,23,Tablet
+CUST01133,2023-08-30,Organic Search,Budget,UK,Female,20,Mobile
+CUST01134,2023-04-11,Paid Social,Budget,UAE,Male,30,Desktop
+CUST01135,2022-12-22,Organic Search,Mid-Range,Germany,Male,58,Mobile
+CUST01136,2023-02-09,Email,Premium,Australia,Non-binary,50,Mobile
+CUST01137,2023-09-16,Organic Search,Budget,Australia,Male,44,Mobile
+CUST01138,2023-01-14,Paid Social,Premium,France,Female,38,Desktop
+CUST01139,2023-03-22,Email,Mid-Range,UAE,Female,29,Mobile
+CUST01140,2022-01-13,Email,Mid-Range,UAE,Female,48,Mobile
+CUST01141,2023-08-08,Organic Search,Budget,France,Male,23,Tablet
+CUST01142,2023-08-28,Email,Premium,Canada,Male,18,Desktop
+CUST01143,2023-07-23,Email,Budget,Canada,Male,65,Desktop
+CUST01144,2022-07-12,Paid Social,Mid-Range,Australia,Male,55,Mobile
+CUST01145,2023-06-08,Paid Social,Premium,Australia,Female,55,Mobile
+CUST01146,2023-09-01,Paid Social,Budget,USA,Female,21,Mobile
+CUST01147,2022-04-02,Referral,Luxury,Canada,Female,32,Mobile
+CUST01148,2022-03-16,Paid Social,Mid-Range,USA,Male,21,Mobile
+CUST01149,2023-01-15,Organic Search,Premium,Germany,Female,23,Mobile
+CUST01150,2022-12-12,Paid Social,Budget,USA,Female,26,Mobile
+CUST01151,2023-01-24,Organic Search,Mid-Range,Nigeria,Female,65,Mobile
+CUST01152,2022-11-11,Paid Social,Budget,UK,Female,26,Desktop
+CUST01153,2022-12-17,Direct,Mid-Range,France,Female,64,Desktop
+CUST01154,2022-11-16,Paid Social,Luxury,Germany,Male,47,Mobile
+CUST01155,2022-02-24,Referral,Premium,Nigeria,Male,48,Mobile
+CUST01156,2022-07-25,Email,Mid-Range,Nigeria,Female,21,Mobile
+CUST01157,2022-10-17,Paid Social,Premium,UK,Female,29,Mobile
+CUST01158,2022-02-13,Influencer,Budget,Canada,Male,59,Mobile
+CUST01159,2022-05-13,Paid Social,Budget,Germany,Female,41,Mobile
+CUST01160,2023-08-15,Organic Search,Premium,Australia,Female,38,Mobile
+CUST01161,2023-09-06,Direct,Mid-Range,USA,Female,62,Mobile
+CUST01162,2022-01-05,Organic Search,Mid-Range,Germany,Male,18,Mobile
+CUST01163,2023-03-24,Email,Mid-Range,Germany,Male,22,Tablet
+CUST01164,2023-03-12,Email,Premium,UAE,Male,25,Desktop
+CUST01165,2022-04-20,Email,Mid-Range,UAE,Male,19,Mobile
+CUST01166,2023-06-20,Paid Social,Mid-Range,UK,Female,39,Desktop
+CUST01167,2022-05-05,Paid Social,Budget,Canada,Male,35,Mobile
+CUST01168,2022-12-05,Organic Search,Premium,France,Male,27,Desktop
+CUST01169,2023-04-13,Direct,Mid-Range,Australia,Male,41,Mobile
+CUST01170,2022-01-28,Organic Search,Premium,UAE,Female,54,Mobile
+CUST01171,2023-01-10,Paid Social,Premium,UAE,Male,21,Mobile
+CUST01172,2023-06-09,Direct,Budget,France,Male,63,Mobile
+CUST01173,2022-10-29,Referral,Luxury,Canada,Female,28,Mobile
+CUST01174,2022-12-20,Paid Social,Premium,France,Female,49,Desktop
+CUST01175,2023-03-08,Influencer,Mid-Range,Nigeria,Female,49,Mobile
+CUST01176,2023-08-23,Email,Luxury,Germany,Female,55,Desktop
+CUST01177,2022-09-15,Paid Social,Mid-Range,USA,Male,32,Mobile
+CUST01178,2022-12-16,Email,Budget,UAE,Female,58,Tablet
+CUST01179,2022-08-18,Direct,Luxury,Nigeria,Male,41,Mobile
+CUST01180,2023-09-21,Paid Social,Premium,France,Female,27,Mobile
+CUST01181,2023-01-20,Organic Search,Budget,Canada,Female,57,Mobile
+CUST01182,2022-09-10,Organic Search,Premium,Australia,Male,49,Desktop
+CUST01183,2022-05-25,Organic Search,Premium,Nigeria,Female,24,Mobile
+CUST01184,2022-07-22,Direct,Mid-Range,Germany,Female,35,Mobile
+CUST01185,2022-08-03,Direct,Budget,Germany,Female,33,Desktop
+CUST01186,2023-02-21,Direct,Budget,Germany,Male,46,Desktop
+CUST01187,2023-06-21,Organic Search,Premium,USA,Female,27,Mobile
+CUST01188,2022-07-03,Paid Social,Budget,UK,Male,55,Mobile
+CUST01189,2022-12-16,Paid Social,Mid-Range,Canada,Male,59,Mobile
+CUST01190,2023-05-14,Paid Social,Mid-Range,UK,Male,55,Mobile
+CUST01191,2023-08-08,Organic Search,Luxury,USA,Male,54,Desktop
+CUST01192,2022-05-10,Direct,Budget,Canada,Male,55,Desktop
+CUST01193,2022-12-23,Email,Mid-Range,Australia,Female,44,Mobile
+CUST01194,2023-01-25,Referral,Budget,Germany,Female,61,Mobile
+CUST01195,2022-10-24,Referral,Budget,Nigeria,Male,41,Desktop
+CUST01196,2022-06-21,Organic Search,Mid-Range,Nigeria,Male,57,Desktop
+CUST01197,2022-02-16,Direct,Mid-Range,Nigeria,Female,37,Mobile
+CUST01198,2022-10-31,Email,Budget,Nigeria,Non-binary,59,Mobile
+CUST01199,2022-03-07,Email,Budget,UAE,Female,40,Mobile
+CUST01200,2023-04-20,Email,Premium,Nigeria,Female,26,Desktop
+CUST01201,2023-08-07,Organic Search,Mid-Range,Australia,Female,36,Tablet
+CUST01202,2023-08-21,Paid Social,Premium,France,Male,45,Mobile
+CUST01203,2023-06-04,Direct,Mid-Range,UK,Female,37,Mobile
+CUST01204,2023-02-13,Organic Search,Mid-Range,UAE,Male,20,Desktop
+CUST01205,2022-09-13,Referral,Premium,USA,Female,49,Mobile
+CUST01206,2022-02-25,Paid Social,Budget,Canada,Female,43,Mobile
+CUST01207,2022-02-22,Organic Search,Mid-Range,Nigeria,Male,42,Mobile
+CUST01208,2022-02-04,Direct,Budget,UK,Non-binary,33,Mobile
+CUST01209,2022-07-10,Referral,Budget,France,Male,41,Mobile
+CUST01210,2023-05-07,Paid Social,Premium,Germany,Female,26,Mobile
+CUST01211,2022-04-26,Organic Search,Budget,USA,Female,50,Mobile
+CUST01212,2022-09-05,Influencer,Budget,UK,Female,62,Desktop
+CUST01213,2022-05-31,Influencer,Mid-Range,USA,Female,60,Desktop
+CUST01214,2023-07-03,Paid Social,Budget,UK,Male,64,Mobile
+CUST01215,2023-01-14,Organic Search,Mid-Range,UAE,Male,53,Desktop
+CUST01216,2022-01-09,Direct,Mid-Range,UK,Female,40,Desktop
+CUST01217,2023-05-30,Direct,Mid-Range,Canada,Male,36,Mobile
+CUST01218,2022-01-18,Referral,Premium,Germany,Male,47,Tablet
+CUST01219,2022-12-11,Email,Luxury,Nigeria,Male,37,Mobile
+CUST01220,2022-09-09,Paid Social,Mid-Range,UK,Male,53,Desktop
+CUST01221,2022-11-13,Influencer,Premium,UK,Female,51,Mobile
+CUST01222,2023-07-29,Paid Social,Premium,France,Male,22,Mobile
+CUST01223,2023-06-13,Referral,Mid-Range,UK,Male,37,Mobile
+CUST01224,2023-03-28,Organic Search,Premium,UAE,Male,35,Mobile
+CUST01225,2022-01-13,Direct,Premium,Canada,Female,62,Tablet
+CUST01226,2023-03-30,Direct,Mid-Range,UK,Female,27,Desktop
+CUST01227,2023-09-04,Email,Premium,USA,Male,48,Mobile
+CUST01228,2022-09-20,Paid Social,Budget,Canada,Male,64,Mobile
+CUST01229,2023-06-10,Paid Social,Budget,Nigeria,Female,51,Mobile
+CUST01230,2023-02-24,Organic Search,Mid-Range,Australia,Non-binary,59,Mobile
+CUST01231,2022-08-23,Direct,Budget,Nigeria,Female,45,Desktop
+CUST01232,2023-04-28,Referral,Premium,Germany,Male,36,Desktop
+CUST01233,2022-06-04,Direct,Budget,UK,Female,45,Desktop
+CUST01234,2022-02-12,Organic Search,Luxury,Canada,Male,61,Desktop
+CUST01235,2022-10-23,Referral,Budget,USA,Male,62,Mobile
+CUST01236,2023-08-31,Influencer,Budget,Germany,Male,32,Mobile
+CUST01237,2022-03-04,Organic Search,Mid-Range,France,Male,45,Desktop
+CUST01238,2023-06-26,Email,Premium,USA,Male,19,Desktop
+CUST01239,2023-02-11,Organic Search,Budget,USA,Male,30,Tablet
+CUST01240,2023-01-07,Paid Social,Mid-Range,UAE,Female,37,Desktop
+CUST01241,2022-10-30,Direct,Premium,Australia,Male,57,Mobile
+CUST01242,2022-07-06,Referral,Budget,Germany,Female,43,Desktop
+CUST01243,2023-07-06,Paid Social,Mid-Range,USA,Female,24,Desktop
+CUST01244,2023-03-26,Email,Premium,UK,Female,21,Desktop
+CUST01245,2022-12-24,Organic Search,Premium,UK,Male,48,Desktop
+CUST01246,2023-08-06,Paid Social,Luxury,Nigeria,Male,44,Desktop
+CUST01247,2022-09-11,Referral,Premium,Australia,Female,55,Mobile
+CUST01248,2023-04-29,Influencer,Premium,UK,Female,31,Desktop
+CUST01249,2023-08-27,Referral,Premium,UK,Female,18,Mobile
+CUST01250,2023-03-28,Paid Social,Budget,Canada,Female,21,Mobile
+CUST01251,2023-02-23,Paid Social,Mid-Range,France,Female,34,Mobile
+CUST01252,2023-01-03,Email,Premium,Germany,Female,42,Desktop
+CUST01253,2023-03-26,Paid Social,Budget,Australia,Male,62,Tablet
+CUST01254,2022-05-06,Email,Mid-Range,Nigeria,Male,58,Desktop
+CUST01255,2023-08-22,Direct,Budget,UAE,Male,43,Mobile
+CUST01256,2023-09-07,Paid Social,Mid-Range,Australia,Male,20,Mobile
+CUST01257,2023-07-01,Referral,Mid-Range,Canada,Non-binary,31,Desktop
+CUST01258,2023-07-04,Paid Social,Premium,France,Male,63,Mobile
+CUST01259,2022-03-05,Paid Social,Mid-Range,Australia,Female,23,Mobile
+CUST01260,2022-03-11,Paid Social,Mid-Range,Germany,Male,18,Mobile
+CUST01261,2023-03-05,Paid Social,Budget,UK,Female,27,Desktop
+CUST01262,2022-06-09,Influencer,Mid-Range,Nigeria,Male,28,Tablet
+CUST01263,2023-02-21,Referral,Mid-Range,Canada,Female,64,Tablet
+CUST01264,2022-10-11,Organic Search,Budget,UK,Male,53,Desktop
+CUST01265,2023-01-25,Paid Social,Mid-Range,USA,Male,46,Mobile
+CUST01266,2022-01-23,Email,Budget,USA,Female,40,Desktop
+CUST01267,2022-09-26,Paid Social,Luxury,UK,Female,56,Desktop
+CUST01268,2022-12-06,Referral,Mid-Range,USA,Male,62,Mobile
+CUST01269,2023-03-12,Referral,Mid-Range,Canada,Female,27,Desktop
+CUST01270,2022-03-12,Referral,Premium,Germany,Male,33,Mobile
+CUST01271,2022-12-05,Referral,Budget,UAE,Female,63,Mobile
+CUST01272,2022-06-12,Paid Social,Budget,Australia,Male,64,Mobile
+CUST01273,2023-08-13,Email,Mid-Range,UK,Male,51,Mobile
+CUST01274,2022-04-07,Email,Premium,UK,Female,49,Desktop
+CUST01275,2023-08-15,Email,Budget,USA,Non-binary,19,Desktop
+CUST01276,2022-05-05,Referral,Budget,Canada,Non-binary,35,Tablet
+CUST01277,2022-10-04,Email,Premium,Germany,Male,64,Desktop
+CUST01278,2023-07-15,Paid Social,Mid-Range,UAE,Female,21,Mobile
+CUST01279,2022-11-27,Influencer,Luxury,Australia,Non-binary,18,Tablet
+CUST01280,2023-02-20,Organic Search,Premium,UAE,Female,34,Mobile
+CUST01281,2023-05-15,Email,Budget,France,Male,58,Mobile
+CUST01282,2023-02-17,Influencer,Mid-Range,Canada,Female,37,Desktop
+CUST01283,2022-07-05,Paid Social,Premium,USA,Male,23,Mobile
+CUST01284,2022-08-04,Email,Budget,Canada,Female,34,Mobile
+CUST01285,2023-08-27,Organic Search,Budget,Germany,Female,64,Desktop
+CUST01286,2022-10-23,Paid Social,Premium,UK,Female,34,Desktop
+CUST01287,2023-02-06,Email,Premium,Nigeria,Male,53,Desktop
+CUST01288,2022-03-22,Email,Premium,Nigeria,Male,42,Desktop
+CUST01289,2022-03-27,Paid Social,Mid-Range,USA,Female,20,Mobile
+CUST01290,2023-01-13,Direct,Premium,Canada,Female,58,Mobile
+CUST01291,2023-03-01,Paid Social,Mid-Range,France,Male,20,Mobile
+CUST01292,2022-02-15,Referral,Premium,UAE,Female,24,Mobile
+CUST01293,2023-01-19,Referral,Luxury,Germany,Female,51,Desktop
+CUST01294,2023-07-08,Paid Social,Mid-Range,Nigeria,Male,49,Desktop
+CUST01295,2023-01-20,Email,Premium,Germany,Male,27,Tablet
+CUST01296,2022-03-24,Direct,Mid-Range,UAE,Male,38,Mobile
+CUST01297,2022-10-10,Email,Mid-Range,Canada,Female,22,Mobile
+CUST01298,2022-11-03,Paid Social,Luxury,UK,Male,62,Desktop
+CUST01299,2023-02-25,Paid Social,Budget,Germany,Male,48,Mobile
+CUST01300,2023-08-13,Paid Social,Budget,UK,Male,49,Mobile
+CUST01301,2023-03-16,Paid Social,Mid-Range,UK,Female,26,Desktop
+CUST01302,2023-03-26,Paid Social,Premium,USA,Non-binary,29,Mobile
+CUST01303,2023-07-26,Influencer,Mid-Range,France,Female,59,Mobile
+CUST01304,2022-01-16,Organic Search,Budget,USA,Female,25,Mobile
+CUST01305,2022-11-18,Email,Mid-Range,UAE,Female,36,Mobile
+CUST01306,2022-11-11,Organic Search,Mid-Range,UK,Female,41,Desktop
+CUST01307,2022-05-27,Paid Social,Mid-Range,France,Non-binary,43,Desktop
+CUST01308,2023-08-21,Paid Social,Mid-Range,UK,Female,43,Desktop
+CUST01309,2023-06-26,Influencer,Premium,Nigeria,Male,56,Mobile
+CUST01310,2023-02-07,Referral,Budget,Germany,Male,55,Desktop
+CUST01311,2022-07-15,Paid Social,Premium,Canada,Female,35,Mobile
+CUST01312,2022-12-30,Paid Social,Mid-Range,Nigeria,Male,45,Mobile
+CUST01313,2023-04-28,Paid Social,Budget,USA,Male,45,Mobile
+CUST01314,2022-07-25,Paid Social,Budget,France,Male,20,Mobile
+CUST01315,2022-04-15,Paid Social,Budget,Nigeria,Male,24,Mobile
+CUST01316,2023-04-07,Referral,Budget,France,Female,20,Tablet
+CUST01317,2022-04-05,Influencer,Mid-Range,Germany,Female,36,Mobile
+CUST01318,2022-05-02,Email,Budget,Nigeria,Female,60,Desktop
+CUST01319,2022-07-22,Email,Luxury,UK,Male,63,Mobile
+CUST01320,2022-01-08,Paid Social,Budget,UK,Female,48,Mobile
+CUST01321,2023-02-04,Organic Search,Mid-Range,Nigeria,Female,21,Desktop
+CUST01322,2022-03-18,Paid Social,Luxury,Canada,Female,37,Desktop
+CUST01323,2022-07-05,Referral,Mid-Range,Nigeria,Female,34,Desktop
+CUST01324,2023-07-22,Organic Search,Mid-Range,UAE,Male,55,Desktop
+CUST01325,2022-10-16,Email,Mid-Range,Canada,Female,28,Desktop
+CUST01326,2023-06-06,Organic Search,Mid-Range,Canada,Female,64,Mobile
+CUST01327,2023-05-13,Email,Mid-Range,Nigeria,Female,49,Mobile
+CUST01328,2022-05-25,Paid Social,Budget,Canada,Female,45,Mobile
+CUST01329,2022-11-25,Paid Social,Luxury,Nigeria,Male,49,Mobile
+CUST01330,2023-05-15,Influencer,Mid-Range,Australia,Male,25,Mobile
+CUST01331,2022-04-27,Paid Social,Premium,USA,Male,61,Mobile
+CUST01332,2022-11-04,Influencer,Mid-Range,France,Male,36,Mobile
+CUST01333,2022-10-25,Organic Search,Mid-Range,Australia,Male,49,Desktop
+CUST01334,2022-02-05,Influencer,Mid-Range,UK,Female,20,Desktop
+CUST01335,2022-10-15,Direct,Premium,UAE,Female,51,Mobile
+CUST01336,2022-09-07,Paid Social,Mid-Range,France,Male,43,Mobile
+CUST01337,2023-01-26,Email,Mid-Range,UAE,Female,19,Desktop
+CUST01338,2023-04-21,Referral,Budget,Australia,Female,61,Tablet
+CUST01339,2022-06-23,Organic Search,Mid-Range,Australia,Female,51,Desktop
+CUST01340,2023-03-05,Email,Mid-Range,USA,Female,62,Desktop
+CUST01341,2022-01-13,Referral,Mid-Range,UK,Female,54,Mobile
+CUST01342,2022-05-13,Organic Search,Luxury,UK,Female,21,Mobile
+CUST01343,2023-01-22,Email,Premium,Nigeria,Male,42,Desktop
+CUST01344,2022-10-20,Paid Social,Budget,UAE,Non-binary,28,Desktop
+CUST01345,2022-08-25,Paid Social,Mid-Range,France,Male,44,Desktop
+CUST01346,2023-02-25,Organic Search,Premium,UAE,Female,35,Desktop
+CUST01347,2023-08-22,Paid Social,Mid-Range,UAE,Non-binary,54,Mobile
+CUST01348,2023-03-20,Organic Search,Budget,Canada,Male,24,Mobile
+CUST01349,2023-06-21,Referral,Mid-Range,UK,Male,23,Desktop
+CUST01350,2023-07-05,Paid Social,Budget,Australia,Male,47,Mobile
+CUST01351,2023-05-31,Organic Search,Premium,UK,Male,31,Mobile
+CUST01352,2023-09-30,Email,Budget,UK,Male,18,Mobile
+CUST01353,2022-06-02,Referral,Mid-Range,USA,Female,27,Mobile
+CUST01354,2023-07-21,Email,Mid-Range,Germany,Male,34,Mobile
+CUST01355,2023-01-12,Paid Social,Budget,Germany,Female,36,Tablet
+CUST01356,2023-04-21,Direct,Budget,Germany,Male,53,Tablet
+CUST01357,2022-01-02,Organic Search,Budget,Canada,Female,50,Mobile
+CUST01358,2022-09-02,Referral,Luxury,Canada,Female,55,Mobile
+CUST01359,2022-10-04,Paid Social,Budget,Australia,Non-binary,44,Desktop
+CUST01360,2022-02-10,Organic Search,Mid-Range,France,Female,39,Mobile
+CUST01361,2023-07-29,Influencer,Premium,UAE,Female,65,Mobile
+CUST01362,2023-04-22,Direct,Mid-Range,Germany,Female,32,Desktop
+CUST01363,2023-04-16,Email,Mid-Range,UAE,Female,19,Mobile
+CUST01364,2022-03-12,Referral,Mid-Range,Germany,Male,35,Mobile
+CUST01365,2023-08-17,Referral,Mid-Range,UAE,Female,23,Mobile
+CUST01366,2022-05-01,Referral,Budget,UAE,Male,59,Mobile
+CUST01367,2022-01-12,Referral,Premium,UAE,Non-binary,27,Desktop
+CUST01368,2022-03-25,Referral,Mid-Range,Australia,Female,51,Mobile
+CUST01369,2023-02-24,Email,Luxury,France,Female,62,Desktop
+CUST01370,2022-05-29,Organic Search,Luxury,Australia,Male,45,Mobile
+CUST01371,2023-06-29,Organic Search,Luxury,UAE,Female,35,Desktop
+CUST01372,2022-06-07,Referral,Mid-Range,France,Female,51,Mobile
+CUST01373,2022-10-22,Email,Budget,Canada,Male,27,Desktop
+CUST01374,2022-04-17,Organic Search,Premium,Nigeria,Female,40,Mobile
+CUST01375,2022-01-21,Direct,Mid-Range,France,Male,32,Mobile
+CUST01376,2022-06-16,Direct,Premium,USA,Female,39,Mobile
+CUST01377,2023-03-10,Organic Search,Mid-Range,USA,Female,51,Mobile
+CUST01378,2022-04-06,Paid Social,Premium,Nigeria,Male,27,Mobile
+CUST01379,2022-10-07,Email,Premium,Canada,Male,38,Desktop
+CUST01380,2023-03-17,Direct,Premium,Canada,Female,62,Desktop
+CUST01381,2023-07-12,Organic Search,Budget,Canada,Female,57,Mobile
+CUST01382,2022-03-30,Paid Social,Mid-Range,Germany,Male,60,Desktop
+CUST01383,2022-06-12,Email,Budget,USA,Female,44,Desktop
+CUST01384,2022-05-29,Direct,Premium,Australia,Female,38,Desktop
+CUST01385,2023-08-11,Influencer,Luxury,USA,Male,40,Mobile
+CUST01386,2022-12-22,Email,Luxury,Australia,Female,62,Desktop
+CUST01387,2023-03-25,Organic Search,Premium,Germany,Male,41,Mobile
+CUST01388,2022-06-12,Direct,Mid-Range,Australia,Female,64,Mobile
+CUST01389,2022-10-26,Direct,Mid-Range,Germany,Male,26,Desktop
+CUST01390,2023-09-23,Referral,Mid-Range,Canada,Female,64,Mobile
+CUST01391,2022-10-30,Paid Social,Mid-Range,Germany,Male,54,Mobile
+CUST01392,2023-09-01,Email,Premium,Nigeria,Male,63,Mobile
+CUST01393,2022-01-08,Referral,Mid-Range,Germany,Female,41,Mobile
+CUST01394,2022-02-10,Referral,Premium,Germany,Female,28,Mobile
+CUST01395,2023-09-17,Paid Social,Premium,Canada,Female,24,Desktop
+CUST01396,2023-04-20,Email,Premium,Canada,Female,44,Tablet
+CUST01397,2022-06-02,Paid Social,Premium,USA,Male,63,Mobile
+CUST01398,2022-03-15,Influencer,Mid-Range,Australia,Male,30,Mobile
+CUST01399,2022-10-20,Paid Social,Budget,UAE,Female,31,Mobile
+CUST01400,2022-05-15,Email,Premium,Nigeria,Male,31,Mobile
+CUST01401,2023-05-25,Organic Search,Premium,Nigeria,Female,59,Mobile
+CUST01402,2022-12-24,Paid Social,Mid-Range,Canada,Male,58,Mobile
+CUST01403,2022-12-22,Organic Search,Budget,Canada,Male,58,Desktop
+CUST01404,2023-07-03,Email,Mid-Range,USA,Female,58,Desktop
+CUST01405,2022-08-07,Organic Search,Budget,Canada,Male,21,Mobile
+CUST01406,2023-07-22,Email,Budget,UK,Male,29,Mobile
+CUST01407,2023-04-26,Paid Social,Premium,USA,Female,50,Mobile
+CUST01408,2022-02-05,Paid Social,Premium,UK,Male,22,Tablet
+CUST01409,2022-11-04,Referral,Mid-Range,USA,Non-binary,60,Desktop
+CUST01410,2023-01-15,Email,Premium,UAE,Female,26,Tablet
+CUST01411,2022-09-01,Influencer,Premium,Australia,Non-binary,32,Mobile
+CUST01412,2022-03-02,Direct,Premium,Nigeria,Male,23,Mobile
+CUST01413,2023-01-06,Email,Mid-Range,UAE,Female,53,Mobile
+CUST01414,2023-01-27,Email,Mid-Range,Canada,Female,45,Mobile
+CUST01415,2022-01-16,Email,Budget,UK,Male,55,Mobile
+CUST01416,2023-06-03,Paid Social,Budget,Nigeria,Male,22,Mobile
+CUST01417,2022-08-17,Email,Premium,Canada,Female,49,Mobile
+CUST01418,2022-07-07,Paid Social,Premium,Germany,Male,24,Mobile
+CUST01419,2023-09-01,Paid Social,Mid-Range,France,Female,51,Mobile
+CUST01420,2022-03-18,Organic Search,Budget,Australia,Female,50,Desktop
+CUST01421,2023-07-27,Email,Mid-Range,Nigeria,Female,53,Mobile
+CUST01422,2022-09-27,Organic Search,Budget,UK,Female,45,Mobile
+CUST01423,2022-08-15,Organic Search,Luxury,Nigeria,Female,32,Mobile
+CUST01424,2022-12-07,Paid Social,Luxury,Australia,Male,42,Desktop
+CUST01425,2022-11-04,Direct,Budget,Germany,Female,55,Mobile
+CUST01426,2023-01-13,Organic Search,Budget,UK,Female,54,Mobile
+CUST01427,2022-07-06,Paid Social,Mid-Range,Canada,Male,65,Mobile
+CUST01428,2022-05-09,Organic Search,Luxury,Australia,Female,60,Tablet
+CUST01429,2023-04-20,Influencer,Mid-Range,Germany,Male,51,Desktop
+CUST01430,2022-11-02,Influencer,Budget,France,Female,60,Mobile
+CUST01431,2023-07-02,Organic Search,Premium,UK,Female,59,Desktop
+CUST01432,2022-01-17,Influencer,Mid-Range,Canada,Male,51,Mobile
+CUST01433,2022-07-29,Paid Social,Budget,Germany,Female,52,Mobile
+CUST01434,2023-03-20,Email,Mid-Range,Germany,Male,30,Desktop
+CUST01435,2022-06-09,Direct,Budget,USA,Female,59,Mobile
+CUST01436,2022-11-15,Influencer,Mid-Range,Nigeria,Female,61,Desktop
+CUST01437,2022-10-16,Paid Social,Mid-Range,UAE,Female,42,Tablet
+CUST01438,2022-06-29,Organic Search,Mid-Range,UAE,Female,49,Mobile
+CUST01439,2023-07-15,Influencer,Mid-Range,USA,Male,22,Mobile
+CUST01440,2023-08-11,Paid Social,Mid-Range,UK,Male,59,Desktop
+CUST01441,2022-08-13,Organic Search,Mid-Range,Canada,Female,41,Desktop
+CUST01442,2022-12-27,Paid Social,Mid-Range,Nigeria,Male,58,Desktop
+CUST01443,2022-06-02,Organic Search,Luxury,USA,Male,65,Mobile
+CUST01444,2023-01-09,Paid Social,Mid-Range,Australia,Female,34,Mobile
+CUST01445,2023-05-17,Direct,Mid-Range,Canada,Non-binary,57,Mobile
+CUST01446,2022-03-02,Email,Premium,Australia,Female,36,Desktop
+CUST01447,2022-03-23,Paid Social,Mid-Range,France,Female,37,Mobile
+CUST01448,2023-03-08,Referral,Mid-Range,France,Female,44,Mobile
+CUST01449,2023-03-15,Organic Search,Mid-Range,Australia,Male,62,Mobile
+CUST01450,2023-02-24,Paid Social,Premium,Australia,Male,45,Mobile
+CUST01451,2022-11-10,Paid Social,Premium,UAE,Female,48,Mobile
+CUST01452,2022-04-30,Influencer,Mid-Range,UK,Female,56,Tablet
+CUST01453,2022-03-08,Paid Social,Mid-Range,UK,Male,26,Mobile
+CUST01454,2023-01-02,Direct,Mid-Range,Nigeria,Female,46,Desktop
+CUST01455,2022-11-24,Email,Luxury,UK,Male,29,Mobile
+CUST01456,2023-08-21,Email,Mid-Range,USA,Male,33,Tablet
+CUST01457,2023-04-23,Referral,Mid-Range,Germany,Male,34,Mobile
+CUST01458,2022-07-08,Influencer,Mid-Range,USA,Female,60,Mobile
+CUST01459,2022-09-24,Referral,Budget,Australia,Female,57,Desktop
+CUST01460,2023-04-08,Email,Premium,Australia,Male,27,Mobile
+CUST01461,2022-04-13,Referral,Budget,Canada,Female,26,Desktop
+CUST01462,2023-05-16,Paid Social,Budget,Australia,Male,31,Desktop
+CUST01463,2022-05-27,Referral,Budget,Canada,Male,60,Desktop
+CUST01464,2023-04-17,Email,Premium,UAE,Male,22,Tablet
+CUST01465,2023-04-20,Direct,Budget,USA,Male,28,Mobile
+CUST01466,2022-07-14,Organic Search,Premium,UAE,Female,55,Mobile
+CUST01467,2022-06-23,Paid Social,Mid-Range,USA,Female,63,Mobile
+CUST01468,2022-04-06,Organic Search,Mid-Range,USA,Non-binary,56,Mobile
+CUST01469,2023-02-23,Paid Social,Budget,France,Male,26,Mobile
+CUST01470,2022-01-19,Referral,Mid-Range,UK,Female,64,Tablet
+CUST01471,2022-03-28,Direct,Premium,UAE,Male,54,Mobile
+CUST01472,2022-11-30,Paid Social,Premium,Canada,Male,49,Mobile
+CUST01473,2023-04-22,Organic Search,Mid-Range,Australia,Male,41,Desktop
+CUST01474,2022-07-26,Email,Budget,France,Female,24,Mobile
+CUST01475,2022-12-14,Influencer,Mid-Range,UK,Female,33,Mobile
+CUST01476,2022-03-31,Organic Search,Budget,Nigeria,Female,54,Desktop
+CUST01477,2023-04-04,Direct,Premium,Nigeria,Female,19,Tablet
+CUST01478,2022-12-10,Email,Premium,Germany,Male,20,Tablet
+CUST01479,2023-01-14,Paid Social,Mid-Range,Australia,Male,50,Desktop
+CUST01480,2023-05-11,Organic Search,Luxury,Canada,Female,42,Mobile
+CUST01481,2023-01-10,Paid Social,Budget,USA,Male,50,Desktop
+CUST01482,2022-04-12,Organic Search,Mid-Range,Germany,Male,65,Desktop
+CUST01483,2022-06-13,Direct,Mid-Range,France,Male,57,Tablet
+CUST01484,2022-12-30,Influencer,Budget,Canada,Male,63,Mobile
+CUST01485,2023-03-02,Referral,Premium,USA,Male,19,Desktop
+CUST01486,2023-04-18,Email,Premium,Australia,Female,36,Desktop
+CUST01487,2023-07-29,Paid Social,Premium,USA,Female,49,Desktop
+CUST01488,2023-04-11,Email,Premium,UAE,Non-binary,59,Desktop
+CUST01489,2022-09-23,Email,Mid-Range,USA,Male,28,Mobile
+CUST01490,2022-02-02,Paid Social,Mid-Range,France,Female,65,Mobile
+CUST01491,2022-08-21,Paid Social,Luxury,UK,Male,51,Mobile
+CUST01492,2022-11-02,Direct,Mid-Range,UAE,Male,47,Mobile
+CUST01493,2023-09-16,Organic Search,Mid-Range,UK,Male,59,Desktop
+CUST01494,2023-02-17,Organic Search,Budget,UK,Female,38,Mobile
+CUST01495,2022-02-18,Organic Search,Luxury,USA,Female,48,Mobile
+CUST01496,2022-07-16,Organic Search,Budget,UK,Male,48,Desktop
+CUST01497,2022-09-01,Direct,Mid-Range,Australia,Non-binary,19,Mobile
+CUST01498,2023-09-03,Paid Social,Premium,Germany,Male,25,Tablet
+CUST01499,2022-10-12,Direct,Premium,USA,Male,60,Desktop
+CUST01500,2022-09-07,Direct,Premium,Nigeria,Male,39,Mobile
