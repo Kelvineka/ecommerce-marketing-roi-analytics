@@ -1,0 +1,1501 @@
+customer_id,acquisition_channel,segment,monetary,predicted_clv,rfm_segment,frequency,recency_days
+CUST01173,Referral,Luxury,2820.4,1864.0,Champions,18,16
+CUST00816,Referral,Luxury,2337.28,1807.0,Champions,18,2
+CUST00255,Referral,Luxury,2369.07,1807.0,Champions,18,27
+CUST00504,Referral,Luxury,2064.08,1721.0,Champions,17,15
+CUST00046,Referral,Luxury,1815.35,1626.0,Champions,16,13
+CUST01234,Organic Search,Luxury,2786.12,1586.0,Champions,14,27
+CUST00558,Referral,Luxury,1739.84,1571.0,At Risk,15,141
+CUST00627,Email,Luxury,2207.42,1545.0,Champions,15,4
+CUST00383,Email,Luxury,1580.82,1541.0,Champions,16,9
+CUST00832,Email,Luxury,1386.78,1528.0,Champions,16,13
+CUST01155,Referral,Premium,2152.01,1500.0,Champions,13,22
+CUST01495,Organic Search,Luxury,1885.63,1486.0,Champions,14,38
+CUST00427,Referral,Luxury,2034.97,1485.0,Loyal Customers,13,77
+CUST00091,Referral,Premium,2152.84,1480.0,Champions,13,21
+CUST01293,Referral,Luxury,1534.57,1477.0,Loyal Customers,14,48
+CUST00864,Influencer,Luxury,1964.52,1462.0,Champions,14,4
+CUST00238,Organic Search,Luxury,2010.19,1459.0,Champions,13,2
+CUST01038,Influencer,Luxury,1917.1,1459.0,Champions,14,20
+CUST00683,Referral,Premium,1756.15,1443.0,Loyal Customers,13,50
+CUST01179,Direct,Luxury,1710.38,1439.0,Champions,14,42
+CUST00340,Email,Luxury,1349.96,1438.0,Champions,15,41
+CUST01176,Email,Luxury,1261.46,1434.0,Champions,15,15
+CUST00155,Organic Search,Luxury,1512.52,1427.0,Champions,14,11
+CUST01369,Email,Luxury,1727.14,1426.0,Champions,14,31
+CUST00380,Referral,Luxury,2086.09,1422.0,Champions,12,41
+CUST00578,Email,Luxury,1129.89,1421.0,Champions,15,28
+CUST00310,Referral,Premium,1380.31,1421.0,Champions,13,36
+CUST01428,Organic Search,Luxury,1423.36,1417.0,Champions,14,13
+CUST00422,Referral,Premium,2078.02,1415.0,Loyal Customers,12,53
+CUST00849,Organic Search,Luxury,1347.77,1409.0,Champions,14,29
+CUST00461,Organic Search,Luxury,1777.72,1408.0,Loyal Customers,13,48
+CUST01083,Direct,Luxury,1731.73,1408.0,Loyal Customers,13,65
+CUST00576,Influencer,Luxury,1328.61,1405.0,Champions,14,30
+CUST00455,Referral,Premium,1765.22,1400.0,Champions,12,42
+CUST00012,Influencer,Luxury,1633.55,1395.0,Champions,13,5
+CUST00923,Direct,Luxury,1403.21,1394.0,Champions,13,38
+CUST00724,Referral,Premium,1401.92,1389.0,Champions,13,39
+CUST01006,Referral,Premium,1887.2,1378.0,Champions,12,20
+CUST01358,Referral,Luxury,1711.06,1374.0,Loyal Customers,12,73
+CUST01394,Referral,Premium,1079.26,1373.0,Loyal Customers,13,72
+CUST00729,Organic Search,Luxury,1726.75,1372.0,Champions,13,33
+CUST00701,Organic Search,Luxury,2017.1,1368.0,Loyal Customers,12,80
+CUST00064,Email,Luxury,1484.54,1363.0,Loyal Customers,14,78
+CUST01109,Direct,Luxury,1448.68,1360.0,Champions,13,6
+CUST00655,Referral,Premium,1637.43,1357.0,Loyal Customers,12,72
+CUST00283,Direct,Luxury,1491.59,1357.0,Loyal Customers,13,66
+CUST01147,Referral,Luxury,1026.89,1357.0,Champions,13,11
+CUST00933,Referral,Luxury,1211.16,1356.0,Loyal Customers,13,65
+CUST00940,Referral,Luxury,1330.93,1343.0,Champions,12,2
+CUST00653,Direct,Luxury,1268.07,1339.0,Champions,13,27
+CUST01367,Referral,Premium,1417.56,1337.0,Champions,12,28
+CUST01319,Email,Luxury,1413.22,1334.0,At Risk,13,125
+CUST00827,Direct,Luxury,1211.92,1328.0,Champions,13,39
+CUST00115,Referral,Premium,1475.45,1315.0,Champions,11,15
+CUST00840,Referral,Premium,1173.14,1314.0,Champions,12,32
+CUST00464,Direct,Luxury,988.87,1314.0,Champions,13,35
+CUST00293,Organic Search,Luxury,1987.76,1310.0,Champions,11,4
+CUST01191,Organic Search,Luxury,1955.99,1309.0,Champions,11,31
+CUST00397,Referral,Luxury,949.81,1307.0,Champions,12,20
+CUST01270,Referral,Premium,1620.65,1301.0,Champions,11,5
+CUST00807,Email,Luxury,1197.87,1298.0,Champions,13,29
+CUST00989,Referral,Premium,1881.43,1293.0,Loyal Customers,10,80
+CUST00226,Paid Social,Luxury,1155.4,1283.0,Champions,12,31
+CUST00330,Paid Social,Luxury,1327.81,1280.0,Champions,12,1
+CUST00032,Email,Luxury,931.46,1278.0,Champions,13,6
+CUST00541,Direct,Mid-Range,2029.98,1277.0,Loyal Customers,6,16
+CUST01292,Referral,Premium,1153.74,1276.0,Loyal Customers,12,80
+CUST00057,Referral,Premium,1052.24,1274.0,Champions,11,31
+CUST00258,Influencer,Premium,1456.94,1272.0,Loyal Customers,11,63
+CUST01365,Referral,Mid-Range,2041.05,1272.0,Champions,9,39
+CUST00866,Paid Social,Luxury,1073.85,1266.0,Champions,12,26
+CUST00487,Influencer,Premium,1640.15,1265.0,Champions,11,12
+CUST00260,Organic Search,Luxury,1236.4,1263.0,At Risk,12,109
+CUST00593,Paid Social,Luxury,1386.61,1262.0,At Risk,12,125
+CUST00471,Email,Premium,1503.68,1262.0,Champions,12,13
+CUST00256,Referral,Premium,1187.5,1260.0,Loyal Customers,11,62
+CUST00532,Paid Social,Luxury,1131.34,1260.0,Champions,12,11
+CUST00236,Paid Social,Mid-Range,2265.66,1260.0,Loyal Customers,7,65
+CUST01287,Email,Premium,1271.62,1247.0,Champions,12,3
+CUST01486,Email,Premium,1155.37,1245.0,Champions,12,12
+CUST00998,Organic Search,Premium,1505.63,1243.0,Champions,11,26
+CUST00267,Email,Luxury,1251.04,1240.0,Champions,12,7
+CUST00364,Direct,Premium,1331.87,1238.0,Loyal Customers,11,47
+CUST00865,Organic Search,Premium,1480.16,1236.0,Champions,11,10
+CUST00945,Organic Search,Luxury,1922.55,1235.0,Champions,10,9
+CUST01466,Organic Search,Premium,1304.15,1232.0,Champions,11,23
+CUST01351,Organic Search,Premium,1536.58,1231.0,Champions,10,45
+CUST00207,Direct,Premium,1206.48,1229.0,Champions,11,28
+CUST00536,Referral,Luxury,851.63,1225.0,Champions,13,11
+CUST00119,Direct,Luxury,1447.71,1223.0,Loyal Customers,11,54
+CUST00498,Organic Search,Premium,1022.44,1220.0,Champions,11,18
+CUST00782,Referral,Premium,1281.5,1216.0,Champions,10,9
+CUST01007,Organic Search,Premium,1268.01,1215.0,Champions,11,1
+CUST00474,Referral,Premium,1272.44,1214.0,Champions,10,23
+CUST00098,Referral,Premium,1125.24,1213.0,Loyal Customers,11,49
+CUST00635,Referral,Premium,937.95,1211.0,At Risk,11,226
+CUST01227,Email,Premium,1092.62,1208.0,Champions,12,3
+CUST00616,Referral,Premium,1655.9,1208.0,Loyal Customers,9,48
+CUST01084,Email,Premium,975.11,1206.0,Champions,12,11
+CUST00234,Organic Search,Premium,1151.74,1203.0,Champions,11,24
+CUST00512,Direct,Premium,986.35,1200.0,Champions,11,30
+CUST01244,Email,Premium,1166.63,1200.0,Loyal Customers,11,79
+CUST00567,Organic Search,Premium,1194.3,1200.0,Champions,11,2
+CUST01142,Email,Premium,1490.26,1198.0,Champions,11,33
+CUST01065,Paid Social,Luxury,1429.21,1196.0,Champions,11,20
+CUST00546,Organic Search,Premium,1060.59,1196.0,Champions,11,29
+CUST00822,Paid Social,Luxury,1210.17,1195.0,At Risk,11,106
+CUST00366,Referral,Premium,1359.27,1195.0,At Risk,10,104
+CUST00621,Email,Premium,963.99,1195.0,Loyal Customers,12,66
+CUST00786,Email,Luxury,788.25,1191.0,Champions,15,4
+CUST01455,Email,Luxury,857.81,1191.0,Champions,14,31
+CUST01380,Direct,Premium,933.3,1190.0,Champions,11,38
+CUST01392,Email,Premium,1226.02,1190.0,Champions,11,41
+CUST00008,Direct,Luxury,1532.84,1188.0,Champions,10,40
+CUST00975,Paid Social,Luxury,1038.57,1184.0,Champions,11,2
+CUST00644,Influencer,Premium,1011.07,1179.0,Loyal Customers,10,68
+CUST01224,Organic Search,Premium,1785.94,1176.0,Champions,9,42
+CUST00607,Paid Social,Luxury,1029.15,1174.0,Champions,11,45
+CUST01274,Email,Premium,991.15,1170.0,Loyal Customers,12,52
+CUST00636,Organic Search,Premium,1290.22,1168.0,Champions,10,7
+CUST00015,Paid Social,Premium,1768.92,1163.0,At Risk,9,117
+CUST00016,Organic Search,Premium,946.22,1162.0,At Risk,11,91
+CUST00665,Referral,Premium,1540.31,1162.0,Champions,7,14
+CUST01042,Influencer,Premium,1663.24,1161.0,At Risk,9,87
+CUST00288,Referral,Mid-Range,1314.57,1160.0,Champions,8,11
+CUST01030,Referral,Premium,1300.75,1159.0,Champions,9,34
+CUST01011,Email,Luxury,685.01,1154.0,At Risk,14,115
+CUST00820,Influencer,Premium,1502.83,1152.0,Champions,9,17
+CUST00005,Paid Social,Luxury,1186.96,1152.0,Champions,10,28
+CUST01361,Influencer,Premium,1024.78,1151.0,Champions,10,11
+CUST00374,Email,Premium,1120.95,1150.0,Loyal Customers,11,48
+CUST01232,Referral,Premium,1335.66,1150.0,Champions,9,43
+CUST01219,Email,Luxury,949.36,1149.0,Loyal Customers,11,77
+CUST00425,Email,Luxury,1212.62,1149.0,Champions,11,42
+CUST00424,Organic Search,Mid-Range,1646.32,1145.0,Loyal Customers,7,71
+CUST00287,Referral,Premium,1159.14,1145.0,Champions,9,5
+CUST01154,Paid Social,Luxury,1009.68,1145.0,Champions,10,2
+CUST00099,Referral,Mid-Range,1204.55,1145.0,Champions,9,32
+CUST00823,Direct,Premium,1794.61,1144.0,Loyal Customers,9,55
+CUST00386,Paid Social,Luxury,1139.28,1143.0,At Risk,10,161
+CUST00974,Paid Social,Luxury,1223.29,1143.0,Champions,9,11
+CUST00443,Organic Search,Premium,1562.66,1141.0,Champions,7,2
+CUST00082,Email,Premium,1076.48,1141.0,Loyal Customers,11,51
+CUST01288,Email,Premium,943.44,1139.0,Loyal Customers,11,50
+CUST00550,Paid Social,Premium,1448.71,1138.0,Loyal Customers,8,54
+CUST00176,Paid Social,Premium,1451.58,1137.0,At Risk,8,172
+CUST00022,Organic Search,Premium,957.66,1133.0,Champions,10,10
+CUST00880,Direct,Mid-Range,1069.79,1133.0,Champions,7,39
+CUST01205,Referral,Premium,1121.74,1132.0,Loyal Customers,9,84
+CUST01477,Direct,Premium,1127.67,1132.0,Loyal Customers,10,61
+CUST01045,Direct,Luxury,1150.39,1131.0,Loyal Customers,10,67
+CUST00937,Paid Social,Premium,1519.86,1130.0,Champions,9,15
+CUST00715,Paid Social,Premium,1524.0,1129.0,Loyal Customers,8,65
+CUST00208,Influencer,Luxury,1343.81,1128.0,Loyal Customers,8,69
+CUST00069,Direct,Premium,1406.99,1127.0,Champions,9,10
+CUST01322,Paid Social,Luxury,945.24,1126.0,At Risk,10,259
+CUST00004,Referral,Mid-Range,1409.67,1124.0,Loyal Customers,7,61
+CUST00982,Email,Luxury,1128.7,1124.0,Champions,10,11
+CUST01003,Referral,Mid-Range,1052.0,1124.0,Loyal Customers,9,68
+CUST01080,Direct,Premium,1047.69,1123.0,Loyal Customers,10,49
+CUST00826,Organic Search,Premium,1317.69,1122.0,Loyal Customers,8,75
+CUST00833,Paid Social,Luxury,1089.66,1121.0,Loyal Customers,10,50
+CUST00280,Organic Search,Luxury,1310.75,1121.0,Champions,9,8
+CUST00307,Paid Social,Luxury,1296.88,1117.0,Loyal Customers,8,80
+CUST00643,Referral,Mid-Range,1037.03,1117.0,At Risk,8,94
+CUST00918,Email,Premium,1103.36,1116.0,Champions,10,12
+CUST01070,Referral,Mid-Range,1224.29,1115.0,Loyal Customers,5,19
+CUST00751,Paid Social,Luxury,1235.05,1113.0,Champions,9,17
+CUST00218,Referral,Mid-Range,916.72,1111.0,Champions,8,10
+CUST00714,Organic Search,Premium,1256.38,1109.0,Loyal Customers,8,55
+CUST00638,Influencer,Mid-Range,1422.07,1108.0,Champions,8,42
+CUST00379,Organic Search,Mid-Range,1223.95,1106.0,Loyal Customers,8,61
+CUST01149,Organic Search,Premium,919.9,1104.0,Champions,10,10
+CUST00279,Influencer,Budget,1346.26,1104.0,Loyal Customers,6,32
+CUST01064,Referral,Mid-Range,1002.41,1101.0,Lost Customers,4,86
+CUST00535,Influencer,Premium,1235.58,1100.0,At Risk,9,113
+CUST00852,Organic Search,Mid-Range,1171.79,1099.0,Champions,8,28
+CUST00630,Paid Social,Luxury,1229.82,1098.0,Champions,9,25
+CUST00699,Paid Social,Premium,1171.26,1096.0,Champions,8,25
+CUST00971,Referral,Budget,1354.61,1096.0,At Risk,6,86
+CUST01323,Referral,Mid-Range,1162.37,1093.0,Champions,7,19
+CUST01221,Influencer,Premium,1449.88,1092.0,Champions,8,43
+CUST01364,Referral,Mid-Range,1122.27,1090.0,Champions,7,22
+CUST00492,Paid Social,Budget,1091.64,1090.0,New Customers,4,20
+CUST00640,Organic Search,Premium,1197.92,1090.0,Champions,9,10
+CUST00475,Organic Search,Premium,1224.36,1089.0,Champions,9,17
+CUST00185,Email,Premium,1058.41,1088.0,Champions,10,23
+CUST00510,Email,Premium,1250.05,1088.0,At Risk,8,112
+CUST00900,Email,Premium,997.54,1087.0,Loyal Customers,10,62
+CUST01223,Referral,Mid-Range,1255.46,1087.0,Champions,6,1
+CUST01040,Referral,Premium,1171.59,1086.0,Champions,8,22
+CUST00551,Referral,Budget,956.99,1086.0,Loyal Customers,6,15
+CUST00092,Organic Search,Mid-Range,1094.89,1086.0,Champions,8,22
+CUST00263,Direct,Premium,1265.67,1086.0,Loyal Customers,8,47
+CUST01238,Email,Premium,1274.68,1085.0,Champions,10,3
+CUST00281,Influencer,Premium,1309.92,1084.0,At Risk,8,89
+CUST00347,Referral,Premium,1132.18,1084.0,Loyal Customers,7,70
+CUST00717,Email,Premium,1444.76,1083.0,Loyal Customers,9,82
+CUST00954,Paid Social,Premium,1242.45,1083.0,Loyal Customers,9,59
+CUST00043,Direct,Luxury,1029.4,1081.0,Champions,8,44
+CUST00894,Direct,Mid-Range,1336.62,1080.0,Loyal Customers,7,64
+CUST00903,Email,Premium,1342.89,1080.0,Champions,9,4
+CUST00419,Direct,Premium,1214.04,1080.0,Loyal Customers,6,6
+CUST00188,Organic Search,Budget,1266.33,1080.0,Loyal Customers,6,15
+CUST00060,Influencer,Mid-Range,1101.99,1079.0,Champions,8,42
+CUST00530,Referral,Mid-Range,1085.6,1076.0,Champions,7,26
+CUST01062,Organic Search,Premium,1100.24,1075.0,Loyal Customers,9,54
+CUST00863,Email,Premium,1031.06,1074.0,Champions,10,5
+CUST00201,Paid Social,Mid-Range,1378.55,1073.0,Loyal Customers,7,83
+CUST00942,Paid Social,Premium,1397.81,1070.0,Champions,8,14
+CUST00781,Influencer,Luxury,1069.7,1069.0,Loyal Customers,8,78
+CUST00988,Paid Social,Luxury,848.29,1069.0,Loyal Customers,12,61
+CUST01215,Organic Search,Mid-Range,1249.08,1068.0,Loyal Customers,7,83
+CUST00140,Referral,Mid-Range,947.34,1068.0,Loyal Customers,6,61
+CUST00067,Influencer,Premium,1030.82,1067.0,At Risk,8,101
+CUST01034,Referral,Premium,1020.51,1067.0,Champions,8,7
+CUST00626,Organic Search,Premium,999.74,1066.0,Loyal Customers,9,76
+CUST01249,Referral,Premium,968.15,1066.0,Champions,7,15
+CUST00182,Paid Social,Premium,968.64,1064.0,Champions,9,9
+CUST00085,Organic Search,Mid-Range,997.47,1061.0,Champions,7,12
+CUST01180,Paid Social,Premium,952.0,1061.0,Champions,9,13
+CUST00946,Organic Search,Mid-Range,1311.4,1061.0,Loyal Customers,7,58
+CUST00174,Paid Social,Mid-Range,1249.76,1060.0,At Risk,7,122
+CUST00065,Organic Search,Premium,1206.69,1060.0,At Risk,7,163
+CUST01328,Paid Social,Budget,1197.18,1058.0,Loyal Customers,5,27
+CUST00560,Direct,Premium,918.07,1055.0,Champions,8,6
+CUST01368,Referral,Mid-Range,1046.55,1054.0,At Risk,8,101
+CUST00079,Influencer,Mid-Range,1041.65,1054.0,Loyal Customers,6,2
+CUST00818,Email,Premium,875.92,1052.0,Champions,12,10
+CUST00632,Paid Social,Premium,919.08,1052.0,Champions,9,37
+CUST00045,Email,Luxury,914.02,1051.0,Champions,12,17
+CUST01247,Referral,Premium,961.15,1051.0,At Risk,8,151
+CUST01241,Direct,Premium,998.78,1051.0,Loyal Customers,9,69
+CUST00161,Paid Social,Premium,998.04,1050.0,Lost Customers,4,101
+CUST00062,Paid Social,Luxury,1085.52,1050.0,Champions,7,19
+CUST00647,Direct,Premium,1172.9,1049.0,Loyal Customers,7,53
+CUST01376,Direct,Premium,1214.55,1049.0,Champions,8,33
+CUST00615,Direct,Mid-Range,926.36,1049.0,Loyal Customers,6,43
+CUST00713,Email,Premium,934.32,1049.0,Champions,10,25
+CUST00793,Email,Premium,1078.98,1048.0,Champions,9,19
+CUST01022,Paid Social,Premium,1046.91,1048.0,Champions,7,21
+CUST00562,Organic Search,Luxury,1004.78,1047.0,Champions,9,5
+CUST01360,Organic Search,Mid-Range,1165.5,1047.0,Loyal Customers,7,52
+CUST00157,Organic Search,Luxury,1000.29,1047.0,Loyal Customers,8,62
+CUST00010,Paid Social,Mid-Range,945.52,1044.0,Lost Customers,5,187
+CUST00785,Paid Social,Mid-Range,1196.81,1043.0,Champions,7,11
+CUST01485,Referral,Premium,879.34,1043.0,At Risk,11,95
+CUST00456,Paid Social,Premium,960.6,1041.0,Potential Loyalists,4,83
+CUST00722,Paid Social,Mid-Range,1215.26,1039.0,Champions,7,23
+CUST00499,Paid Social,Mid-Range,1029.55,1038.0,At Risk,6,127
+CUST00695,Referral,Mid-Range,1076.17,1038.0,Loyal Customers,6,65
+CUST00170,Influencer,Mid-Range,963.21,1038.0,Loyal Customers,7,64
+CUST00135,Paid Social,Premium,1060.54,1037.0,Loyal Customers,6,12
+CUST01162,Organic Search,Mid-Range,1092.29,1035.0,Champions,7,19
+CUST00503,Direct,Premium,1024.66,1035.0,Champions,9,20
+CUST00513,Email,Premium,1103.6,1033.0,Loyal Customers,9,53
+CUST00107,Paid Social,Luxury,997.86,1033.0,At Risk,6,218
+CUST01017,Organic Search,Premium,1142.39,1033.0,Loyal Customers,8,72
+CUST00127,Organic Search,Premium,950.56,1031.0,Loyal Customers,6,15
+CUST00186,Referral,Mid-Range,923.68,1031.0,At Risk,5,137
+CUST00394,Organic Search,Mid-Range,931.04,1028.0,Loyal Customers,6,17
+CUST00483,Organic Search,Luxury,851.19,1027.0,Champions,11,20
+CUST01043,Paid Social,Mid-Range,1050.84,1027.0,At Risk,7,161
+CUST00163,Email,Premium,949.66,1027.0,Champions,9,3
+CUST00539,Paid Social,Premium,976.16,1026.0,Champions,8,13
+CUST01448,Referral,Mid-Range,1011.4,1025.0,Loyal Customers,6,69
+CUST01211,Organic Search,Budget,1054.24,1023.0,Loyal Customers,5,27
+CUST00313,Influencer,Premium,901.47,1022.0,Champions,11,6
+CUST00438,Direct,Budget,934.75,1022.0,Loyal Customers,6,83
+CUST01160,Organic Search,Premium,1011.59,1022.0,Loyal Customers,8,63
+CUST00873,Paid Social,Premium,1046.78,1022.0,Champions,9,15
+CUST00886,Organic Search,Mid-Range,982.27,1022.0,Champions,7,9
+CUST01374,Organic Search,Premium,858.23,1021.0,Champions,11,1
+CUST01311,Paid Social,Premium,1090.55,1021.0,At Risk,8,116
+CUST00138,Direct,Premium,892.4,1019.0,At Risk,11,93
+CUST00581,Email,Premium,970.37,1019.0,Champions,8,12
+CUST00458,Influencer,Premium,1183.36,1017.0,Champions,7,31
+CUST00857,Paid Social,Premium,1063.27,1015.0,Champions,9,21
+CUST00884,Organic Search,Mid-Range,1120.51,1015.0,Champions,7,24
+CUST01443,Organic Search,Luxury,1049.38,1014.0,At Risk,8,99
+CUST00453,Referral,Budget,964.46,1014.0,Loyal Customers,5,29
+CUST00306,Organic Search,Mid-Range,1078.89,1013.0,At Risk,7,154
+CUST00915,Paid Social,Luxury,1016.99,1012.0,Loyal Customers,7,57
+CUST00608,Email,Budget,1114.13,1012.0,At Risk,6,181
+CUST00744,Referral,Mid-Range,917.25,1011.0,Champions,6,10
+CUST01009,Direct,Budget,978.94,1008.0,Loyal Customers,5,12
+CUST00564,Paid Social,Premium,924.21,1008.0,Loyal Customers,9,85
+CUST01384,Direct,Premium,1077.87,1008.0,Champions,8,15
+CUST00704,Paid Social,Mid-Range,1018.5,1007.0,Loyal Customers,5,26
+CUST00451,Organic Search,Premium,817.59,1007.0,Loyal Customers,11,68
+CUST00146,Email,Mid-Range,995.56,1006.0,Champions,7,9
+CUST01348,Organic Search,Budget,1015.58,1006.0,At Risk,5,117
+CUST00620,Paid Social,Premium,1047.79,1005.0,At Risk,7,174
+CUST00917,Organic Search,Luxury,940.12,1005.0,Champions,8,1
+CUST00466,Paid Social,Luxury,911.49,1002.0,Loyal Customers,11,84
+CUST00129,Referral,Premium,867.95,998.0,Champions,10,23
+CUST01279,Influencer,Luxury,820.71,997.0,Champions,11,20
+CUST00416,Direct,Premium,844.98,996.0,Champions,11,13
+CUST00604,Direct,Mid-Range,976.62,995.0,Loyal Customers,7,65
+CUST00252,Paid Social,Mid-Range,959.15,993.0,Loyal Customers,6,33
+CUST00843,Referral,Budget,696.44,992.0,Lost Customers,2,219
+CUST00328,Email,Budget,969.47,992.0,At Risk,6,153
+CUST00175,Paid Social,Mid-Range,925.51,990.0,New Customers,4,2
+CUST00907,Paid Social,Budget,924.2,989.0,Loyal Customers,5,11
+CUST00420,Direct,Premium,927.22,989.0,Loyal Customers,5,36
+CUST01500,Direct,Premium,798.83,989.0,Loyal Customers,11,64
+CUST00999,Influencer,Budget,919.34,986.0,At Risk,5,209
+CUST01401,Organic Search,Premium,1001.17,985.0,Loyal Customers,7,76
+CUST00968,Paid Social,Mid-Range,1139.01,982.0,Loyal Customers,6,56
+CUST01379,Email,Premium,1120.84,979.0,Champions,8,45
+CUST01076,Influencer,Premium,1087.55,979.0,At Risk,6,125
+CUST00674,Email,Premium,703.84,978.0,Loyal Customers,12,47
+CUST01093,Email,Premium,814.09,978.0,Champions,11,19
+CUST00041,Email,Premium,884.8,978.0,At Risk,11,89
+CUST00883,Email,Premium,830.37,977.0,Champions,11,6
+CUST01309,Influencer,Premium,966.85,974.0,Champions,6,32
+CUST01252,Email,Premium,733.56,972.0,Champions,12,33
+CUST00877,Paid Social,Mid-Range,924.52,969.0,Champions,7,43
+CUST01467,Paid Social,Mid-Range,1083.52,964.0,At Risk,6,168
+CUST01385,Influencer,Luxury,880.5,964.0,At Risk,10,129
+CUST00941,Email,Luxury,889.61,961.0,At Risk,11,103
+CUST01112,Organic Search,Luxury,678.97,960.0,Champions,11,7
+CUST01431,Organic Search,Premium,914.2,959.0,Champions,6,23
+CUST00970,Paid Social,Luxury,925.96,953.0,Loyal Customers,6,73
+CUST01096,Paid Social,Premium,959.38,944.0,Champions,6,24
+CUST00846,Email,Budget,1019.92,943.0,Loyal Customers,6,85
+CUST01235,Referral,Budget,891.78,940.0,Lost Customers,3,160
+CUST00093,Paid Social,Luxury,648.83,936.0,Champions,11,30
+CUST00488,Paid Social,Luxury,889.5,935.0,Champions,10,2
+CUST00325,Referral,Mid-Range,859.98,931.0,Champions,7,1
+CUST00811,Organic Search,Luxury,495.44,929.0,Champions,13,3
+CUST01491,Paid Social,Luxury,876.24,929.0,Champions,10,14
+CUST00728,Referral,Premium,865.87,928.0,Champions,9,1
+CUST00882,Email,Luxury,709.2,925.0,Champions,11,3
+CUST00272,Paid Social,Luxury,693.59,925.0,Champions,10,17
+CUST00537,Email,Premium,876.41,923.0,Champions,8,11
+CUST00479,Influencer,Luxury,722.3,923.0,At Risk,10,127
+CUST00984,Referral,Mid-Range,911.02,919.0,Lost Customers,4,228
+CUST01183,Organic Search,Premium,721.07,918.0,At Risk,10,216
+CUST00051,Referral,Premium,889.13,917.0,Champions,9,12
+CUST01295,Email,Premium,1010.71,917.0,Loyal Customers,6,47
+CUST00029,Referral,Mid-Range,805.63,916.0,Lost Customers,5,345
+CUST01267,Paid Social,Luxury,705.8,910.0,At Risk,10,102
+CUST00053,Email,Mid-Range,866.01,907.0,Lost Customers,3,155
+CUST00817,Referral,Premium,874.96,907.0,Champions,7,43
+CUST00508,Referral,Mid-Range,871.18,897.0,Loyal Customers,6,34
+CUST00271,Referral,Mid-Range,834.04,895.0,New Customers,4,46
+CUST01218,Referral,Premium,840.94,893.0,At Risk,8,95
+CUST01209,Referral,Budget,789.18,892.0,New Customers,3,30
+CUST00072,Paid Social,Premium,822.7,889.0,At Risk,6,200
+CUST01027,Organic Search,Premium,715.84,889.0,Champions,9,15
+CUST01417,Email,Premium,774.51,889.0,Champions,10,45
+CUST00963,Paid Social,Budget,454.08,884.0,Lost Customers,1,528
+CUST00599,Referral,Mid-Range,904.26,883.0,Champions,7,4
+CUST01423,Organic Search,Luxury,781.33,883.0,At Risk,9,135
+CUST00796,Referral,Premium,907.59,881.0,Champions,7,17
+CUST00428,Referral,Mid-Range,763.12,881.0,Champions,8,43
+CUST01372,Referral,Mid-Range,904.24,879.0,Loyal Customers,8,51
+CUST00899,Referral,Mid-Range,870.01,878.0,Champions,8,39
+CUST01498,Paid Social,Premium,769.78,876.0,Champions,9,36
+CUST00958,Organic Search,Luxury,854.0,875.0,Champions,9,18
+CUST00131,Email,Mid-Range,900.33,874.0,Champions,8,10
+CUST01092,Referral,Premium,876.82,873.0,Champions,8,8
+CUST00776,Paid Social,Premium,883.7,873.0,Champions,9,10
+CUST01290,Direct,Premium,826.94,872.0,At Risk,8,106
+CUST00178,Direct,Mid-Range,740.86,871.0,Champions,8,20
+CUST00023,Paid Social,Premium,899.82,870.0,At Risk,8,120
+CUST00027,Influencer,Mid-Range,798.64,866.0,Champions,8,1
+CUST00497,Paid Social,Premium,820.66,866.0,Champions,9,4
+CUST00805,Organic Search,Luxury,859.28,865.0,Loyal Customers,8,78
+CUST00831,Organic Search,Mid-Range,803.44,864.0,At Risk,8,118
+CUST00802,Organic Search,Mid-Range,838.09,864.0,Champions,8,16
+CUST00319,Email,Premium,750.43,862.0,Champions,10,35
+CUST00020,Paid Social,Premium,854.14,860.0,Loyal Customers,8,53
+CUST00517,Email,Premium,837.89,859.0,Loyal Customers,9,61
+CUST01296,Direct,Mid-Range,695.9,858.0,Lost Customers,4,371
+CUST00854,Paid Social,Premium,651.36,858.0,Loyal Customers,8,47
+CUST01106,Influencer,Mid-Range,840.69,856.0,Loyal Customers,7,82
+CUST00614,Paid Social,Premium,814.21,856.0,At Risk,6,139
+CUST00727,Organic Search,Mid-Range,657.7,856.0,Champions,8,19
+CUST00575,Referral,Mid-Range,865.26,855.0,Loyal Customers,6,28
+CUST01263,Referral,Mid-Range,820.69,855.0,Loyal Customers,5,17
+CUST01012,Referral,Mid-Range,776.17,855.0,At Risk,8,112
+CUST00336,Organic Search,Mid-Range,663.32,853.0,At Risk,7,173
+CUST01412,Direct,Premium,698.88,853.0,At Risk,9,159
+CUST00552,Paid Social,Premium,874.86,852.0,At Risk,9,103
+CUST00450,Paid Social,Mid-Range,681.06,852.0,Lost Customers,3,225
+CUST01124,Direct,Premium,909.64,852.0,Champions,8,7
+CUST00094,Referral,Mid-Range,728.36,851.0,At Risk,7,192
+CUST00314,Organic Search,Mid-Range,706.34,850.0,Champions,8,8
+CUST00688,Referral,Budget,710.17,850.0,Potential Loyalists,4,76
+CUST00606,Organic Search,Premium,722.59,849.0,Loyal Customers,9,48
+CUST01054,Direct,Mid-Range,862.56,849.0,Loyal Customers,7,52
+CUST00354,Paid Social,Luxury,803.36,849.0,At Risk,7,391
+CUST00649,Referral,Premium,679.7,848.0,Champions,7,40
+CUST00629,Direct,Premium,685.84,848.0,At Risk,8,267
+CUST00494,Direct,Budget,711.86,847.0,Loyal Customers,6,13
+CUST01488,Email,Premium,864.8,847.0,Champions,9,1
+CUST00496,Email,Mid-Range,744.3,845.0,Champions,8,5
+CUST00860,Direct,Luxury,748.99,845.0,At Risk,9,104
+CUST00682,Organic Search,Mid-Range,854.2,843.0,Champions,7,33
+CUST00338,Email,Premium,813.05,843.0,Champions,8,22
+CUST01075,Organic Search,Budget,792.5,843.0,Lost Customers,3,145
+CUST00760,Paid Social,Premium,909.8,842.0,Champions,7,30
+CUST01276,Referral,Budget,643.35,842.0,At Risk,5,117
+CUST00274,Paid Social,Mid-Range,861.11,841.0,Champions,7,15
+CUST01126,Organic Search,Mid-Range,718.59,841.0,Champions,8,9
+CUST01032,Organic Search,Mid-Range,874.05,841.0,Champions,7,7
+CUST00376,Direct,Luxury,711.44,841.0,Champions,9,11
+CUST01157,Paid Social,Premium,648.94,840.0,Potential Loyalists,4,47
+CUST00194,Influencer,Mid-Range,718.82,839.0,Loyal Customers,7,68
+CUST01451,Paid Social,Premium,784.81,839.0,Champions,9,15
+CUST00582,Organic Search,Budget,820.5,839.0,At Risk,6,153
+CUST00406,Organic Search,Premium,766.2,838.0,Loyal Customers,6,65
+CUST00156,Referral,Mid-Range,750.95,838.0,At Risk,6,96
+CUST00757,Paid Social,Luxury,808.26,837.0,Champions,8,23
+CUST00870,Email,Mid-Range,902.33,837.0,Loyal Customers,8,49
+CUST00634,Direct,Budget,441.81,837.0,Potential Loyalists,1,65
+CUST00339,Paid Social,Premium,817.64,836.0,At Risk,6,195
+CUST00036,Paid Social,Luxury,649.48,836.0,At Risk,6,240
+CUST00515,Referral,Mid-Range,719.7,836.0,Champions,7,2
+CUST00353,Organic Search,Mid-Range,642.96,835.0,Champions,8,10
+CUST00061,Direct,Mid-Range,769.61,835.0,Lost Customers,5,164
+CUST00291,Paid Social,Luxury,912.39,833.0,At Risk,7,99
+CUST00742,Paid Social,Premium,680.84,831.0,Champions,8,24
+CUST00262,Referral,Budget,667.64,831.0,Loyal Customers,6,15
+CUST01334,Influencer,Mid-Range,826.1,831.0,At Risk,7,153
+CUST00231,Influencer,Mid-Range,782.08,831.0,New Customers,4,23
+CUST01196,Organic Search,Mid-Range,791.61,830.0,Lost Customers,4,211
+CUST00173,Email,Premium,503.1,830.0,Loyal Customers,12,69
+CUST01427,Paid Social,Mid-Range,786.24,829.0,Champions,7,9
+CUST00191,Direct,Premium,745.74,829.0,Loyal Customers,7,54
+CUST00547,Referral,Budget,663.26,829.0,Lost Customers,3,177
+CUST00967,Referral,Mid-Range,669.83,829.0,At Risk,5,159
+CUST00230,Organic Search,Budget,764.7,828.0,New Customers,4,12
+CUST00856,Organic Search,Mid-Range,860.57,827.0,At Risk,6,162
+CUST00611,Paid Social,Mid-Range,760.54,827.0,Loyal Customers,6,11
+CUST00261,Direct,Premium,816.74,827.0,Champions,7,19
+CUST01153,Direct,Mid-Range,830.66,827.0,Champions,8,24
+CUST00409,Organic Search,Mid-Range,913.15,827.0,Loyal Customers,5,39
+CUST00344,Direct,Luxury,655.67,826.0,Loyal Customers,9,63
+CUST00697,Referral,Budget,892.46,826.0,At Risk,6,278
+CUST00579,Direct,Budget,777.67,824.0,At Risk,6,123
+CUST01393,Referral,Mid-Range,648.44,823.0,Lost Customers,4,101
+CUST01175,Influencer,Mid-Range,803.55,823.0,Champions,7,2
+CUST00264,Organic Search,Budget,847.45,822.0,At Risk,6,226
+CUST00976,Influencer,Premium,744.1,821.0,Champions,8,1
+CUST00048,Organic Search,Mid-Range,773.65,820.0,Potential Loyalists,4,57
+CUST01171,Paid Social,Premium,751.48,819.0,At Risk,7,169
+CUST00396,Organic Search,Budget,817.05,818.0,Loyal Customers,6,17
+CUST00718,Paid Social,Premium,862.05,818.0,Loyal Customers,5,48
+CUST00949,Direct,Budget,905.34,818.0,At Risk,5,173
+CUST01029,Email,Premium,765.73,817.0,Loyal Customers,9,67
+CUST00700,Organic Search,Budget,756.02,817.0,New Customers,4,18
+CUST01049,Direct,Budget,665.23,817.0,Loyal Customers,5,45
+CUST01321,Organic Search,Mid-Range,900.88,815.0,At Risk,5,110
+CUST00327,Direct,Mid-Range,880.94,814.0,Loyal Customers,7,68
+CUST01140,Email,Mid-Range,726.09,814.0,Champions,7,14
+CUST00623,Direct,Budget,869.13,814.0,Loyal Customers,5,28
+CUST00565,Influencer,Budget,700.54,814.0,New Customers,4,1
+CUST01008,Organic Search,Premium,760.55,813.0,Champions,8,41
+CUST00725,Paid Social,Mid-Range,690.91,813.0,Champions,7,9
+CUST00101,Influencer,Luxury,562.75,812.0,Champions,11,1
+CUST00013,Paid Social,Mid-Range,794.04,812.0,Loyal Customers,6,12
+CUST01282,Influencer,Mid-Range,752.16,812.0,Loyal Customers,5,83
+CUST00681,Direct,Budget,868.62,811.0,Loyal Customers,5,53
+CUST01110,Paid Social,Premium,694.18,811.0,At Risk,7,130
+CUST00038,Email,Mid-Range,760.52,810.0,New Customers,5,27
+CUST01001,Paid Social,Budget,852.35,810.0,Loyal Customers,5,3
+CUST00042,Organic Search,Budget,717.53,810.0,At Risk,6,111
+CUST00075,Email,Mid-Range,836.46,810.0,Loyal Customers,8,50
+CUST00268,Influencer,Mid-Range,682.97,808.0,Loyal Customers,6,81
+CUST00739,Paid Social,Mid-Range,845.09,807.0,Champions,6,13
+CUST00804,Organic Search,Mid-Range,831.84,807.0,Loyal Customers,5,46
+CUST00197,Email,Mid-Range,762.62,806.0,Champions,8,10
+CUST00609,Organic Search,Budget,753.35,806.0,At Risk,6,238
+CUST00651,Paid Social,Mid-Range,667.45,806.0,Loyal Customers,6,7
+CUST00395,Influencer,Mid-Range,850.56,806.0,Loyal Customers,6,53
+CUST00588,Paid Social,Mid-Range,665.16,805.0,New Customers,4,20
+CUST01090,Organic Search,Premium,786.97,804.0,At Risk,5,342
+CUST00753,Organic Search,Premium,854.6,803.0,At Risk,5,97
+CUST00076,Organic Search,Premium,642.5,803.0,Loyal Customers,6,44
+CUST01480,Organic Search,Luxury,755.7,802.0,Champions,8,8
+CUST00495,Email,Mid-Range,788.63,802.0,Loyal Customers,6,6
+CUST01407,Paid Social,Premium,797.45,802.0,At Risk,5,89
+CUST01150,Paid Social,Budget,818.6,801.0,Loyal Customers,5,13
+CUST00707,Organic Search,Mid-Range,826.46,801.0,At Risk,7,103
+CUST01048,Paid Social,Mid-Range,827.65,801.0,Champions,7,9
+CUST01371,Organic Search,Luxury,682.47,801.0,Champions,8,8
+CUST01194,Referral,Budget,672.27,801.0,At Risk,5,91
+CUST00481,Organic Search,Mid-Range,649.53,801.0,At Risk,5,129
+CUST00978,Paid Social,Premium,803.28,799.0,Champions,7,4
+CUST01055,Organic Search,Mid-Range,894.46,799.0,Champions,8,16
+CUST00557,Paid Social,Budget,850.82,799.0,Loyal Customers,5,52
+CUST00789,Paid Social,Premium,914.01,799.0,Loyal Customers,5,14
+CUST00672,Direct,Mid-Range,784.1,798.0,Loyal Customers,5,14
+CUST01262,Influencer,Mid-Range,690.78,798.0,Lost Customers,3,129
+CUST01450,Paid Social,Premium,767.22,798.0,Champions,8,32
+CUST01101,Influencer,Mid-Range,828.33,798.0,At Risk,5,100
+CUST01389,Direct,Mid-Range,683.95,797.0,Lost Customers,3,162
+CUST01018,Paid Social,Mid-Range,669.06,796.0,Champions,7,20
+CUST00830,Organic Search,Premium,863.85,796.0,Champions,7,42
+CUST01189,Paid Social,Mid-Range,660.91,795.0,Champions,7,42
+CUST00507,Email,Mid-Range,850.15,795.0,Champions,8,27
+CUST00100,Paid Social,Mid-Range,771.26,794.0,Loyal Customers,6,29
+CUST01081,Organic Search,Premium,704.48,794.0,Champions,6,29
+CUST01061,Paid Social,Premium,688.95,793.0,Champions,7,7
+CUST00732,Organic Search,Mid-Range,663.99,793.0,Champions,7,34
+CUST00731,Paid Social,Premium,651.76,792.0,Champions,7,32
+CUST01373,Email,Budget,762.03,792.0,Loyal Customers,5,4
+CUST00511,Paid Social,Premium,722.15,791.0,At Risk,7,214
+CUST01039,Paid Social,Premium,753.22,791.0,Champions,7,8
+CUST01331,Paid Social,Premium,683.54,791.0,At Risk,7,105
+CUST00797,Paid Social,Luxury,722.28,789.0,Loyal Customers,7,57
+CUST00400,Organic Search,Mid-Range,680.46,789.0,Lost Customers,4,127
+CUST01438,Organic Search,Mid-Range,653.04,788.0,At Risk,7,335
+CUST01071,Paid Social,Premium,780.76,788.0,Champions,7,42
+CUST00951,Influencer,Budget,657.76,788.0,New Customers,3,33
+CUST00533,Influencer,Premium,790.57,787.0,At Risk,5,107
+CUST01258,Paid Social,Premium,660.29,787.0,Loyal Customers,8,46
+CUST00077,Organic Search,Mid-Range,690.81,785.0,New Customers,4,18
+CUST01387,Organic Search,Premium,808.48,785.0,Champions,6,14
+CUST00664,Organic Search,Premium,732.69,782.0,Loyal Customers,7,58
+CUST01259,Paid Social,Mid-Range,741.28,782.0,Loyal Customers,7,51
+CUST00948,Influencer,Mid-Range,738.45,782.0,At Risk,5,253
+CUST00622,Direct,Mid-Range,679.97,781.0,Champions,7,37
+CUST01113,Referral,Premium,477.53,781.0,At Risk,10,118
+CUST01324,Organic Search,Mid-Range,807.75,780.0,Loyal Customers,5,25
+CUST01251,Paid Social,Mid-Range,713.9,780.0,Loyal Customers,7,64
+CUST01283,Paid Social,Premium,715.06,779.0,At Risk,8,135
+CUST00936,Paid Social,Mid-Range,688.13,779.0,Loyal Customers,7,56
+CUST00913,Paid Social,Premium,742.92,778.0,At Risk,8,102
+CUST00417,Email,Premium,823.9,778.0,At Risk,6,151
+CUST01458,Influencer,Mid-Range,795.29,777.0,Champions,6,17
+CUST00955,Paid Social,Mid-Range,749.0,777.0,At Risk,5,221
+CUST00895,Email,Mid-Range,760.57,777.0,At Risk,7,182
+CUST00926,Paid Social,Budget,895.09,776.0,Loyal Customers,5,57
+CUST01476,Organic Search,Budget,746.85,776.0,At Risk,5,181
+CUST01416,Paid Social,Budget,733.85,776.0,Loyal Customers,5,4
+CUST01487,Paid Social,Premium,821.21,775.0,Champions,6,26
+CUST00735,Organic Search,Mid-Range,789.68,775.0,Loyal Customers,5,65
+CUST01193,Email,Mid-Range,703.47,774.0,At Risk,8,98
+CUST00740,Email,Premium,836.24,773.0,At Risk,7,192
+CUST00168,Paid Social,Mid-Range,649.13,773.0,Loyal Customers,6,6
+CUST00851,Paid Social,Mid-Range,740.86,773.0,At Risk,5,140
+CUST00761,Email,Mid-Range,856.18,772.0,At Risk,5,111
+CUST00908,Paid Social,Budget,681.76,771.0,At Risk,5,102
+CUST00240,Paid Social,Premium,646.92,770.0,Champions,7,19
+CUST00044,Organic Search,Premium,704.13,770.0,At Risk,6,102
+CUST00919,Paid Social,Mid-Range,717.48,770.0,Champions,6,22
+CUST01337,Email,Mid-Range,747.13,769.0,Champions,7,14
+CUST01300,Paid Social,Budget,742.42,769.0,Loyal Customers,5,16
+CUST00969,Organic Search,Mid-Range,609.75,766.0,Lost Customers,2,585
+CUST00763,Influencer,Budget,754.37,766.0,Champions,6,27
+CUST00269,Email,Premium,669.2,766.0,Champions,7,33
+CUST00710,Email,Mid-Range,761.1,765.0,Champions,7,27
+CUST01192,Direct,Budget,902.17,765.0,At Risk,6,124
+CUST01446,Email,Premium,700.5,764.0,Loyal Customers,8,75
+CUST00755,Email,Mid-Range,690.32,764.0,Lost Customers,4,158
+CUST00095,Organic Search,Premium,675.14,763.0,Loyal Customers,5,44
+CUST01151,Organic Search,Mid-Range,738.47,763.0,Loyal Customers,5,7
+CUST00553,Paid Social,Premium,676.01,762.0,Loyal Customers,7,52
+CUST00247,Paid Social,Budget,679.91,762.0,New Customers,4,3
+CUST01484,Influencer,Budget,735.53,762.0,Loyal Customers,6,85
+CUST01127,Paid Social,Premium,700.97,761.0,Loyal Customers,5,10
+CUST01482,Organic Search,Mid-Range,662.96,760.0,Loyal Customers,5,39
+CUST00706,Paid Social,Mid-Range,647.97,758.0,Champions,6,13
+CUST00342,Referral,Mid-Range,636.21,758.0,Champions,9,4
+CUST01492,Direct,Mid-Range,746.17,757.0,At Risk,7,132
+CUST01144,Paid Social,Mid-Range,674.82,754.0,Loyal Customers,5,61
+CUST01111,Email,Premium,663.89,752.0,At Risk,8,158
+CUST01079,Organic Search,Mid-Range,656.61,752.0,At Risk,5,204
+CUST01212,Influencer,Budget,649.43,752.0,At Risk,5,181
+CUST00341,Influencer,Budget,729.45,751.0,Loyal Customers,5,18
+CUST01082,Referral,Premium,542.67,751.0,At Risk,9,155
+CUST00290,Organic Search,Mid-Range,757.88,750.0,At Risk,5,119
+CUST01378,Paid Social,Premium,683.92,750.0,Champions,7,13
+CUST00719,Paid Social,Premium,654.93,749.0,Potential Loyalists,4,68
+CUST01133,Organic Search,Budget,667.04,747.0,Champions,6,8
+CUST00987,Direct,Premium,657.98,747.0,At Risk,5,156
+CUST00242,Email,Mid-Range,670.49,747.0,Loyal Customers,7,49
+CUST00684,Paid Social,Mid-Range,657.9,747.0,At Risk,5,105
+CUST00911,Organic Search,Premium,779.59,746.0,Champions,6,17
+CUST01099,Paid Social,Mid-Range,713.74,746.0,Champions,6,28
+CUST00754,Paid Social,Budget,650.83,745.0,At Risk,5,174
+CUST00485,Paid Social,Mid-Range,661.57,744.0,At Risk,7,93
+CUST00352,Influencer,Budget,633.54,741.0,Lost Customers,2,121
+CUST01077,Email,Premium,751.03,741.0,At Risk,8,222
+CUST01231,Direct,Budget,644.25,740.0,Loyal Customers,6,67
+CUST01047,Email,Premium,679.02,738.0,Champions,8,15
+CUST00145,Email,Budget,700.44,735.0,Loyal Customers,5,33
+CUST00733,Influencer,Premium,613.17,734.0,Champions,8,42
+CUST01343,Email,Premium,865.53,732.0,Champions,6,10
+CUST00800,Paid Social,Mid-Range,669.24,731.0,At Risk,6,108
+CUST01383,Email,Budget,720.61,730.0,Loyal Customers,5,59
+CUST01386,Email,Luxury,447.64,730.0,Champions,11,37
+CUST01225,Direct,Premium,717.95,729.0,At Risk,6,111
+CUST01200,Email,Premium,645.85,727.0,At Risk,7,98
+CUST01478,Email,Premium,622.07,726.0,Champions,10,12
+CUST00203,Referral,Mid-Range,551.86,726.0,At Risk,9,114
+CUST01164,Email,Premium,648.47,724.0,At Risk,7,173
+CUST00992,Influencer,Mid-Range,689.6,723.0,Champions,6,25
+CUST01277,Email,Premium,575.09,722.0,Champions,10,1
+CUST00698,Direct,Premium,653.01,717.0,At Risk,6,198
+CUST01453,Paid Social,Mid-Range,679.35,714.0,Champions,6,29
+CUST00812,Email,Premium,594.11,714.0,Loyal Customers,10,78
+CUST00932,Paid Social,Premium,688.13,711.0,At Risk,6,96
+CUST00766,Email,Budget,740.21,710.0,Champions,6,22
+CUST00538,Paid Social,Premium,625.78,710.0,At Risk,8,239
+CUST00921,Direct,Premium,491.29,709.0,At Risk,9,172
+CUST00584,Email,Budget,682.51,705.0,At Risk,5,220
+CUST01400,Email,Premium,866.91,700.0,Champions,6,30
+CUST01404,Email,Mid-Range,756.83,695.0,At Risk,6,134
+CUST01028,Paid Social,Luxury,434.78,695.0,Champions,10,1
+CUST00109,Paid Social,Premium,603.51,695.0,Loyal Customers,9,49
+CUST00476,Paid Social,Premium,637.57,694.0,At Risk,9,128
+CUST00847,Influencer,Budget,686.29,694.0,Loyal Customers,5,18
+CUST01156,Email,Mid-Range,677.84,692.0,At Risk,6,189
+CUST01198,Email,Budget,702.47,690.0,Loyal Customers,6,64
+CUST01014,Email,Mid-Range,792.83,689.0,Champions,6,39
+CUST00957,Email,Luxury,543.34,688.0,Champions,10,32
+CUST00772,Influencer,Mid-Range,530.55,687.0,Champions,8,43
+CUST00332,Influencer,Mid-Range,527.07,684.0,Lost Customers,3,306
+CUST01103,Paid Social,Premium,491.62,680.0,Champions,9,13
+CUST00995,Influencer,Budget,441.06,680.0,Potential Loyalists,3,72
+CUST01182,Organic Search,Premium,621.73,679.0,Champions,9,2
+CUST00473,Referral,Budget,607.15,678.0,Loyal Customers,6,20
+CUST00315,Email,Budget,677.46,676.0,Loyal Customers,5,38
+CUST00792,Referral,Budget,599.73,676.0,Lost Customers,3,479
+CUST00624,Organic Search,Budget,634.84,674.0,Loyal Customers,6,46
+CUST00322,Organic Search,Mid-Range,630.53,673.0,Potential Loyalists,3,85
+CUST00148,Direct,Budget,624.37,672.0,Lost Customers,3,232
+CUST00514,Direct,Budget,487.37,671.0,Lost Customers,2,451
+CUST00403,Referral,Budget,639.58,671.0,At Risk,6,254
+CUST01168,Organic Search,Premium,504.28,670.0,Champions,7,27
+CUST00531,Direct,Mid-Range,530.59,670.0,Lost Customers,2,178
+CUST00014,Paid Social,Budget,631.81,669.0,Potential Loyalists,3,70
+CUST00896,Paid Social,Premium,607.06,669.0,Champions,9,33
+CUST00371,Organic Search,Mid-Range,600.87,668.0,Lost Customers,3,290
+CUST01213,Influencer,Mid-Range,514.02,666.0,Lost Customers,2,157
+CUST00311,Paid Social,Budget,636.22,666.0,Lost Customers,3,100
+CUST01349,Referral,Mid-Range,574.58,665.0,Loyal Customers,7,85
+CUST00221,Referral,Mid-Range,505.52,665.0,Loyal Customers,5,38
+CUST00906,Paid Social,Premium,626.16,665.0,Champions,7,28
+CUST00059,Paid Social,Mid-Range,587.58,664.0,Champions,7,5
+CUST00080,Referral,Budget,548.03,662.0,Loyal Customers,6,61
+CUST00096,Organic Search,Luxury,503.69,657.0,At Risk,8,92
+CUST00767,Referral,Mid-Range,439.57,654.0,Potential Loyalists,4,71
+CUST00275,Influencer,Mid-Range,553.46,654.0,At Risk,8,102
+CUST00574,Email,Premium,478.29,654.0,Champions,8,14
+CUST01430,Influencer,Budget,491.51,652.0,Lost Customers,2,234
+CUST01026,Referral,Mid-Range,607.74,652.0,At Risk,5,372
+CUST01342,Organic Search,Luxury,608.01,651.0,Champions,8,13
+CUST00346,Direct,Mid-Range,529.0,651.0,Champions,7,1
+CUST00436,Influencer,Mid-Range,485.16,650.0,Lost Customers,2,259
+CUST00297,Paid Social,Premium,622.4,650.0,New Customers,4,38
+CUST00130,Organic Search,Budget,488.4,648.0,Lost Customers,2,268
+CUST00216,Direct,Mid-Range,486.06,645.0,Potential Loyalists,2,79
+CUST00667,Influencer,Premium,579.41,644.0,At Risk,5,90
+CUST01107,Organic Search,Budget,610.07,644.0,Lost Customers,4,215
+CUST01187,Organic Search,Premium,577.34,644.0,Loyal Customers,5,76
+CUST01424,Paid Social,Luxury,534.59,643.0,Champions,9,6
+CUST00939,Referral,Mid-Range,592.22,643.0,Lost Customers,4,92
+CUST00360,Email,Mid-Range,641.82,642.0,Potential Loyalists,3,49
+CUST00246,Direct,Premium,597.35,642.0,Loyal Customers,6,15
+CUST00433,Influencer,Budget,479.0,642.0,Lost Customers,2,236
+CUST00316,Paid Social,Mid-Range,573.36,640.0,Champions,7,6
+CUST01457,Referral,Mid-Range,641.7,639.0,Loyal Customers,5,21
+CUST01320,Paid Social,Budget,514.38,638.0,At Risk,5,286
+CUST00308,Organic Search,Budget,523.61,637.0,Lost Customers,4,129
+CUST00853,Email,Mid-Range,486.81,635.0,Champions,8,2
+CUST00301,Organic Search,Budget,553.18,634.0,Lost Customers,3,176
+CUST00430,Referral,Mid-Range,593.71,634.0,Loyal Customers,5,10
+CUST00251,Referral,Budget,550.33,632.0,Potential Loyalists,4,50
+CUST00868,Referral,Mid-Range,593.14,628.0,At Risk,5,153
+CUST01269,Referral,Mid-Range,505.58,627.0,New Customers,4,7
+CUST01303,Influencer,Mid-Range,638.28,626.0,New Customers,4,45
+CUST00381,Organic Search,Budget,631.16,625.0,Loyal Customers,6,55
+CUST00774,Referral,Mid-Range,610.99,625.0,Loyal Customers,6,61
+CUST01464,Email,Premium,609.6,622.0,Champions,8,8
+CUST00646,Referral,Budget,549.89,622.0,Loyal Customers,5,11
+CUST00938,Referral,Budget,559.4,622.0,Lost Customers,3,101
+CUST01460,Email,Premium,630.55,620.0,Champions,9,12
+CUST00571,Organic Search,Budget,635.37,619.0,At Risk,6,209
+CUST01072,Email,Premium,550.21,618.0,Loyal Customers,9,57
+CUST00151,Referral,Mid-Range,573.23,618.0,Loyal Customers,5,85
+CUST00147,Organic Search,Premium,563.83,617.0,Champions,7,17
+CUST00413,Influencer,Budget,592.33,617.0,Loyal Customers,6,22
+CUST00587,Organic Search,Premium,629.55,617.0,At Risk,7,92
+CUST01088,Organic Search,Mid-Range,641.69,614.0,Lost Customers,3,179
+CUST00867,Email,Budget,577.63,614.0,At Risk,5,206
+CUST00250,Direct,Budget,445.19,614.0,Lost Customers,2,196
+CUST01186,Direct,Budget,623.45,612.0,Potential Loyalists,4,47
+CUST00382,Organic Search,Budget,536.58,612.0,Loyal Customers,6,64
+CUST01201,Organic Search,Mid-Range,597.91,612.0,New Customers,4,5
+CUST00465,Paid Social,Premium,604.15,610.0,Loyal Customers,6,20
+CUST00031,Paid Social,Mid-Range,527.93,609.0,Champions,7,5
+CUST00509,Direct,Mid-Range,626.4,609.0,Potential Loyalists,3,69
+CUST00277,Email,Mid-Range,595.17,608.0,Loyal Customers,8,53
+CUST00222,Influencer,Mid-Range,635.15,608.0,At Risk,6,109
+CUST01052,Influencer,Budget,526.53,608.0,Lost Customers,4,289
+CUST00964,Referral,Mid-Range,531.25,608.0,Loyal Customers,5,9
+CUST00120,Paid Social,Budget,500.62,607.0,Lost Customers,3,109
+CUST01063,Paid Social,Mid-Range,564.65,607.0,Loyal Customers,7,85
+CUST01341,Referral,Mid-Range,465.34,605.0,Loyal Customers,5,7
+CUST00952,Referral,Budget,563.59,604.0,Lost Customers,4,114
+CUST01289,Paid Social,Mid-Range,636.42,604.0,At Risk,7,153
+CUST00391,Email,Mid-Range,632.64,604.0,Loyal Customers,7,66
+CUST01459,Referral,Budget,456.93,604.0,Lost Customers,4,134
+CUST00501,Direct,Budget,579.57,603.0,New Customers,4,34
+CUST00764,Referral,Mid-Range,509.72,602.0,At Risk,5,124
+CUST00071,Paid Social,Mid-Range,594.31,602.0,Loyal Customers,6,65
+CUST01202,Paid Social,Premium,604.59,600.0,New Customers,3,37
+CUST01119,Organic Search,Mid-Range,592.39,600.0,Champions,7,5
+CUST00890,Paid Social,Mid-Range,586.94,599.0,New Customers,4,28
+CUST00457,Organic Search,Mid-Range,463.89,599.0,Lost Customers,4,408
+CUST00981,Paid Social,Mid-Range,458.73,599.0,At Risk,7,130
+CUST01053,Direct,Premium,503.98,597.0,At Risk,5,399
+CUST01078,Direct,Mid-Range,551.78,596.0,New Customers,4,2
+CUST00351,Organic Search,Mid-Range,441.69,596.0,Loyal Customers,6,31
+CUST00768,Email,Mid-Range,435.39,595.0,Champions,8,33
+CUST00323,Direct,Mid-Range,465.49,595.0,Potential Loyalists,3,63
+CUST00348,Paid Social,Budget,474.47,595.0,New Customers,3,9
+CUST01291,Paid Social,Mid-Range,602.9,595.0,Potential Loyalists,3,76
+CUST00534,Paid Social,Mid-Range,520.96,593.0,Loyal Customers,6,16
+CUST01409,Referral,Mid-Range,482.85,593.0,Loyal Customers,5,64
+CUST00482,Influencer,Budget,500.8,593.0,Loyal Customers,6,42
+CUST00746,Direct,Premium,517.56,593.0,At Risk,5,160
+CUST00671,Organic Search,Mid-Range,516.25,593.0,Champions,7,13
+CUST00220,Organic Search,Mid-Range,572.79,593.0,Loyal Customers,6,21
+CUST00633,Influencer,Premium,525.65,592.0,Loyal Customers,6,42
+CUST01135,Organic Search,Mid-Range,565.76,592.0,Lost Customers,4,181
+CUST00286,Referral,Mid-Range,564.68,592.0,New Customers,4,31
+CUST00404,Direct,Budget,615.26,591.0,At Risk,5,107
+CUST00669,Paid Social,Budget,565.52,591.0,Potential Loyalists,4,77
+CUST00335,Paid Social,Budget,378.12,589.0,Potential Loyalists,1,83
+CUST01335,Direct,Premium,535.09,589.0,Champions,8,8
+CUST00570,Organic Search,Mid-Range,469.76,588.0,At Risk,7,114
+CUST01019,Paid Social,Premium,622.37,587.0,Lost Customers,4,269
+CUST00235,Influencer,Mid-Range,544.83,587.0,Potential Loyalists,4,70
+CUST00799,Direct,Mid-Range,635.24,587.0,At Risk,5,160
+CUST01261,Paid Social,Budget,562.87,586.0,Lost Customers,4,127
+CUST00798,Email,Mid-Range,599.74,586.0,Loyal Customers,7,57
+CUST00320,Paid Social,Premium,471.67,585.0,Lost Customers,3,495
+CUST00654,Email,Premium,570.16,585.0,At Risk,6,182
+CUST00467,Influencer,Budget,466.98,585.0,Loyal Customers,6,73
+CUST00468,Organic Search,Premium,607.1,585.0,Loyal Customers,5,37
+CUST00787,Paid Social,Premium,472.84,585.0,Loyal Customers,7,63
+CUST00066,Influencer,Mid-Range,519.85,584.0,New Customers,4,26
+CUST00819,Organic Search,Budget,611.28,583.0,Loyal Customers,5,20
+CUST01286,Paid Social,Premium,533.12,583.0,Lost Customers,4,168
+CUST00114,Direct,Budget,533.68,583.0,Lost Customers,4,141
+CUST00421,Paid Social,Budget,472.64,583.0,At Risk,5,220
+CUST01442,Paid Social,Mid-Range,533.89,582.0,New Customers,4,22
+CUST01449,Organic Search,Mid-Range,564.31,581.0,Potential Loyalists,4,79
+CUST00414,Paid Social,Budget,433.44,580.0,Potential Loyalists,3,85
+CUST01475,Influencer,Mid-Range,588.49,580.0,At Risk,5,95
+CUST00415,Email,Mid-Range,611.0,579.0,New Customers,4,23
+CUST00233,Organic Search,Mid-Range,562.43,578.0,Loyal Customers,5,10
+CUST00245,Email,Budget,590.93,578.0,Loyal Customers,6,81
+CUST00677,Organic Search,Mid-Range,471.38,577.0,Loyal Customers,6,40
+CUST00112,Direct,Mid-Range,620.22,577.0,At Risk,7,114
+CUST00459,Referral,Budget,527.69,576.0,New Customers,3,9
+CUST00001,Influencer,Mid-Range,509.46,576.0,Potential Loyalists,4,68
+CUST01419,Paid Social,Mid-Range,566.16,576.0,Loyal Customers,5,16
+CUST00362,Organic Search,Budget,468.42,575.0,Loyal Customers,6,5
+CUST01230,Organic Search,Mid-Range,517.0,573.0,Lost Customers,4,91
+CUST01441,Organic Search,Mid-Range,511.51,573.0,Lost Customers,4,190
+CUST00460,Paid Social,Budget,518.62,573.0,Lost Customers,4,141
+CUST00676,Paid Social,Budget,529.27,573.0,Lost Customers,4,93
+CUST00480,Paid Social,Budget,563.54,573.0,Lost Customers,3,110
+CUST00696,Email,Mid-Range,567.77,572.0,Loyal Customers,7,57
+CUST01304,Organic Search,Budget,543.47,572.0,Champions,6,9
+CUST01316,Referral,Budget,441.36,572.0,Potential Loyalists,4,77
+CUST01105,Email,Premium,557.31,572.0,Champions,8,9
+CUST00030,Organic Search,Budget,504.49,572.0,Potential Loyalists,4,77
+CUST01165,Email,Mid-Range,591.2,572.0,Loyal Customers,7,62
+CUST00810,Organic Search,Budget,494.98,571.0,Lost Customers,4,152
+CUST00401,Paid Social,Budget,492.44,570.0,Potential Loyalists,4,67
+CUST00943,Paid Social,Premium,629.42,570.0,Loyal Customers,6,47
+CUST00224,Direct,Mid-Range,449.01,570.0,Loyal Customers,6,79
+CUST01087,Email,Premium,483.33,570.0,Champions,7,16
+CUST00591,Email,Mid-Range,473.5,570.0,Champions,7,46
+CUST00452,Paid Social,Mid-Range,486.91,569.0,Loyal Customers,7,69
+CUST00462,Paid Social,Premium,553.23,569.0,Lost Customers,3,95
+CUST00641,Email,Mid-Range,436.96,569.0,Loyal Customers,7,57
+CUST01128,Paid Social,Mid-Range,477.86,568.0,Champions,7,7
+CUST00889,Organic Search,Budget,614.04,568.0,At Risk,6,191
+CUST00597,Paid Social,Mid-Range,464.3,567.0,Champions,7,10
+CUST01046,Direct,Mid-Range,488.78,567.0,Lost Customers,4,129
+CUST01035,Paid Social,Budget,504.72,567.0,Lost Customers,4,130
+CUST00679,Direct,Mid-Range,602.68,567.0,Champions,6,4
+CUST00133,Email,Budget,511.62,566.0,Loyal Customers,6,16
+CUST00972,Organic Search,Premium,602.29,566.0,Loyal Customers,5,18
+CUST00730,Paid Social,Budget,536.6,565.0,Lost Customers,3,144
+CUST00108,Influencer,Budget,627.01,565.0,Potential Loyalists,4,71
+CUST00977,Organic Search,Mid-Range,498.7,565.0,Lost Customers,4,96
+CUST00009,Influencer,Mid-Range,538.89,564.0,Potential Loyalists,4,63
+CUST00580,Paid Social,Mid-Range,552.37,564.0,Loyal Customers,5,18
+CUST01330,Influencer,Mid-Range,461.37,563.0,New Customers,4,41
+CUST01023,Influencer,Mid-Range,477.16,563.0,Lost Customers,4,186
+CUST00927,Paid Social,Premium,624.19,563.0,Loyal Customers,5,6
+CUST00334,Email,Mid-Range,573.16,563.0,Potential Loyalists,4,65
+CUST00018,Email,Budget,433.71,562.0,At Risk,6,101
+CUST00934,Paid Social,Premium,479.76,561.0,Potential Loyalists,4,78
+CUST00814,Direct,Budget,538.23,560.0,At Risk,6,255
+CUST00500,Paid Social,Budget,541.15,560.0,At Risk,5,131
+CUST00472,Influencer,Budget,349.05,560.0,Lost Customers,1,255
+CUST01226,Direct,Mid-Range,576.92,559.0,Loyal Customers,6,47
+CUST01246,Paid Social,Luxury,565.93,559.0,Loyal Customers,7,77
+CUST00862,Paid Social,Budget,542.34,558.0,At Risk,5,121
+CUST01137,Organic Search,Budget,561.69,557.0,Champions,6,42
+CUST00631,Paid Social,Budget,522.33,556.0,Lost Customers,3,107
+CUST00878,Organic Search,Budget,468.29,556.0,Potential Loyalists,4,48
+CUST00463,Direct,Mid-Range,516.95,556.0,Loyal Customers,5,9
+CUST01280,Organic Search,Premium,485.56,555.0,Loyal Customers,5,4
+CUST01152,Paid Social,Budget,518.86,554.0,Potential Loyalists,3,51
+CUST01013,Direct,Mid-Range,479.68,554.0,Champions,8,18
+CUST00605,Paid Social,Budget,534.7,553.0,New Customers,4,37
+CUST00003,Organic Search,Premium,435.67,553.0,Loyal Customers,6,69
+CUST01471,Direct,Premium,573.54,553.0,At Risk,6,149
+CUST01420,Organic Search,Budget,450.51,553.0,Lost Customers,4,396
+CUST00378,Paid Social,Premium,456.71,553.0,Lost Customers,4,147
+CUST00304,Influencer,Mid-Range,524.47,552.0,Lost Customers,4,270
+CUST00997,Paid Social,Budget,564.2,552.0,Lost Customers,4,196
+CUST00844,Direct,Budget,535.1,552.0,Loyal Customers,6,67
+CUST00070,Email,Budget,602.37,552.0,At Risk,5,226
+CUST00089,Paid Social,Premium,514.23,551.0,Loyal Customers,5,65
+CUST00248,Email,Premium,468.79,551.0,Loyal Customers,6,57
+CUST00469,Direct,Premium,556.97,550.0,Loyal Customers,5,30
+CUST01015,Organic Search,Mid-Range,511.42,550.0,At Risk,5,86
+CUST00125,Paid Social,Mid-Range,624.12,550.0,Loyal Customers,5,55
+CUST00491,Referral,Mid-Range,384.66,549.0,At Risk,8,115
+CUST00184,Paid Social,Mid-Range,445.89,548.0,Lost Customers,4,132
+CUST01306,Organic Search,Mid-Range,558.41,548.0,At Risk,5,89
+CUST00871,Direct,Budget,505.93,547.0,At Risk,5,364
+CUST01108,Paid Social,Mid-Range,490.9,547.0,Champions,6,2
+CUST00521,Paid Social,Premium,586.86,545.0,Loyal Customers,5,85
+CUST00686,Paid Social,Mid-Range,448.32,545.0,Champions,6,29
+CUST00110,Organic Search,Mid-Range,473.69,545.0,Potential Loyalists,4,74
+CUST00956,Organic Search,Mid-Range,624.9,544.0,At Risk,6,103
+CUST00848,Paid Social,Budget,469.68,544.0,Loyal Customers,5,14
+CUST00355,Influencer,Mid-Range,448.28,544.0,At Risk,7,246
+CUST00549,Email,Budget,506.74,544.0,New Customers,4,40
+CUST01362,Direct,Mid-Range,490.13,542.0,Loyal Customers,6,64
+CUST00289,Direct,Premium,460.63,542.0,Loyal Customers,5,61
+CUST01490,Paid Social,Mid-Range,454.93,540.0,Lost Customers,3,296
+CUST00813,Organic Search,Mid-Range,460.95,539.0,Loyal Customers,5,60
+CUST00809,Email,Mid-Range,574.06,538.0,Loyal Customers,6,84
+CUST01257,Referral,Mid-Range,463.66,538.0,Champions,6,2
+CUST00117,Email,Mid-Range,589.6,537.0,Loyal Customers,5,51
+CUST01325,Email,Mid-Range,517.46,537.0,Champions,8,21
+CUST01278,Paid Social,Mid-Range,456.45,537.0,Loyal Customers,5,21
+CUST01248,Influencer,Premium,539.25,537.0,Loyal Customers,5,14
+CUST01097,Email,Mid-Range,441.97,536.0,At Risk,7,125
+CUST01452,Influencer,Mid-Range,458.17,535.0,Loyal Customers,5,77
+CUST00052,Paid Social,Mid-Range,556.32,535.0,Champions,7,29
+CUST01355,Paid Social,Budget,538.77,535.0,Loyal Customers,5,57
+CUST01000,Paid Social,Mid-Range,529.23,535.0,Lost Customers,4,173
+CUST01132,Organic Search,Budget,462.13,534.0,Potential Loyalists,3,65
+CUST00407,Paid Social,Luxury,406.01,532.0,At Risk,8,147
+CUST01136,Email,Premium,567.05,530.0,Champions,6,22
+CUST00668,Email,Premium,418.46,530.0,Loyal Customers,11,79
+CUST01381,Organic Search,Budget,500.38,530.0,Loyal Customers,5,34
+CUST00592,Paid Social,Premium,450.66,530.0,Lost Customers,3,249
+CUST00928,Email,Premium,545.38,530.0,Champions,8,35
+CUST00743,Paid Social,Premium,450.81,528.0,New Customers,3,24
+CUST00675,Organic Search,Mid-Range,463.65,528.0,At Risk,5,358
+CUST00555,Direct,Budget,549.13,528.0,Loyal Customers,5,23
+CUST00613,Paid Social,Budget,502.53,526.0,Loyal Customers,5,14
+CUST00808,Paid Social,Premium,518.59,525.0,Champions,6,8
+CUST01473,Organic Search,Mid-Range,437.17,523.0,Lost Customers,3,129
+CUST01086,Paid Social,Mid-Range,474.02,523.0,Champions,6,5
+CUST00929,Paid Social,Mid-Range,453.09,523.0,Lost Customers,3,173
+CUST00160,Organic Search,Premium,480.02,523.0,At Risk,5,234
+CUST01494,Organic Search,Budget,523.52,521.0,Loyal Customers,6,74
+CUST00392,Organic Search,Mid-Range,375.63,520.0,Loyal Customers,6,27
+CUST00141,Paid Social,Mid-Range,597.78,520.0,At Risk,5,217
+CUST01253,Paid Social,Budget,488.28,518.0,Loyal Customers,5,83
+CUST00806,Email,Budget,528.55,518.0,Champions,6,28
+CUST01233,Direct,Budget,288.86,518.0,Lost Customers,1,636
+CUST01421,Email,Mid-Range,447.26,517.0,Loyal Customers,7,50
+CUST01163,Email,Mid-Range,620.92,516.0,Champions,6,13
+CUST00904,Email,Mid-Range,622.93,516.0,At Risk,6,104
+CUST00692,Organic Search,Mid-Range,477.24,515.0,New Customers,3,8
+CUST00544,Paid Social,Budget,514.72,515.0,At Risk,5,156
+CUST00441,Email,Budget,463.01,514.0,At Risk,5,164
+CUST01121,Email,Mid-Range,561.43,513.0,At Risk,5,97
+CUST00136,Paid Social,Budget,466.35,513.0,Lost Customers,4,136
+CUST00318,Influencer,Mid-Range,446.03,511.0,At Risk,5,96
+CUST00859,Paid Social,Mid-Range,586.82,511.0,Champions,6,4
+CUST00122,Direct,Mid-Range,506.9,509.0,Loyal Customers,5,19
+CUST00195,Organic Search,Budget,486.23,509.0,Loyal Customers,5,59
+CUST01479,Paid Social,Mid-Range,312.59,509.0,Lost Customers,3,330
+CUST01327,Email,Mid-Range,518.88,504.0,Champions,6,10
+CUST00393,Paid Social,Budget,494.82,504.0,Loyal Customers,5,61
+CUST00659,Paid Social,Budget,548.0,501.0,Loyal Customers,5,71
+CUST00759,Direct,Budget,461.86,501.0,Champions,6,15
+CUST00442,Email,Budget,335.66,500.0,Lost Customers,1,181
+CUST00691,Email,Budget,468.96,496.0,Champions,6,34
+CUST00585,Referral,Budget,286.05,491.0,Loyal Customers,5,37
+CUST01139,Email,Mid-Range,436.37,488.0,Lost Customers,4,137
+CUST00765,Email,Premium,581.92,487.0,Champions,6,4
+CUST00888,Paid Social,Budget,459.17,487.0,At Risk,5,230
+CUST01354,Email,Mid-Range,578.97,486.0,Lost Customers,4,98
+CUST01396,Email,Premium,446.32,486.0,Champions,6,28
+CUST01118,Organic Search,Budget,248.76,477.0,Lost Customers,2,220
+CUST00434,Paid Social,Budget,284.8,476.0,Lost Customers,1,331
+CUST00935,Email,Mid-Range,454.45,476.0,Loyal Customers,6,61
+CUST00321,Paid Social,Budget,478.74,475.0,Lost Customers,4,165
+CUST00367,Referral,Budget,408.14,467.0,New Customers,3,14
+CUST00490,Organic Search,Premium,324.61,467.0,Champions,9,3
+CUST00024,Paid Social,Premium,346.88,465.0,Lost Customers,5,145
+CUST00206,Paid Social,Premium,399.92,463.0,Loyal Customers,6,73
+CUST00523,Paid Social,Mid-Range,335.57,463.0,Champions,7,15
+CUST00489,Referral,Budget,381.34,462.0,New Customers,2,43
+CUST00209,Influencer,Mid-Range,366.18,460.0,At Risk,8,196
+CUST00825,Direct,Premium,425.46,457.0,At Risk,5,330
+CUST00402,Organic Search,Premium,332.85,455.0,Loyal Customers,8,80
+CUST01395,Paid Social,Premium,295.04,454.0,Champions,8,7
+CUST01444,Paid Social,Mid-Range,278.47,449.0,Lost Customers,1,113
+CUST01264,Organic Search,Budget,376.2,448.0,Lost Customers,2,357
+CUST00566,Organic Search,Premium,342.81,444.0,Loyal Customers,7,84
+CUST00199,Referral,Budget,357.62,442.0,Lost Customers,2,125
+CUST00448,Organic Search,Budget,350.16,442.0,Potential Loyalists,4,53
+CUST01294,Paid Social,Mid-Range,418.71,442.0,New Customers,2,11
+CUST00102,Organic Search,Mid-Range,417.63,439.0,New Customers,2,37
+CUST00158,Direct,Premium,427.12,437.0,Loyal Customers,6,1
+CUST01340,Email,Mid-Range,474.18,437.0,Champions,6,27
+CUST00088,Influencer,Budget,430.46,435.0,At Risk,6,101
+CUST00358,Influencer,Budget,414.96,434.0,Potential Loyalists,2,53
+CUST00758,Email,Budget,446.99,432.0,Lost Customers,3,159
+CUST00055,Paid Social,Mid-Range,306.57,432.0,Lost Customers,5,130
+CUST00169,Influencer,Mid-Range,334.93,432.0,At Risk,6,248
+CUST00227,Email,Premium,361.27,430.0,Champions,8,11
+CUST01058,Direct,Premium,387.94,429.0,Champions,8,21
+CUST00259,Influencer,Budget,407.15,428.0,Lost Customers,2,89
+CUST01307,Paid Social,Mid-Range,363.87,427.0,Champions,6,28
+CUST01138,Paid Social,Premium,388.51,426.0,At Risk,7,98
+CUST00177,Influencer,Budget,379.44,424.0,Lost Customers,3,123
+CUST01067,Paid Social,Mid-Range,288.57,422.0,Loyal Customers,5,68
+CUST00068,Referral,Budget,388.1,419.0,Lost Customers,4,187
+CUST01141,Organic Search,Budget,390.42,418.0,Potential Loyalists,2,84
+CUST00373,Direct,Mid-Range,408.67,418.0,New Customers,3,33
+CUST00204,Paid Social,Budget,416.66,417.0,Lost Customers,4,87
+CUST00689,Referral,Budget,316.18,416.0,New Customers,2,31
+CUST00149,Referral,Mid-Range,377.11,415.0,Lost Customers,4,103
+CUST01465,Direct,Budget,392.17,414.0,Lost Customers,2,88
+CUST00673,Referral,Budget,317.08,413.0,Loyal Customers,6,73
+CUST00056,Direct,Mid-Range,354.17,413.0,Lost Customers,3,438
+CUST00901,Referral,Budget,427.99,411.0,Lost Customers,3,158
+CUST00284,Referral,Budget,361.37,408.0,Lost Customers,4,164
+CUST01390,Referral,Mid-Range,284.86,407.0,New Customers,4,6
+CUST01310,Referral,Budget,413.5,405.0,New Customers,3,23
+CUST00477,Paid Social,Mid-Range,432.83,404.0,At Risk,7,181
+CUST00142,Referral,Budget,280.17,404.0,New Customers,3,22
+CUST00750,Referral,Mid-Range,397.16,404.0,New Customers,3,17
+CUST00343,Direct,Mid-Range,373.62,403.0,Lost Customers,2,177
+CUST00625,Paid Social,Budget,271.01,403.0,Lost Customers,3,98
+CUST01370,Organic Search,Luxury,413.89,402.0,At Risk,8,317
+CUST01366,Referral,Budget,392.52,402.0,New Customers,3,10
+CUST00887,Email,Mid-Range,363.39,400.0,Lost Customers,2,515
+CUST00103,Organic Search,Mid-Range,375.28,400.0,New Customers,3,35
+CUST00294,Email,Mid-Range,382.25,399.0,Loyal Customers,6,15
+CUST00519,Paid Social,Budget,337.45,399.0,Loyal Customers,5,73
+CUST00063,Paid Social,Budget,369.93,398.0,New Customers,3,4
+CUST00370,Email,Budget,252.08,397.0,New Customers,1,8
+CUST00337,Paid Social,Budget,362.72,397.0,Lost Customers,2,164
+CUST01329,Paid Social,Luxury,375.49,396.0,Champions,7,11
+CUST00166,Referral,Budget,314.88,395.0,Potential Loyalists,4,54
+CUST00741,Paid Social,Budget,272.79,393.0,At Risk,5,571
+CUST00359,Paid Social,Budget,430.79,392.0,New Customers,4,9
+CUST00930,Referral,Mid-Range,416.64,392.0,At Risk,5,187
+CUST01117,Paid Social,Mid-Range,374.51,392.0,Champions,6,26
+CUST00771,Organic Search,Mid-Range,332.63,392.0,Loyal Customers,6,78
+CUST00033,Paid Social,Premium,330.25,390.0,New Customers,4,43
+CUST00225,Paid Social,Premium,272.11,390.0,Lost Customers,4,417
+CUST00542,Referral,Mid-Range,328.51,390.0,Lost Customers,3,441
+CUST00595,Direct,Budget,401.33,389.0,New Customers,4,6
+CUST01025,Paid Social,Budget,321.2,389.0,At Risk,5,525
+CUST00153,Direct,Premium,407.98,388.0,At Risk,6,173
+CUST00084,Email,Budget,248.73,387.0,Lost Customers,3,99
+CUST00648,Paid Social,Mid-Range,351.77,386.0,Lost Customers,2,114
+CUST00049,Paid Social,Premium,322.37,385.0,Champions,7,42
+CUST01301,Paid Social,Mid-Range,412.31,385.0,New Customers,4,4
+CUST00312,Email,Mid-Range,293.04,384.0,Potential Loyalists,3,59
+CUST00285,Paid Social,Mid-Range,324.02,384.0,Champions,7,46
+CUST01095,Organic Search,Premium,396.53,383.0,Champions,6,27
+CUST00105,Email,Budget,387.31,383.0,Lost Customers,2,139
+CUST00526,Email,Budget,346.82,382.0,Lost Customers,2,447
+CUST00111,Organic Search,Budget,334.22,382.0,Potential Loyalists,2,76
+CUST01357,Organic Search,Budget,379.71,381.0,Lost Customers,2,357
+CUST00357,Influencer,Mid-Range,328.6,380.0,New Customers,2,29
+CUST00305,Paid Social,Premium,337.72,380.0,New Customers,3,31
+CUST00179,Paid Social,Premium,357.17,380.0,Loyal Customers,6,4
+CUST00276,Direct,Budget,330.5,380.0,Lost Customers,2,160
+CUST01461,Referral,Budget,270.41,379.0,Loyal Customers,6,73
+CUST00721,Organic Search,Mid-Range,394.21,379.0,Potential Loyalists,4,79
+CUST01098,Paid Social,Budget,430.1,379.0,Lost Customers,4,93
+CUST00187,Organic Search,Budget,356.56,377.0,New Customers,4,6
+CUST00784,Referral,Budget,385.1,377.0,New Customers,3,9
+CUST00050,Paid Social,Budget,309.43,376.0,Lost Customers,3,323
+CUST01197,Direct,Mid-Range,322.57,375.0,New Customers,2,26
+CUST00924,Organic Search,Premium,360.57,375.0,At Risk,5,92
+CUST01499,Direct,Premium,319.01,375.0,Loyal Customers,7,64
+CUST01408,Paid Social,Premium,402.36,374.0,Lost Customers,3,413
+CUST00961,Paid Social,Budget,422.06,374.0,Lost Customers,4,195
+CUST01228,Paid Social,Budget,432.19,374.0,Lost Customers,4,264
+CUST00205,Email,Mid-Range,414.62,374.0,Loyal Customers,5,68
+CUST00824,Paid Social,Premium,309.82,373.0,Lost Customers,4,471
+CUST00528,Direct,Premium,433.21,373.0,At Risk,5,147
+CUST00524,Influencer,Budget,361.35,372.0,Lost Customers,4,255
+CUST00202,Referral,Mid-Range,283.5,371.0,Loyal Customers,5,18
+CUST01243,Paid Social,Mid-Range,374.09,371.0,New Customers,3,1
+CUST00502,Email,Mid-Range,305.96,370.0,Champions,7,43
+CUST01268,Referral,Mid-Range,301.92,370.0,Lost Customers,3,365
+CUST00828,Paid Social,Mid-Range,315.61,369.0,New Customers,2,6
+CUST01069,Direct,Premium,378.0,369.0,Champions,6,4
+CUST00086,Influencer,Budget,343.4,369.0,Loyal Customers,6,27
+CUST00054,Email,Budget,302.49,369.0,Lost Customers,2,611
+CUST00645,Influencer,Mid-Range,353.4,368.0,New Customers,4,35
+CUST00583,Influencer,Mid-Range,401.06,368.0,Potential Loyalists,4,56
+CUST00372,Direct,Budget,317.75,368.0,Potential Loyalists,2,56
+CUST00349,Paid Social,Mid-Range,282.48,368.0,Lost Customers,3,357
+CUST01116,Organic Search,Mid-Range,310.8,368.0,New Customers,2,36
+CUST01463,Referral,Budget,346.73,367.0,Potential Loyalists,3,85
+CUST00598,Influencer,Mid-Range,295.9,367.0,Potential Loyalists,4,65
+CUST00594,Organic Search,Budget,365.6,367.0,New Customers,4,13
+CUST00047,Paid Social,Budget,298.05,367.0,New Customers,3,4
+CUST01214,Paid Social,Budget,412.15,367.0,New Customers,4,6
+CUST00518,Paid Social,Mid-Range,417.3,366.0,Loyal Customers,6,57
+CUST01114,Paid Social,Budget,265.33,366.0,Loyal Customers,5,2
+CUST01359,Paid Social,Budget,299.06,366.0,New Customers,4,8
+CUST00326,Email,Budget,367.19,365.0,Loyal Customers,6,3
+CUST00164,Direct,Mid-Range,299.57,365.0,Loyal Customers,6,2
+CUST00752,Influencer,Premium,392.85,364.0,Loyal Customers,5,52
+CUST01161,Direct,Mid-Range,430.7,363.0,Potential Loyalists,3,51
+CUST01260,Paid Social,Mid-Range,319.87,363.0,Lost Customers,2,126
+CUST01429,Influencer,Mid-Range,418.47,363.0,New Customers,3,28
+CUST00748,Referral,Budget,315.84,362.0,Loyal Customers,5,9
+CUST00685,Influencer,Mid-Range,420.24,362.0,Lost Customers,3,138
+CUST01339,Organic Search,Mid-Range,421.29,359.0,Lost Customers,3,136
+CUST00661,Direct,Budget,301.8,359.0,New Customers,2,21
+CUST01174,Paid Social,Premium,366.65,359.0,Potential Loyalists,4,49
+CUST01245,Organic Search,Premium,367.39,358.0,At Risk,7,100
+CUST00229,Direct,Budget,267.91,358.0,At Risk,6,228
+CUST00694,Organic Search,Mid-Range,349.19,357.0,Lost Customers,4,98
+CUST00749,Paid Social,Mid-Range,308.2,357.0,Lost Customers,2,121
+CUST01346,Organic Search,Premium,356.22,357.0,Loyal Customers,5,27
+CUST00953,Organic Search,Budget,309.61,357.0,Lost Customers,3,100
+CUST01332,Influencer,Mid-Range,275.29,356.0,At Risk,5,134
+CUST00693,Email,Budget,430.82,356.0,Potential Loyalists,4,50
+CUST00527,Organic Search,Premium,265.79,355.0,Loyal Customers,7,61
+CUST01237,Organic Search,Mid-Range,347.87,354.0,At Risk,5,221
+CUST00931,Paid Social,Budget,424.74,353.0,At Risk,5,165
+CUST01222,Paid Social,Premium,398.81,352.0,New Customers,3,16
+CUST00253,Organic Search,Budget,343.24,352.0,New Customers,3,36
+CUST00990,Paid Social,Luxury,338.97,350.0,At Risk,6,233
+CUST00399,Organic Search,Mid-Range,425.42,349.0,Potential Loyalists,4,74
+CUST00278,Paid Social,Budget,294.84,348.0,Lost Customers,2,194
+CUST01313,Paid Social,Budget,301.86,348.0,Lost Customers,2,86
+CUST00375,Email,Budget,333.96,347.0,Lost Customers,3,197
+CUST01210,Paid Social,Premium,346.82,347.0,Loyal Customers,5,74
+CUST00687,Organic Search,Mid-Range,413.74,347.0,At Risk,5,124
+CUST00162,Direct,Mid-Range,338.06,346.0,Loyal Customers,5,29
+CUST00113,Influencer,Mid-Range,258.83,346.0,Lost Customers,4,245
+CUST00723,Organic Search,Mid-Range,393.19,346.0,Lost Customers,3,150
+CUST00658,Organic Search,Premium,429.89,344.0,At Risk,5,112
+CUST00143,Paid Social,Mid-Range,375.62,344.0,Lost Customers,4,328
+CUST00922,Organic Search,Budget,297.84,344.0,Lost Customers,3,273
+CUST01130,Paid Social,Budget,330.63,344.0,Lost Customers,4,88
+CUST00716,Organic Search,Mid-Range,395.91,343.0,Lost Customers,3,94
+CUST00172,Direct,Budget,290.28,343.0,Lost Customers,3,203
+CUST01037,Organic Search,Mid-Range,375.48,343.0,New Customers,3,40
+CUST00905,Direct,Budget,318.72,342.0,Loyal Customers,5,64
+CUST00183,Direct,Mid-Range,378.07,341.0,At Risk,5,141
+CUST01281,Email,Budget,396.26,341.0,Lost Customers,4,90
+CUST00559,Paid Social,Mid-Range,406.39,340.0,At Risk,5,94
+CUST00244,Paid Social,Budget,412.73,340.0,Loyal Customers,5,52
+CUST00875,Paid Social,Premium,394.08,340.0,Lost Customers,3,240
+CUST00586,Paid Social,Budget,432.19,339.0,Loyal Customers,5,17
+CUST00962,Influencer,Budget,250.3,339.0,Potential Loyalists,3,50
+CUST00211,Paid Social,Premium,307.17,339.0,Loyal Customers,5,52
+CUST00829,Organic Search,Premium,404.71,339.0,Loyal Customers,5,7
+CUST01068,Email,Mid-Range,386.67,339.0,At Risk,5,282
+CUST00983,Referral,Budget,275.18,338.0,Potential Loyalists,3,62
+CUST01454,Direct,Mid-Range,281.5,338.0,Loyal Customers,5,37
+CUST00333,Paid Social,Budget,370.7,338.0,Lost Customers,4,163
+CUST00447,Email,Budget,426.94,336.0,Lost Customers,4,248
+CUST00520,Organic Search,Mid-Range,410.95,336.0,Loyal Customers,5,65
+CUST01315,Paid Social,Budget,296.82,335.0,Lost Customers,2,532
+CUST01468,Organic Search,Mid-Range,266.35,335.0,Potential Loyalists,2,77
+CUST01002,Organic Search,Budget,371.59,335.0,Lost Customers,3,180
+CUST00610,Paid Social,Budget,280.01,335.0,Potential Loyalists,4,85
+CUST00167,Influencer,Budget,399.66,335.0,Loyal Customers,5,8
+CUST00920,Organic Search,Budget,270.18,334.0,Potential Loyalists,2,61
+CUST00892,Paid Social,Budget,387.88,334.0,Lost Customers,3,88
+CUST01254,Email,Mid-Range,389.99,334.0,At Risk,6,109
+CUST01439,Influencer,Mid-Range,311.53,333.0,Champions,7,37
+CUST01265,Paid Social,Mid-Range,261.46,333.0,Lost Customers,2,266
+CUST00548,Paid Social,Mid-Range,372.22,332.0,Lost Customers,3,217
+CUST01217,Direct,Mid-Range,261.18,332.0,New Customers,2,19
+CUST00801,Email,Budget,389.22,331.0,Potential Loyalists,4,82
+CUST00529,Paid Social,Mid-Range,255.04,331.0,New Customers,2,9
+CUST00144,Paid Social,Budget,249.16,330.0,Lost Customers,3,92
+CUST00215,Paid Social,Budget,427.81,330.0,Loyal Customers,5,21
+CUST01411,Influencer,Premium,389.95,329.0,Loyal Customers,5,72
+CUST00249,Email,Budget,304.55,329.0,Lost Customers,3,104
+CUST00021,Email,Budget,318.24,328.0,New Customers,3,38
+CUST01016,Email,Mid-Range,298.44,327.0,New Customers,2,25
+CUST00642,Email,Mid-Range,424.54,327.0,Lost Customers,4,143
+CUST00017,Organic Search,Budget,310.7,327.0,New Customers,4,23
+CUST00506,Influencer,Mid-Range,329.63,327.0,New Customers,3,4
+CUST01299,Paid Social,Budget,358.47,325.0,Loyal Customers,5,4
+CUST00897,Paid Social,Mid-Range,298.84,325.0,At Risk,5,138
+CUST00134,Organic Search,Mid-Range,332.4,325.0,At Risk,6,89
+CUST01403,Organic Search,Budget,301.56,325.0,Lost Customers,4,124
+CUST01345,Paid Social,Mid-Range,373.56,324.0,Loyal Customers,5,30
+CUST01125,Paid Social,Budget,343.52,324.0,New Customers,4,6
+CUST01305,Email,Mid-Range,408.02,324.0,Lost Customers,4,157
+CUST01204,Organic Search,Mid-Range,265.61,324.0,Champions,6,4
+CUST01089,Organic Search,Budget,385.79,323.0,At Risk,5,443
+CUST00779,Organic Search,Budget,347.8,323.0,Potential Loyalists,3,50
+CUST00747,Email,Mid-Range,269.11,323.0,Lost Customers,4,393
+CUST00993,Organic Search,Mid-Range,268.77,322.0,Lost Customers,3,225
+CUST00331,Paid Social,Budget,359.12,322.0,Loyal Customers,5,57
+CUST00104,Paid Social,Budget,285.66,320.0,Lost Customers,2,243
+CUST00437,Paid Social,Budget,249.28,320.0,Lost Customers,2,153
+CUST00405,Paid Social,Premium,289.46,320.0,Loyal Customers,6,67
+CUST01134,Paid Social,Budget,395.81,320.0,New Customers,3,16
+CUST00431,Email,Mid-Range,350.57,318.0,Lost Customers,3,192
+CUST00618,Influencer,Mid-Range,282.61,317.0,Potential Loyalists,4,77
+CUST00545,Organic Search,Budget,325.7,316.0,Potential Loyalists,3,66
+CUST00025,Email,Mid-Range,292.12,316.0,New Customers,4,2
+CUST00778,Email,Mid-Range,288.53,316.0,Potential Loyalists,2,66
+CUST01272,Paid Social,Budget,261.8,316.0,Loyal Customers,5,46
+CUST00384,Paid Social,Premium,339.73,315.0,Lost Customers,3,100
+CUST01122,Email,Mid-Range,338.75,313.0,At Risk,5,100
+CUST00198,Email,Budget,310.39,313.0,Lost Customers,4,113
+CUST00019,Direct,Mid-Range,294.32,313.0,Lost Customers,4,140
+CUST01206,Paid Social,Budget,361.24,313.0,Potential Loyalists,4,77
+CUST01190,Paid Social,Mid-Range,307.73,312.0,Potential Loyalists,4,55
+CUST00603,Email,Budget,407.6,312.0,Loyal Customers,5,37
+CUST01445,Direct,Mid-Range,321.77,310.0,Lost Customers,3,88
+CUST00106,Email,Mid-Range,408.17,310.0,Lost Customers,4,140
+CUST01352,Email,Budget,288.78,310.0,New Customers,4,26
+CUST01275,Email,Budget,280.68,309.0,Loyal Customers,6,69
+CUST00440,Email,Budget,316.06,309.0,At Risk,5,337
+CUST00389,Email,Mid-Range,361.9,308.0,New Customers,4,27
+CUST01402,Paid Social,Mid-Range,302.66,308.0,New Customers,4,27
+CUST00596,Email,Mid-Range,356.24,308.0,Lost Customers,3,495
+CUST00590,Email,Budget,261.48,308.0,New Customers,2,9
+CUST01073,Email,Mid-Range,290.18,307.0,Loyal Customers,5,31
+CUST00577,Email,Premium,325.84,307.0,Loyal Customers,6,22
+CUST01271,Referral,Budget,229.61,303.0,Lost Customers,1,419
+CUST00073,Email,Mid-Range,376.66,303.0,Lost Customers,4,102
+CUST00152,Paid Social,Budget,287.16,302.0,New Customers,4,12
+CUST00324,Organic Search,Budget,252.45,301.0,Loyal Customers,5,59
+CUST01483,Direct,Mid-Range,270.02,301.0,Lost Customers,3,287
+CUST01255,Direct,Budget,271.7,300.0,New Customers,3,8
+CUST00912,Email,Budget,349.33,299.0,Lost Customers,3,244
+CUST00037,Organic Search,Mid-Range,31.95,299.0,Lost Customers,2,116
+CUST01220,Paid Social,Mid-Range,310.63,299.0,Potential Loyalists,4,69
+CUST00678,Email,Budget,262.04,298.0,Potential Loyalists,2,78
+CUST00589,Paid Social,Budget,297.81,297.0,Potential Loyalists,3,66
+CUST00690,Email,Mid-Range,347.48,297.0,New Customers,4,13
+CUST01298,Paid Social,Luxury,328.71,296.0,Champions,6,26
+CUST01178,Email,Budget,263.32,295.0,At Risk,6,179
+CUST00356,Email,Budget,354.54,295.0,At Risk,5,195
+CUST00639,Organic Search,Budget,334.07,294.0,At Risk,5,168
+CUST00600,Email,Budget,352.17,291.0,Loyal Customers,5,46
+CUST01005,Paid Social,Mid-Range,281.86,291.0,At Risk,6,132
+CUST00973,Influencer,Mid-Range,360.0,289.0,New Customers,3,44
+CUST00850,Email,Budget,333.49,287.0,Loyal Customers,5,11
+CUST01145,Paid Social,Premium,384.6,286.0,Potential Loyalists,3,70
+CUST00516,Email,Budget,377.76,286.0,At Risk,5,117
+CUST01326,Organic Search,Mid-Range,257.96,285.0,Lost Customers,3,132
+CUST01091,Organic Search,Mid-Range,307.65,284.0,At Risk,5,120
+CUST01051,Paid Social,Mid-Range,250.77,281.0,New Customers,3,24
+CUST00561,Organic Search,Mid-Range,270.16,280.0,Lost Customers,2,178
+CUST01100,Organic Search,Mid-Range,334.74,279.0,At Risk,6,90
+CUST01021,Email,Mid-Range,379.77,278.0,Lost Customers,3,171
+CUST01398,Influencer,Mid-Range,378.61,277.0,Potential Loyalists,3,61
+CUST00885,Direct,Budget,318.84,274.0,At Risk,5,109
+CUST00128,Email,Budget,432.25,274.0,At Risk,5,142
+CUST01169,Direct,Mid-Range,330.12,273.0,At Risk,5,93
+CUST00756,Paid Social,Budget,288.51,273.0,Lost Customers,2,129
+CUST00652,Email,Mid-Range,382.71,271.0,At Risk,5,133
+CUST00914,Email,Budget,313.8,271.0,Loyal Customers,6,58
+CUST00432,Paid Social,Mid-Range,272.45,270.0,Loyal Customers,5,50
+CUST00554,Paid Social,Budget,192.97,269.0,New Customers,4,30
+CUST00720,Organic Search,Mid-Range,293.96,268.0,Lost Customers,4,111
+CUST00454,Influencer,Premium,170.79,266.0,Champions,8,27
+CUST00726,Email,Budget,368.41,265.0,Lost Customers,3,229
+CUST00159,Email,Budget,253.18,262.0,Lost Customers,3,388
+CUST00841,Paid Social,Budget,316.39,261.0,Lost Customers,3,116
+CUST01489,Email,Mid-Range,338.47,258.0,New Customers,3,16
+CUST00217,Paid Social,Mid-Range,200.71,258.0,At Risk,7,309
+CUST01297,Email,Mid-Range,315.18,252.0,Lost Customers,3,245
+CUST01415,Email,Budget,276.19,248.0,Champions,6,24
+CUST01094,Paid Social,Mid-Range,260.12,244.0,Lost Customers,2,110
+CUST00703,Email,Mid-Range,251.24,243.0,Loyal Customers,5,34
+CUST01020,Paid Social,Mid-Range,255.38,241.0,Lost Customers,3,154
+CUST00219,Referral,Budget,220.11,236.0,Lost Customers,3,380
+CUST00842,Email,Mid-Range,253.58,233.0,Lost Customers,4,349
+CUST00292,Paid Social,Luxury,125.16,230.0,Loyal Customers,6,49
+CUST00299,Paid Social,Mid-Range,196.59,229.0,Lost Customers,1,627
+CUST01410,Email,Premium,300.37,227.0,At Risk,6,110
+CUST00270,Referral,Budget,221.2,225.0,New Customers,3,12
+CUST00363,Organic Search,Mid-Range,241.13,223.0,Lost Customers,3,162
+CUST00390,Organic Search,Budget,223.77,220.0,Potential Loyalists,1,48
+CUST00411,Direct,Budget,243.96,218.0,New Customers,2,8
+CUST00950,Referral,Mid-Range,173.82,218.0,Champions,6,28
+CUST00254,Paid Social,Budget,232.94,216.0,Loyal Customers,5,10
+CUST01143,Email,Budget,0.0,216.0,Lost Customers,1,228
+CUST00769,Email,Mid-Range,189.59,213.0,Champions,8,26
+CUST00124,Paid Social,Budget,236.32,204.0,Lost Customers,3,194
+CUST00745,Paid Social,Budget,19.11,201.0,Lost Customers,2,251
+CUST00660,Email,Budget,145.85,199.0,Lost Customers,2,112
+CUST01375,Direct,Mid-Range,216.17,198.0,Lost Customers,2,730
+CUST00522,Paid Social,Mid-Range,38.64,195.0,New Customers,3,4
+CUST00444,Email,Mid-Range,237.91,192.0,Loyal Customers,6,30
+CUST00196,Paid Social,Budget,230.69,190.0,Potential Loyalists,4,52
+CUST00435,Direct,Budget,60.18,188.0,Loyal Customers,5,6
+CUST00137,Paid Social,Premium,227.0,187.0,New Customers,4,39
+CUST00329,Paid Social,Mid-Range,235.02,186.0,Lost Customers,4,155
+CUST01044,Paid Social,Budget,222.96,185.0,Loyal Customers,5,50
+CUST00979,Referral,Budget,209.46,183.0,Potential Loyalists,2,72
+CUST00980,Email,Mid-Range,230.53,181.0,Loyal Customers,5,64
+CUST01308,Paid Social,Mid-Range,0.0,176.0,New Customers,1,39
+CUST01353,Referral,Mid-Range,233.34,174.0,At Risk,5,146
+CUST00126,Organic Search,Budget,85.96,172.0,Lost Customers,3,297
+CUST00011,Influencer,Mid-Range,236.78,170.0,At Risk,6,89
+CUST00773,Email,Mid-Range,230.85,170.0,Lost Customers,2,269
+CUST01336,Paid Social,Mid-Range,163.96,170.0,Lost Customers,2,151
+CUST00214,Email,Budget,243.86,169.0,Potential Loyalists,4,84
+CUST00237,Paid Social,Mid-Range,115.91,169.0,Loyal Customers,6,45
+CUST00410,Organic Search,Budget,235.41,163.0,Potential Loyalists,4,67
+CUST00398,Email,Budget,188.16,163.0,Lost Customers,4,375
+CUST01338,Referral,Budget,166.22,161.0,Lost Customers,2,262
+CUST00996,Email,Premium,155.97,161.0,At Risk,7,122
+CUST00834,Referral,Mid-Range,220.67,161.0,Lost Customers,3,141
+CUST00028,Paid Social,Mid-Range,224.63,161.0,Lost Customers,3,92
+CUST00449,Direct,Budget,195.4,158.0,Lost Customers,3,152
+CUST00139,Direct,Budget,187.02,158.0,New Customers,4,46
+CUST00783,Organic Search,Budget,230.97,158.0,Lost Customers,2,271
+CUST00612,Paid Social,Mid-Range,243.7,157.0,Lost Customers,2,203
+CUST01131,Influencer,Budget,194.26,156.0,Lost Customers,2,447
+CUST01422,Organic Search,Budget,148.41,156.0,Lost Customers,1,526
+CUST00026,Email,Budget,169.2,155.0,Lost Customers,1,548
+CUST00039,Direct,Budget,213.84,155.0,Lost Customers,2,345
+CUST01085,Influencer,Budget,171.0,154.0,Potential Loyalists,1,73
+CUST01120,Paid Social,Mid-Range,176.04,154.0,Lost Customers,1,140
+CUST00387,Email,Mid-Range,235.5,153.0,Loyal Customers,5,40
+CUST00662,Referral,Budget,210.34,152.0,Potential Loyalists,3,73
+CUST00118,Paid Social,Premium,197.15,151.0,Lost Customers,3,181
+CUST01170,Organic Search,Premium,19.38,151.0,At Risk,5,116
+CUST01236,Influencer,Budget,242.31,150.0,New Customers,4,14
+CUST01425,Direct,Budget,126.59,150.0,Lost Customers,2,126
+CUST00670,Paid Social,Mid-Range,0.0,149.0,Lost Customers,4,103
+CUST00556,Paid Social,Budget,232.66,149.0,Lost Customers,2,147
+CUST00478,Organic Search,Budget,223.59,148.0,New Customers,2,19
+CUST01115,Influencer,Budget,228.6,148.0,Potential Loyalists,2,49
+CUST01188,Paid Social,Budget,233.23,146.0,Lost Customers,2,109
+CUST01229,Paid Social,Budget,166.67,142.0,Potential Loyalists,1,70
+CUST00368,Direct,Premium,101.8,141.0,Loyal Customers,5,10
+CUST00116,Direct,Mid-Range,215.33,141.0,At Risk,5,152
+CUST01050,Direct,Mid-Range,213.4,139.0,Potential Loyalists,2,52
+CUST00081,Paid Social,Budget,231.1,139.0,Lost Customers,3,417
+CUST00035,Paid Social,Budget,81.79,139.0,Lost Customers,3,101
+CUST01356,Direct,Budget,223.87,139.0,New Customers,4,6
+CUST01074,Paid Social,Mid-Range,214.06,138.0,Lost Customers,2,236
+CUST01440,Paid Social,Mid-Range,242.92,136.0,Loyal Customers,5,30
+CUST00601,Paid Social,Mid-Range,138.07,136.0,Lost Customers,4,136
+CUST00563,Organic Search,Mid-Range,155.84,136.0,Lost Customers,2,546
+CUST01474,Email,Budget,215.75,134.0,Lost Customers,4,126
+CUST00803,Direct,Mid-Range,224.88,134.0,New Customers,4,8
+CUST00879,Referral,Budget,94.37,134.0,Lost Customers,2,464
+CUST00910,Email,Mid-Range,237.04,134.0,Lost Customers,2,168
+CUST00893,Organic Search,Mid-Range,210.29,133.0,Lost Customers,2,169
+CUST01350,Paid Social,Budget,206.45,131.0,Potential Loyalists,2,75
+CUST00965,Direct,Mid-Range,247.94,130.0,At Risk,5,133
+CUST00040,Direct,Budget,184.57,129.0,Potential Loyalists,4,86
+CUST00762,Referral,Mid-Range,120.63,129.0,New Customers,4,29
+CUST01433,Paid Social,Budget,159.82,128.0,Lost Customers,2,468
+CUST01250,Paid Social,Budget,155.47,128.0,New Customers,1,28
+CUST01470,Referral,Mid-Range,0.0,127.0,Potential Loyalists,4,73
+CUST00573,Email,Mid-Range,241.21,127.0,New Customers,4,20
+CUST01312,Paid Social,Mid-Range,152.8,124.0,Lost Customers,1,146
+CUST01066,Influencer,Budget,156.24,124.0,New Customers,3,17
+CUST01497,Direct,Mid-Range,184.46,124.0,Lost Customers,2,250
+CUST01273,Email,Mid-Range,232.17,123.0,New Customers,2,22
+CUST00439,Organic Search,Budget,116.35,122.0,Lost Customers,1,627
+CUST01391,Paid Social,Mid-Range,189.46,122.0,Lost Customers,2,229
+CUST00090,Paid Social,Mid-Range,108.3,122.0,Loyal Customers,5,46
+CUST00944,Referral,Budget,91.27,121.0,Lost Customers,1,484
+CUST00180,Email,Budget,178.8,121.0,Lost Customers,2,539
+CUST00663,Direct,Mid-Range,179.3,120.0,New Customers,2,33
+CUST01388,Direct,Mid-Range,110.52,119.0,Lost Customers,2,645
+CUST00190,Email,Budget,227.42,118.0,At Risk,5,302
+CUST00365,Paid Social,Budget,209.83,118.0,Potential Loyalists,4,70
+CUST01436,Influencer,Mid-Range,216.7,118.0,Potential Loyalists,4,84
+CUST00426,Organic Search,Budget,142.4,117.0,New Customers,1,37
+CUST01158,Influencer,Budget,164.03,117.0,Lost Customers,2,285
+CUST00486,Organic Search,Budget,179.71,116.0,Lost Customers,2,148
+CUST00790,Organic Search,Budget,146.79,116.0,Lost Customers,1,124
+CUST00484,Paid Social,Budget,209.82,115.0,At Risk,5,212
+CUST00985,Paid Social,Budget,205.49,115.0,Potential Loyalists,4,55
+CUST00302,Direct,Mid-Range,147.44,114.0,Lost Customers,3,128
+CUST00881,Email,Budget,126.35,114.0,Lost Customers,1,724
+CUST00680,Paid Social,Budget,0.0,113.0,New Customers,1,39
+CUST00241,Organic Search,Mid-Range,153.25,113.0,New Customers,4,25
+CUST01469,Paid Social,Budget,148.77,113.0,Lost Customers,1,109
+CUST00737,Email,Budget,223.29,112.0,Lost Customers,2,188
+CUST00097,Paid Social,Budget,151.73,111.0,Lost Customers,3,149
+CUST00232,Paid Social,Budget,130.5,111.0,Lost Customers,1,379
+CUST01240,Paid Social,Mid-Range,164.12,109.0,New Customers,2,7
+CUST01347,Paid Social,Mid-Range,175.55,108.0,Lost Customers,2,190
+CUST00193,Organic Search,Budget,60.18,106.0,Lost Customers,4,220
+CUST00309,Paid Social,Mid-Range,132.11,103.0,Lost Customers,1,282
+CUST01472,Paid Social,Premium,182.52,102.0,New Customers,4,11
+CUST00770,Paid Social,Budget,134.31,102.0,Potential Loyalists,4,61
+CUST00986,Email,Mid-Range,193.17,102.0,Lost Customers,2,297
+CUST00303,Organic Search,Budget,152.9,102.0,New Customers,2,41
+CUST00470,Direct,Budget,25.2,100.0,Lost Customers,4,134
+CUST00213,Paid Social,Budget,162.69,100.0,Lost Customers,2,120
+CUST00991,Referral,Budget,76.65,99.0,Lost Customers,2,257
+CUST00243,Email,Budget,171.23,99.0,Lost Customers,3,146
+CUST00925,Paid Social,Mid-Range,132.32,98.0,Lost Customers,1,229
+CUST00869,Email,Budget,235.31,97.0,Potential Loyalists,2,86
+CUST01496,Organic Search,Budget,124.02,96.0,New Customers,1,10
+CUST00273,Paid Social,Mid-Range,0.0,96.0,Potential Loyalists,4,69
+CUST00345,Email,Budget,159.9,95.0,New Customers,2,3
+CUST01434,Email,Mid-Range,126.2,95.0,Lost Customers,2,250
+CUST01060,Email,Budget,91.83,95.0,At Risk,5,262
+CUST00712,Influencer,Mid-Range,101.66,94.0,Lost Customers,2,303
+CUST00795,Paid Social,Budget,129.79,94.0,Lost Customers,1,149
+CUST00637,Email,Mid-Range,241.86,93.0,Loyal Customers,5,84
+CUST01256,Paid Social,Mid-Range,181.06,93.0,Loyal Customers,5,40
+CUST01208,Direct,Budget,141.42,93.0,Lost Customers,2,229
+CUST00350,Paid Social,Budget,149.72,92.0,Lost Customers,2,136
+CUST01181,Organic Search,Budget,242.52,91.0,Lost Customers,2,364
+CUST00845,Email,Mid-Range,174.31,91.0,At Risk,5,118
+CUST00002,Paid Social,Mid-Range,97.71,90.0,Lost Customers,1,582
+CUST00902,Paid Social,Mid-Range,106.2,89.0,Lost Customers,2,445
+CUST01435,Direct,Budget,0.0,88.0,Lost Customers,2,231
+CUST00300,Email,Mid-Range,146.6,88.0,Loyal Customers,5,17
+CUST00891,Organic Search,Budget,136.06,87.0,Potential Loyalists,2,86
+CUST01344,Paid Social,Budget,126.3,87.0,Lost Customers,1,221
+CUST01493,Organic Search,Mid-Range,118.98,85.0,New Customers,2,15
+CUST00916,Paid Social,Premium,213.66,85.0,Potential Loyalists,3,81
+CUST00959,Organic Search,Budget,121.14,85.0,Lost Customers,1,147
+CUST00317,Paid Social,Budget,91.8,83.0,New Customers,3,7
+CUST01333,Organic Search,Mid-Range,237.62,83.0,Lost Customers,3,89
+CUST01195,Referral,Budget,67.06,83.0,Lost Customers,1,447
+CUST00154,Email,Premium,97.52,82.0,At Risk,6,113
+CUST00657,Paid Social,Premium,173.64,82.0,Lost Customers,3,128
+CUST01426,Organic Search,Budget,104.24,80.0,Lost Customers,1,375
+CUST00572,Organic Search,Mid-Range,143.01,79.0,Lost Customers,3,247
+CUST00736,Direct,Mid-Range,224.67,79.0,Lost Customers,3,191
+CUST01203,Direct,Mid-Range,119.83,78.0,Lost Customers,2,227
+CUST00602,Paid Social,Budget,163.44,78.0,Potential Loyalists,2,50
+CUST00734,Paid Social,Premium,95.16,76.0,Lost Customers,4,157
+CUST00377,Referral,Mid-Range,62.37,75.0,New Customers,4,12
+CUST00123,Paid Social,Mid-Range,91.06,74.0,Lost Customers,1,532
+CUST00711,Email,Budget,115.91,71.0,New Customers,3,18
+CUST00171,Email,Mid-Range,169.03,71.0,Lost Customers,3,106
+CUST00839,Influencer,Mid-Range,120.87,71.0,Lost Customers,2,183
+CUST00429,Direct,Budget,99.66,71.0,Lost Customers,1,357
+CUST00775,Paid Social,Premium,132.56,70.0,Lost Customers,4,111
+CUST01172,Direct,Budget,73.52,68.0,Potential Loyalists,2,49
+CUST00666,Paid Social,Mid-Range,131.79,68.0,Lost Customers,3,209
+CUST00223,Influencer,Budget,86.85,67.0,Lost Customers,1,448
+CUST00838,Organic Search,Budget,116.88,67.0,Lost Customers,2,91
+CUST00650,Direct,Budget,80.69,67.0,Lost Customers,2,347
+CUST00087,Paid Social,Mid-Range,152.4,67.0,At Risk,5,180
+CUST01405,Organic Search,Budget,108.96,67.0,Lost Customers,1,214
+CUST00858,Direct,Mid-Range,106.5,66.0,Potential Loyalists,2,70
+CUST00540,Paid Social,Budget,99.66,65.0,New Customers,2,20
+CUST00192,Paid Social,Mid-Range,117.29,65.0,Lost Customers,2,101
+CUST00423,Direct,Budget,78.3,65.0,Lost Customers,1,550
+CUST00228,Influencer,Mid-Range,105.77,64.0,New Customers,3,20
+CUST00898,Referral,Mid-Range,151.64,62.0,Lost Customers,3,177
+CUST00794,Organic Search,Budget,237.13,62.0,Potential Loyalists,3,79
+CUST01377,Organic Search,Mid-Range,97.88,62.0,Lost Customers,2,143
+CUST00960,Paid Social,Budget,80.65,62.0,Lost Customers,2,183
+CUST01242,Referral,Budget,53.78,61.0,Lost Customers,1,405
+CUST01462,Paid Social,Budget,104.21,61.0,Lost Customers,2,145
+CUST00947,Paid Social,Budget,195.65,59.0,Lost Customers,2,279
+CUST00709,Paid Social,Mid-Range,82.14,59.0,Lost Customers,3,99
+CUST00505,Influencer,Budget,92.69,58.0,New Customers,3,41
+CUST00702,Paid Social,Mid-Range,97.19,57.0,Lost Customers,2,223
+CUST01166,Paid Social,Mid-Range,65.2,52.0,New Customers,3,31
+CUST01148,Paid Social,Mid-Range,97.27,50.0,Lost Customers,3,275
+CUST01239,Organic Search,Budget,232.5,50.0,Lost Customers,3,140
+CUST00876,Paid Social,Mid-Range,86.82,48.0,Potential Loyalists,2,69
+CUST00189,Paid Social,Mid-Range,109.21,48.0,Lost Customers,3,161
+CUST01216,Direct,Mid-Range,120.71,46.0,Lost Customers,3,326
+CUST00239,Paid Social,Mid-Range,59.01,45.0,Lost Customers,2,333
+CUST01159,Paid Social,Budget,184.53,43.0,Lost Customers,2,133
+CUST01146,Paid Social,Budget,0.0,42.0,Lost Customers,3,171
+CUST00815,Paid Social,Premium,157.43,40.0,Lost Customers,3,185
+CUST00777,Paid Social,Budget,83.84,39.0,Lost Customers,1,313
+CUST00835,Paid Social,Budget,66.08,39.0,Lost Customers,1,511
+CUST00210,Direct,Budget,78.97,37.0,Lost Customers,1,293
+CUST01059,Paid Social,Mid-Range,137.87,37.0,Lost Customers,3,383
+CUST00493,Referral,Budget,43.38,37.0,Lost Customers,1,317
+CUST00836,Paid Social,Mid-Range,114.5,36.0,Lost Customers,3,216
+CUST01447,Paid Social,Mid-Range,0.0,36.0,Lost Customers,2,184
+CUST00874,Organic Search,Mid-Range,110.2,35.0,New Customers,3,41
+CUST00006,Direct,Budget,77.13,30.0,Lost Customers,1,263
+CUST00738,Paid Social,Mid-Range,153.39,29.0,Lost Customers,3,257
+CUST01041,Email,Budget,189.57,28.0,Lost Customers,2,115
+CUST01456,Email,Mid-Range,100.86,28.0,Lost Customers,2,120
+CUST00369,Paid Social,Budget,86.55,28.0,Lost Customers,1,177
+CUST00619,Organic Search,Budget,61.19,27.0,Lost Customers,1,436
+CUST01033,Organic Search,Budget,87.64,27.0,Lost Customers,2,217
+CUST00791,Influencer,Budget,72.51,26.0,Lost Customers,1,280
+CUST00282,Paid Social,Budget,81.83,25.0,Potential Loyalists,1,49
+CUST00568,Email,Mid-Range,207.72,23.0,Lost Customers,3,155
+CUST01185,Direct,Budget,60.54,22.0,Lost Customers,1,395
+CUST00058,Paid Social,Mid-Range,80.96,21.0,New Customers,3,3
+CUST00265,Organic Search,Mid-Range,124.02,21.0,Lost Customers,2,159
+CUST00257,Paid Social,Budget,0.0,21.0,New Customers,3,10
+CUST01399,Paid Social,Budget,100.01,19.0,Lost Customers,3,168
+CUST01432,Influencer,Mid-Range,161.72,19.0,Lost Customers,3,164
+CUST01418,Paid Social,Premium,98.44,18.0,Lost Customers,3,263
+CUST01057,Email,Mid-Range,126.6,18.0,Lost Customers,3,185
+CUST00821,Direct,Mid-Range,67.36,16.0,Lost Customers,3,262
+CUST00966,Paid Social,Budget,34.26,12.0,Potential Loyalists,2,63
+CUST01004,Paid Social,Mid-Range,37.2,11.0,Lost Customers,2,231
+CUST00083,Paid Social,Budget,66.28,11.0,New Customers,1,39
+CUST01363,Email,Mid-Range,115.91,9.0,Loyal Customers,5,3
+CUST01302,Paid Social,Premium,161.57,8.0,Lost Customers,3,131
+CUST01481,Paid Social,Budget,131.94,5.0,Potential Loyalists,3,51
+CUST00385,Influencer,Mid-Range,85.42,5.0,Lost Customers,2,289
+CUST00418,Paid Social,Budget,0.0,5.0,Lost Customers,1,373
+CUST00121,Paid Social,Mid-Range,55.98,4.0,Lost Customers,1,323
+CUST00408,Paid Social,Mid-Range,65.25,3.0,Lost Customers,1,206
+CUST00412,Paid Social,Mid-Range,65.53,3.0,Lost Customers,1,140
+CUST01414,Email,Mid-Range,90.13,2.0,Lost Customers,2,116
+CUST00266,Paid Social,Budget,63.99,1.0,Lost Customers,1,198
+CUST00780,Paid Social,Budget,0.0,0.0,Lost Customers,1,200
+CUST00361,Referral,Budget,14.72,0.0,Lost Customers,1,122
+CUST01184,Direct,Mid-Range,156.6,0.0,Lost Customers,3,184
+CUST01102,Organic Search,Budget,70.32,0.0,Lost Customers,2,520
+CUST01167,Paid Social,Budget,59.63,0.0,Lost Customers,2,194
+CUST01177,Paid Social,Mid-Range,0.0,0.0,Lost Customers,1,338
+CUST01284,Email,Budget,155.6,0.0,New Customers,3,32
+CUST00165,Paid Social,Budget,139.06,0.0,Lost Customers,2,112
+CUST00708,Direct,Budget,31.8,0.0,New Customers,1,38
+CUST00705,Email,Mid-Range,40.8,0.0,Lost Customers,2,149
+CUST01207,Organic Search,Mid-Range,30.82,0.0,New Customers,2,6
+CUST01406,Email,Budget,92.31,0.0,New Customers,3,3
+CUST01413,Email,Mid-Range,0.0,0.0,New Customers,2,20
+CUST00525,Paid Social,Budget,0.0,0.0,Lost Customers,1,412
+CUST01437,Paid Social,Mid-Range,0.0,0.0,Lost Customers,1,421
+CUST00007,Paid Social,Budget,0.0,0.0,Potential Loyalists,1,52
+CUST00543,Paid Social,Mid-Range,97.62,0.0,Potential Loyalists,2,73
+CUST00788,Email,Budget,85.85,0.0,Lost Customers,4,165
+CUST01266,Email,Budget,0.0,0.0,Lost Customers,1,482
+CUST00388,Paid Social,Mid-Range,56.47,0.0,Lost Customers,1,155
+CUST01285,Organic Search,Budget,74.59,0.0,New Customers,2,32
+CUST00150,Paid Social,Budget,0.0,0.0,Lost Customers,1,427
+CUST01199,Email,Budget,134.56,0.0,Lost Customers,3,182
+CUST01104,Paid Social,Budget,62.78,0.0,Lost Customers,1,102
+CUST01123,Paid Social,Mid-Range,28.59,0.0,Lost Customers,2,280
+CUST00837,Referral,Budget,0.0,0.0,Lost Customers,1,247
+CUST00296,Paid Social,Mid-Range,0.0,0.0,Lost Customers,1,203
+CUST00295,Direct,Mid-Range,38.76,0.0,Lost Customers,2,149
+CUST01056,Direct,Budget,0.0,0.0,Lost Customers,1,328
+CUST00872,Email,Budget,0.0,0.0,Lost Customers,1,283
+CUST00861,Direct,Budget,129.15,0.0,Lost Customers,3,129
+CUST00855,Email,Mid-Range,59.67,0.0,Lost Customers,2,330
+CUST01314,Paid Social,Budget,0.0,0.0,Lost Customers,1,244
+CUST00569,Referral,Budget,0.0,0.0,Lost Customers,1,636
+CUST01318,Email,Budget,0.0,0.0,Lost Customers,1,101
+CUST01317,Influencer,Mid-Range,91.44,0.0,Lost Customers,3,187
+CUST00628,Direct,Budget,0.0,0.0,Potential Loyalists,2,69
+CUST01129,Paid Social,Budget,0.0,0.0,Lost Customers,1,261
+CUST00132,Direct,Mid-Range,80.76,0.0,Lost Customers,2,278
+CUST00181,Paid Social,Budget,0.0,0.0,Lost Customers,1,553
+CUST00200,Email,Budget,49.52,0.0,Lost Customers,2,119
+CUST00617,Organic Search,Budget,40.92,0.0,Lost Customers,1,251
+CUST00656,Paid Social,Mid-Range,29.87,0.0,Lost Customers,1,132
+CUST00212,Influencer,Budget,25.83,0.0,Lost Customers,1,350
+CUST00909,Influencer,Budget,64.35,0.0,Potential Loyalists,3,64
+CUST00078,Influencer,Mid-Range,40.38,0.0,Lost Customers,3,272
+CUST01036,Paid Social,Mid-Range,97.71,0.0,Lost Customers,2,95
+CUST01024,Direct,Budget,33.53,0.0,Lost Customers,1,263
+CUST01031,Email,Budget,0.0,0.0,Lost Customers,1,301
+CUST00298,Paid Social,Budget,120.23,0.0,Lost Customers,2,110
+CUST01382,Paid Social,Mid-Range,0.0,0.0,Potential Loyalists,3,49
+CUST00446,Paid Social,Mid-Range,18.51,0.0,Lost Customers,1,651
+CUST00445,Email,Budget,0.0,0.0,Lost Customers,1,178
+CUST00994,Paid Social,Budget,0.0,0.0,Lost Customers,1,474
+CUST01010,Email,Mid-Range,0.0,0.0,Lost Customers,2,304
+CUST01397,Paid Social,Premium,136.03,0.0,New Customers,3,18
+CUST00074,Influencer,Budget,48.2,0.0,Lost Customers,1,253
+CUST00034,Paid Social,Budget,54.94,0.0,Lost Customers,2,114
