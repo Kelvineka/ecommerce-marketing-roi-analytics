@@ -1,0 +1,121 @@
+customer_id,rfm_segment,campaign_priority,campaign_type,campaign_action,predicted_clv,frequency,recency_days,acquisition_channel
+CUST01173,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1864.0,18,16,Referral
+CUST00816,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1807.0,18,2,Referral
+CUST00255,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1807.0,18,27,Referral
+CUST00504,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1721.0,17,15,Referral
+CUST00046,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1626.0,16,13,Referral
+CUST01234,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1586.0,14,27,Organic Search
+CUST00558,At Risk,High,Win-back,Time-limited re-engagement offer,1571.0,15,141,Referral
+CUST00627,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1545.0,15,4,Email
+CUST00383,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1541.0,16,9,Email
+CUST00832,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1528.0,16,13,Email
+CUST01155,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1500.0,13,22,Referral
+CUST01495,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1486.0,14,38,Organic Search
+CUST00427,Loyal Customers,High,Retention,Personalised thank-you + early access,1485.0,13,77,Referral
+CUST00091,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1480.0,13,21,Referral
+CUST01293,Loyal Customers,High,Retention,Personalised thank-you + early access,1477.0,14,48,Referral
+CUST00864,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1462.0,14,4,Influencer
+CUST00238,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1459.0,13,2,Organic Search
+CUST01038,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1459.0,14,20,Influencer
+CUST00683,Loyal Customers,High,Retention,Personalised thank-you + early access,1443.0,13,50,Referral
+CUST01179,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1439.0,14,42,Direct
+CUST00340,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1438.0,15,41,Email
+CUST01176,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1434.0,15,15,Email
+CUST00155,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1427.0,14,11,Organic Search
+CUST01369,Champions,High,VIP Rewards,Exclusive loyalty rewards + upsell premium,1426.0,14,31,Email
+CUST00422,Loyal Customers,High,Retention,Personalised thank-you + early access,1415.0,12,53,Referral
+CUST00461,Loyal Customers,High,Retention,Personalised thank-you + early access,1408.0,13,48,Organic Search
+CUST01083,Loyal Customers,High,Retention,Personalised thank-you + early access,1408.0,13,65,Direct
+CUST01358,Loyal Customers,High,Retention,Personalised thank-you + early access,1374.0,12,73,Referral
+CUST01394,Loyal Customers,High,Retention,Personalised thank-you + early access,1373.0,13,72,Referral
+CUST00701,Loyal Customers,High,Retention,Personalised thank-you + early access,1368.0,12,80,Organic Search
+CUST00064,Loyal Customers,High,Retention,Personalised thank-you + early access,1363.0,14,78,Email
+CUST00655,Loyal Customers,High,Retention,Personalised thank-you + early access,1357.0,12,72,Referral
+CUST00283,Loyal Customers,High,Retention,Personalised thank-you + early access,1357.0,13,66,Direct
+CUST00933,Loyal Customers,High,Retention,Personalised thank-you + early access,1356.0,13,65,Referral
+CUST01319,At Risk,High,Win-back,Time-limited re-engagement offer,1334.0,13,125,Email
+CUST00989,Loyal Customers,High,Retention,Personalised thank-you + early access,1293.0,10,80,Referral
+CUST00541,Loyal Customers,High,Retention,Personalised thank-you + early access,1277.0,6,16,Direct
+CUST01292,Loyal Customers,High,Retention,Personalised thank-you + early access,1276.0,12,80,Referral
+CUST00258,Loyal Customers,High,Retention,Personalised thank-you + early access,1272.0,11,63,Influencer
+CUST00260,At Risk,High,Win-back,Time-limited re-engagement offer,1263.0,12,109,Organic Search
+CUST00593,At Risk,High,Win-back,Time-limited re-engagement offer,1262.0,12,125,Paid Social
+CUST00256,Loyal Customers,High,Retention,Personalised thank-you + early access,1260.0,11,62,Referral
+CUST00236,Loyal Customers,High,Retention,Personalised thank-you + early access,1260.0,7,65,Paid Social
+CUST00364,Loyal Customers,High,Retention,Personalised thank-you + early access,1238.0,11,47,Direct
+CUST00635,At Risk,High,Win-back,Time-limited re-engagement offer,1211.0,11,226,Referral
+CUST00822,At Risk,High,Win-back,Time-limited re-engagement offer,1195.0,11,106,Paid Social
+CUST00366,At Risk,High,Win-back,Time-limited re-engagement offer,1195.0,10,104,Referral
+CUST00015,At Risk,High,Win-back,Time-limited re-engagement offer,1163.0,9,117,Paid Social
+CUST00016,At Risk,High,Win-back,Time-limited re-engagement offer,1162.0,11,91,Organic Search
+CUST01042,At Risk,High,Win-back,Time-limited re-engagement offer,1161.0,9,87,Influencer
+CUST01011,At Risk,High,Win-back,Time-limited re-engagement offer,1154.0,14,115,Email
+CUST00386,At Risk,High,Win-back,Time-limited re-engagement offer,1143.0,10,161,Paid Social
+CUST00176,At Risk,High,Win-back,Time-limited re-engagement offer,1137.0,8,172,Paid Social
+CUST01322,At Risk,High,Win-back,Time-limited re-engagement offer,1126.0,10,259,Paid Social
+CUST00643,At Risk,High,Win-back,Time-limited re-engagement offer,1117.0,8,94,Referral
+CUST00535,At Risk,High,Win-back,Time-limited re-engagement offer,1100.0,9,113,Influencer
+CUST00971,At Risk,High,Win-back,Time-limited re-engagement offer,1096.0,6,86,Referral
+CUST00510,At Risk,High,Win-back,Time-limited re-engagement offer,1088.0,8,112,Email
+CUST00281,At Risk,High,Win-back,Time-limited re-engagement offer,1084.0,8,89,Influencer
+CUST00067,At Risk,High,Win-back,Time-limited re-engagement offer,1067.0,8,101,Influencer
+CUST01064,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,1101.0,4,86,Referral
+CUST00161,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,1050.0,4,101,Paid Social
+CUST00010,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,1044.0,5,187,Paid Social
+CUST00843,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,992.0,2,219,Referral
+CUST01235,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,940.0,3,160,Referral
+CUST00984,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,919.0,4,228,Referral
+CUST00029,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,916.0,5,345,Referral
+CUST00053,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,907.0,3,155,Email
+CUST00963,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,884.0,1,528,Paid Social
+CUST01296,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,858.0,4,371,Direct
+CUST00450,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,852.0,3,225,Paid Social
+CUST01075,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,843.0,3,145,Organic Search
+CUST00061,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,835.0,5,164,Direct
+CUST01196,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,830.0,4,211,Organic Search
+CUST00547,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,829.0,3,177,Referral
+CUST01393,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,823.0,4,101,Referral
+CUST01262,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,798.0,3,129,Influencer
+CUST01389,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,797.0,3,162,Direct
+CUST00400,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,789.0,4,127,Organic Search
+CUST00969,Lost Customers,Low,Reactivation,Last-chance discount + churn survey,766.0,2,585,Organic Search
+CUST00492,New Customers,Medium,Onboarding,Welcome series — product education,1090.0,4,20,Paid Social
+CUST00456,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,1041.0,4,83,Paid Social
+CUST00175,New Customers,Medium,Onboarding,Welcome series — product education,990.0,4,2,Paid Social
+CUST00271,New Customers,Medium,Onboarding,Welcome series — product education,895.0,4,46,Referral
+CUST01209,New Customers,Medium,Onboarding,Welcome series — product education,892.0,3,30,Referral
+CUST00688,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,850.0,4,76,Referral
+CUST01157,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,840.0,4,47,Paid Social
+CUST00634,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,837.0,1,65,Direct
+CUST00231,New Customers,Medium,Onboarding,Welcome series — product education,831.0,4,23,Influencer
+CUST00230,New Customers,Medium,Onboarding,Welcome series — product education,828.0,4,12,Organic Search
+CUST00048,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,820.0,4,57,Organic Search
+CUST00700,New Customers,Medium,Onboarding,Welcome series — product education,817.0,4,18,Organic Search
+CUST00565,New Customers,Medium,Onboarding,Welcome series — product education,814.0,4,1,Influencer
+CUST00038,New Customers,Medium,Onboarding,Welcome series — product education,810.0,5,27,Email
+CUST00588,New Customers,Medium,Onboarding,Welcome series — product education,805.0,4,20,Paid Social
+CUST00951,New Customers,Medium,Onboarding,Welcome series — product education,788.0,3,33,Influencer
+CUST00077,New Customers,Medium,Onboarding,Welcome series — product education,785.0,4,18,Organic Search
+CUST00247,New Customers,Medium,Onboarding,Welcome series — product education,762.0,4,3,Paid Social
+CUST00719,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,749.0,4,68,Paid Social
+CUST00995,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,680.0,3,72,Influencer
+CUST00322,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,673.0,3,85,Organic Search
+CUST00014,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,669.0,3,70,Paid Social
+CUST00767,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,654.0,4,71,Referral
+CUST00297,New Customers,Medium,Onboarding,Welcome series — product education,650.0,4,38,Paid Social
+CUST00216,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,645.0,2,79,Direct
+CUST00360,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,642.0,3,49,Email
+CUST00251,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,632.0,4,50,Referral
+CUST01269,New Customers,Medium,Onboarding,Welcome series — product education,627.0,4,7,Referral
+CUST01303,New Customers,Medium,Onboarding,Welcome series — product education,626.0,4,45,Influencer
+CUST01186,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,612.0,4,47,Direct
+CUST01201,New Customers,Medium,Onboarding,Welcome series — product education,612.0,4,5,Organic Search
+CUST00509,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,609.0,3,69,Direct
+CUST00501,New Customers,Medium,Onboarding,Welcome series — product education,603.0,4,34,Direct
+CUST01202,New Customers,Medium,Onboarding,Welcome series — product education,600.0,3,37,Paid Social
+CUST00890,New Customers,Medium,Onboarding,Welcome series — product education,599.0,4,28,Paid Social
+CUST00323,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,595.0,3,63,Direct
+CUST01291,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,595.0,3,76,Paid Social
+CUST00669,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,591.0,4,77,Paid Social
+CUST00335,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,589.0,1,83,Paid Social
+CUST00235,Potential Loyalists,Medium,Nurture,Incentivise 2nd/3rd purchase with discount,587.0,4,70,Influencer
