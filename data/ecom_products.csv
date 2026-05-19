@@ -1,0 +1,201 @@
+product_id,product_name,category,price,cost,margin_pct,return_rate
+PROD0001,Accessories Item 0001,Accessories,40.31,26.2,0.35,0.28
+PROD0002,Clothing Item 0002,Clothing,48.81,18.06,0.63,0.32
+PROD0003,Footwear Item 0003,Footwear,63.28,31.64,0.5,0.2
+PROD0004,Accessories Item 0004,Accessories,19.48,7.21,0.63,0.12
+PROD0005,Footwear Item 0005,Footwear,121.17,50.89,0.58,0.12
+PROD0006,Accessories Item 0006,Accessories,25.71,13.63,0.47,0.14
+PROD0007,Beauty Item 0007,Beauty,25.48,17.07,0.33,0.1
+PROD0008,Footwear Item 0008,Footwear,151.56,59.11,0.61,0.22
+PROD0009,Sports Item 0009,Sports,39.16,16.06,0.59,0.32
+PROD0010,Home & Living Item 0010,Home & Living,50.82,31.51,0.38,0.1
+PROD0011,Sports Item 0011,Sports,85.35,61.45,0.28,0.27
+PROD0012,Sports Item 0012,Sports,146.79,93.95,0.36,0.23
+PROD0013,Sports Item 0013,Sports,147.02,89.68,0.39,0.21
+PROD0014,Beauty Item 0014,Beauty,56.06,20.74,0.63,0.21
+PROD0015,Footwear Item 0015,Footwear,131.63,77.66,0.41,0.11
+PROD0016,Beauty Item 0016,Beauty,14.72,5.3,0.64,0.09
+PROD0017,Home & Living Item 0017,Home & Living,31.84,19.42,0.39,0.32
+PROD0018,Clothing Item 0018,Clothing,45.54,25.05,0.45,0.22
+PROD0019,Beauty Item 0019,Beauty,17.13,9.59,0.44,0.25
+PROD0020,Clothing Item 0020,Clothing,35.77,19.32,0.46,0.08
+PROD0021,Beauty Item 0021,Beauty,65.25,24.8,0.62,0.26
+PROD0022,Sports Item 0022,Sports,30.09,12.94,0.57,0.12
+PROD0023,Clothing Item 0023,Clothing,85.59,55.63,0.35,0.24
+PROD0024,Beauty Item 0024,Beauty,20.35,12.01,0.41,0.19
+PROD0025,Footwear Item 0025,Footwear,78.3,52.46,0.33,0.28
+PROD0026,Footwear Item 0026,Footwear,66.28,49.05,0.26,0.31
+PROD0027,Footwear Item 0027,Footwear,147.27,64.8,0.56,0.31
+PROD0028,Sports Item 0028,Sports,115.45,58.88,0.49,0.2
+PROD0029,Accessories Item 0029,Accessories,59.38,23.75,0.6,0.19
+PROD0030,Beauty Item 0030,Beauty,30.52,19.53,0.36,0.19
+PROD0031,Footwear Item 0031,Footwear,42.93,24.04,0.44,0.09
+PROD0032,Home & Living Item 0032,Home & Living,43.05,30.57,0.29,0.29
+PROD0033,Sports Item 0033,Sports,54.48,39.23,0.28,0.18
+PROD0034,Clothing Item 0034,Clothing,108.12,64.87,0.4,0.19
+PROD0035,Beauty Item 0035,Beauty,43.82,18.4,0.58,0.18
+PROD0036,Home & Living Item 0036,Home & Living,74.59,48.48,0.35,0.29
+PROD0037,Clothing Item 0037,Clothing,99.72,61.83,0.38,0.3
+PROD0038,Accessories Item 0038,Accessories,85.41,38.43,0.55,0.32
+PROD0039,Beauty Item 0039,Beauty,69.16,30.43,0.56,0.24
+PROD0040,Beauty Item 0040,Beauty,42.24,24.92,0.41,0.29
+PROD0041,Beauty Item 0041,Beauty,68.34,27.34,0.6,0.28
+PROD0042,Home & Living Item 0042,Home & Living,61.51,44.29,0.28,0.24
+PROD0043,Footwear Item 0043,Footwear,62.01,23.56,0.62,0.25
+PROD0044,Footwear Item 0044,Footwear,185.76,94.74,0.49,0.21
+PROD0045,Home & Living Item 0045,Home & Living,91.27,49.29,0.46,0.29
+PROD0046,Sports Item 0046,Sports,44.39,20.86,0.53,0.11
+PROD0047,Footwear Item 0047,Footwear,144.43,88.1,0.39,0.24
+PROD0048,Home & Living Item 0048,Home & Living,96.14,35.57,0.63,0.1
+PROD0049,Home & Living Item 0049,Home & Living,60.55,36.94,0.39,0.24
+PROD0050,Home & Living Item 0050,Home & Living,120.87,88.24,0.27,0.26
+PROD0051,Footwear Item 0051,Footwear,119.28,51.29,0.57,0.21
+PROD0052,Clothing Item 0052,Clothing,61.19,43.44,0.29,0.17
+PROD0053,Footwear Item 0053,Footwear,46.14,20.3,0.56,0.27
+PROD0054,Sports Item 0054,Sports,142.4,71.2,0.5,0.28
+PROD0055,Sports Item 0055,Sports,136.99,97.26,0.29,0.09
+PROD0056,Home & Living Item 0056,Home & Living,70.19,32.29,0.54,0.12
+PROD0057,Beauty Item 0057,Beauty,25.42,13.22,0.48,0.26
+PROD0058,Accessories Item 0058,Accessories,50.31,33.71,0.33,0.22
+PROD0059,Sports Item 0059,Sports,76.4,37.44,0.51,0.21
+PROD0060,Footwear Item 0060,Footwear,104.31,74.06,0.29,0.27
+PROD0061,Home & Living Item 0061,Home & Living,136.85,86.22,0.37,0.24
+PROD0062,Accessories Item 0062,Accessories,85.04,49.32,0.42,0.2
+PROD0063,Accessories Item 0063,Accessories,72.45,47.82,0.34,0.17
+PROD0064,Footwear Item 0064,Footwear,190.18,116.01,0.39,0.11
+PROD0065,Accessories Item 0065,Accessories,54.38,31.0,0.43,0.15
+PROD0066,Footwear Item 0066,Footwear,151.36,107.47,0.29,0.22
+PROD0067,Clothing Item 0067,Clothing,47.62,32.38,0.32,0.08
+PROD0068,Accessories Item 0068,Accessories,58.26,33.79,0.42,0.21
+PROD0069,Beauty Item 0069,Beauty,52.71,21.08,0.6,0.27
+PROD0070,Home & Living Item 0070,Home & Living,75.93,31.13,0.59,0.17
+PROD0071,Beauty Item 0071,Beauty,65.25,25.45,0.61,0.17
+PROD0072,Sports Item 0072,Sports,81.55,36.7,0.55,0.09
+PROD0073,Sports Item 0073,Sports,66.61,42.63,0.36,0.2
+PROD0074,Beauty Item 0074,Beauty,52.12,38.57,0.26,0.1
+PROD0075,Accessories Item 0075,Accessories,80.95,48.57,0.4,0.14
+PROD0076,Clothing Item 0076,Clothing,54.02,37.27,0.31,0.19
+PROD0077,Footwear Item 0077,Footwear,66.48,36.56,0.45,0.15
+PROD0078,Accessories Item 0078,Accessories,83.84,33.54,0.6,0.24
+PROD0079,Footwear Item 0079,Footwear,67.68,39.25,0.42,0.09
+PROD0080,Sports Item 0080,Sports,42.1,21.05,0.5,0.14
+PROD0081,Home & Living Item 0081,Home & Living,97.71,72.31,0.26,0.3
+PROD0082,Beauty Item 0082,Beauty,20.0,7.0,0.65,0.3
+PROD0083,Clothing Item 0083,Clothing,25.2,11.59,0.54,0.2
+PROD0084,Accessories Item 0084,Accessories,45.9,33.05,0.28,0.13
+PROD0085,Accessories Item 0085,Accessories,53.78,27.97,0.48,0.29
+PROD0086,Clothing Item 0086,Clothing,82.15,35.32,0.57,0.31
+PROD0087,Home & Living Item 0087,Home & Living,45.63,19.16,0.58,0.27
+PROD0088,Accessories Item 0088,Accessories,42.05,26.49,0.37,0.26
+PROD0089,Sports Item 0089,Sports,40.38,27.05,0.33,0.23
+PROD0090,Home & Living Item 0090,Home & Living,99.94,36.98,0.63,0.11
+PROD0091,Beauty Item 0091,Beauty,39.11,23.47,0.4,0.18
+PROD0092,Beauty Item 0092,Beauty,19.38,13.18,0.32,0.23
+PROD0093,Footwear Item 0093,Footwear,85.42,36.73,0.57,0.31
+PROD0094,Home & Living Item 0094,Home & Living,56.47,20.89,0.63,0.17
+PROD0095,Accessories Item 0095,Accessories,33.53,14.42,0.57,0.09
+PROD0096,Sports Item 0096,Sports,59.98,21.59,0.64,0.28
+PROD0097,Clothing Item 0097,Clothing,60.58,43.01,0.29,0.13
+PROD0098,Home & Living Item 0098,Home & Living,101.77,59.03,0.42,0.22
+PROD0099,Home & Living Item 0099,Home & Living,113.39,71.44,0.37,0.14
+PROD0100,Clothing Item 0100,Clothing,80.73,44.4,0.45,0.22
+PROD0101,Footwear Item 0101,Footwear,191.81,107.41,0.44,0.18
+PROD0102,Footwear Item 0102,Footwear,44.77,33.13,0.26,0.12
+PROD0103,Accessories Item 0103,Accessories,84.89,46.69,0.45,0.21
+PROD0104,Sports Item 0104,Sports,40.92,26.19,0.36,0.31
+PROD0105,Sports Item 0105,Sports,41.5,15.36,0.63,0.19
+PROD0106,Footwear Item 0106,Footwear,188.1,107.22,0.43,0.29
+PROD0107,Clothing Item 0107,Clothing,91.09,34.61,0.62,0.3
+PROD0108,Accessories Item 0108,Accessories,82.14,57.5,0.3,0.25
+PROD0109,Sports Item 0109,Sports,60.91,42.03,0.31,0.14
+PROD0110,Footwear Item 0110,Footwear,106.03,48.77,0.54,0.12
+PROD0111,Clothing Item 0111,Clothing,72.51,28.28,0.61,0.26
+PROD0112,Home & Living Item 0112,Home & Living,48.0,20.64,0.57,0.09
+PROD0113,Home & Living Item 0113,Home & Living,30.82,14.49,0.53,0.18
+PROD0114,Beauty Item 0114,Beauty,25.83,15.24,0.41,0.11
+PROD0115,Accessories Item 0115,Accessories,74.34,31.22,0.58,0.3
+PROD0116,Footwear Item 0116,Footwear,141.52,79.25,0.44,0.14
+PROD0117,Accessories Item 0117,Accessories,65.2,46.29,0.29,0.24
+PROD0118,Clothing Item 0118,Clothing,33.04,17.18,0.48,0.11
+PROD0119,Beauty Item 0119,Beauty,20.14,12.89,0.36,0.11
+PROD0120,Home & Living Item 0120,Home & Living,118.52,81.78,0.31,0.2
+PROD0121,Clothing Item 0121,Clothing,86.37,44.05,0.49,0.21
+PROD0122,Home & Living Item 0122,Home & Living,74.99,44.99,0.4,0.18
+PROD0123,Clothing Item 0123,Clothing,40.48,29.96,0.26,0.13
+PROD0124,Beauty Item 0124,Beauty,20.18,10.7,0.47,0.21
+PROD0125,Sports Item 0125,Sports,126.04,76.88,0.39,0.3
+PROD0126,Sports Item 0126,Sports,92.2,33.19,0.64,0.12
+PROD0127,Accessories Item 0127,Accessories,49.21,33.95,0.31,0.1
+PROD0128,Clothing Item 0128,Clothing,28.95,16.79,0.42,0.27
+PROD0129,Accessories Item 0129,Accessories,45.01,31.06,0.31,0.21
+PROD0130,Home & Living Item 0130,Home & Living,126.57,53.16,0.58,0.18
+PROD0131,Beauty Item 0131,Beauty,36.76,23.89,0.35,0.29
+PROD0132,Home & Living Item 0132,Home & Living,31.95,13.42,0.58,0.14
+PROD0133,Clothing Item 0133,Clothing,70.11,30.15,0.57,0.32
+PROD0134,Accessories Item 0134,Accessories,24.1,10.6,0.56,0.13
+PROD0135,Beauty Item 0135,Beauty,31.76,12.07,0.62,0.15
+PROD0136,Accessories Item 0136,Accessories,78.97,49.75,0.37,0.09
+PROD0137,Home & Living Item 0137,Home & Living,99.54,60.72,0.39,0.31
+PROD0138,Home & Living Item 0138,Home & Living,126.57,69.61,0.45,0.19
+PROD0139,Home & Living Item 0139,Home & Living,121.16,48.46,0.6,0.3
+PROD0140,Home & Living Item 0140,Home & Living,34.26,15.42,0.55,0.26
+PROD0141,Beauty Item 0141,Beauty,60.76,40.1,0.34,0.23
+PROD0142,Sports Item 0142,Sports,114.73,59.66,0.48,0.08
+PROD0143,Beauty Item 0143,Beauty,15.9,5.72,0.64,0.31
+PROD0144,Beauty Item 0144,Beauty,34.94,15.72,0.55,0.1
+PROD0145,Clothing Item 0145,Clothing,70.32,28.13,0.6,0.17
+PROD0146,Accessories Item 0146,Accessories,80.98,52.64,0.35,0.17
+PROD0147,Home & Living Item 0147,Home & Living,133.32,71.99,0.46,0.31
+PROD0148,Beauty Item 0148,Beauty,56.54,25.44,0.55,0.22
+PROD0149,Beauty Item 0149,Beauty,65.53,31.45,0.52,0.22
+PROD0150,Beauty Item 0150,Beauty,24.66,12.58,0.49,0.28
+PROD0151,Clothing Item 0151,Clothing,30.88,17.29,0.44,0.13
+PROD0152,Accessories Item 0152,Accessories,36.62,20.51,0.44,0.27
+PROD0153,Accessories Item 0153,Accessories,85.5,37.62,0.56,0.17
+PROD0154,Sports Item 0154,Sports,137.38,100.29,0.27,0.18
+PROD0155,Beauty Item 0155,Beauty,35.29,20.82,0.41,0.09
+PROD0156,Sports Item 0156,Sports,96.17,40.39,0.58,0.27
+PROD0157,Sports Item 0157,Sports,101.12,58.65,0.42,0.27
+PROD0158,Home & Living Item 0158,Home & Living,50.83,26.94,0.47,0.12
+PROD0159,Beauty Item 0159,Beauty,20.79,14.35,0.31,0.08
+PROD0160,Accessories Item 0160,Accessories,31.12,13.69,0.56,0.17
+PROD0161,Home & Living Item 0161,Home & Living,33.22,13.62,0.59,0.23
+PROD0162,Home & Living Item 0162,Home & Living,81.32,45.54,0.44,0.3
+PROD0163,Beauty Item 0163,Beauty,20.18,10.49,0.48,0.12
+PROD0164,Accessories Item 0164,Accessories,18.66,13.25,0.29,0.22
+PROD0165,Footwear Item 0165,Footwear,116.35,41.89,0.64,0.17
+PROD0166,Clothing Item 0166,Clothing,87.15,33.12,0.62,0.21
+PROD0167,Footwear Item 0167,Footwear,62.12,44.11,0.29,0.16
+PROD0168,Clothing Item 0168,Clothing,45.57,26.43,0.42,0.2
+PROD0169,Accessories Item 0169,Accessories,66.47,32.57,0.51,0.24
+PROD0170,Beauty Item 0170,Beauty,69.97,25.19,0.64,0.11
+PROD0171,Clothing Item 0171,Clothing,49.46,37.09,0.25,0.16
+PROD0172,Beauty Item 0172,Beauty,19.11,10.89,0.43,0.22
+PROD0173,Footwear Item 0173,Footwear,87.72,50.0,0.43,0.18
+PROD0174,Clothing Item 0174,Clothing,69.83,51.67,0.26,0.21
+PROD0175,Footwear Item 0175,Footwear,69.53,48.67,0.3,0.2
+PROD0176,Home & Living Item 0176,Home & Living,51.13,36.81,0.28,0.12
+PROD0177,Accessories Item 0177,Accessories,31.44,19.49,0.38,0.22
+PROD0178,Clothing Item 0178,Clothing,60.67,36.4,0.4,0.17
+PROD0179,Footwear Item 0179,Footwear,56.4,21.43,0.62,0.22
+PROD0180,Sports Item 0180,Sports,57.83,25.45,0.56,0.09
+PROD0181,Home & Living Item 0181,Home & Living,68.65,29.52,0.57,0.27
+PROD0182,Accessories Item 0182,Accessories,22.63,14.03,0.38,0.24
+PROD0183,Clothing Item 0183,Clothing,78.37,31.35,0.6,0.09
+PROD0184,Sports Item 0184,Sports,135.08,98.61,0.27,0.29
+PROD0185,Footwear Item 0185,Footwear,196.58,96.32,0.51,0.31
+PROD0186,Home & Living Item 0186,Home & Living,126.59,89.88,0.29,0.25
+PROD0187,Clothing Item 0187,Clothing,104.59,58.57,0.44,0.24
+PROD0188,Footwear Item 0188,Footwear,148.41,60.85,0.59,0.17
+PROD0189,Home & Living Item 0189,Home & Living,100.23,39.09,0.61,0.2
+PROD0190,Beauty Item 0190,Beauty,23.73,13.29,0.44,0.16
+PROD0191,Accessories Item 0191,Accessories,42.93,21.89,0.49,0.18
+PROD0192,Sports Item 0192,Sports,82.92,39.8,0.52,0.29
+PROD0193,Sports Item 0193,Sports,95.75,65.11,0.32,0.17
+PROD0194,Accessories Item 0194,Accessories,80.84,39.61,0.51,0.22
+PROD0195,Accessories Item 0195,Accessories,33.68,13.14,0.61,0.12
+PROD0196,Sports Item 0196,Sports,92.93,35.31,0.62,0.26
+PROD0197,Clothing Item 0197,Clothing,92.45,59.17,0.36,0.18
+PROD0198,Sports Item 0198,Sports,59.63,34.59,0.42,0.23
+PROD0199,Sports Item 0199,Sports,40.52,27.55,0.32,0.12
+PROD0200,Footwear Item 0200,Footwear,43.07,18.52,0.57,0.16
